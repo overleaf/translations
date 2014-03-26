@@ -1,0 +1,14 @@
+{
+  "name": "translations",
+  "version": "0.0.0",
+  "description": "translations for ShareLaTeX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "i18next": "~1.7.1"
+  }
+}
