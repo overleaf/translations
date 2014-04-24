@@ -9,6 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "i18next": "~1.7.1"
+    "i18next": "~1.7.1",
+    "onesky": "~0.1.5"
   }
 }
