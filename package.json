@@ -1,6 +1,6 @@
 {
   "name": "translations-sharelatex",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "translations for ShareLaTeX",
   "main": "index.js",
   "scripts": {
