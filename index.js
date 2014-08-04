@@ -17,12 +17,13 @@ module.exports = {
 			}
 		)
 		
-		var domainSetLangMiddlewear = function(req, res, next) {
+		var setLangBasedOnDomainMiddlewear = function(req, res, next) {
 			var host, lang, subdomain;
 			host = req.headers.host;
 			subdomain = host.slice(0, host.indexOf("."));
-			lang = subdomainLang[subdomain];
-			if (req.originalUrl.indexOf("setLng") === -1 && (lang != null)) {
+
+			if (req.originalUrl.indexOf("setLng") === -1 && (typeof subdomainLang !== "undefined" && subdomainLang !== null ? subdomainLang[subdomain] : void 0)) {
+				lang = subdomainLang[subdomain];
 				req.i18n.setLng(lang);
 			}
 			return next();
@@ -30,13 +31,8 @@ module.exports = {
 
 		return {
 			expressMiddlewear: i18n.handle,
-			domainSetLangMiddlewear:domainSetLangMiddlewear,
+			setLangBasedOnDomainMiddlewear:setLangBasedOnDomainMiddlewear,
 			i18n:i18n
 		}
 	}
 }
-
-
-
-
-
