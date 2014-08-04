@@ -7,7 +7,8 @@ i18n.init(
 		saveMissing: true,
 		resSetPath: __dirname+'/locales/missing-__lng__.json',
 		sendMissingTo: 'fallback',
-		fallbackLng:"en"
+		fallbackLng:"en",
+		detectLngFromHeaders:false
 	}
 )
 
@@ -20,5 +21,6 @@ module.exports = {
 	      		next()
 
       		}
-      }
+      },
+      i18n:i18n
 }
