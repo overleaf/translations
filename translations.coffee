@@ -5,7 +5,6 @@ _ = require("underscore")
 module.exports = 
 
 	setup: (options) ->
-
 		subdomainLang = options?.subdomainLang || {}
 
 		i18n.init
@@ -13,16 +12,16 @@ module.exports =
 			saveMissing: true
 			resSetPath: __dirname + "/locales/missing-__lng__.json"
 			sendMissingTo: "fallback"
-			fallbackLng: options?.defaultLng || "en-US"
+			fallbackLng: options?.defaultLng || "en"
 			detectLngFromHeaders: false
 			useCookie: false
-			preload: _.values(subdomainLang)
+			preload: _.pluck(_.values(subdomainLang), "lngCode")
 
 		setLangBasedOnDomainMiddlewear = (req, res, next) ->
 
 			host = req.headers.host
 			subdomain = host.slice(0, host.indexOf("."))
-			lang = options?.subdomainLang?[subdomain]
+			lang = options?.subdomainLang?[subdomain]?.lngCode
 			if req.originalUrl.indexOf("setLng") == -1 and lang?
 				req.i18n.setLng lang
 			next()
