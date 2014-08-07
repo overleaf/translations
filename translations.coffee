@@ -20,7 +20,11 @@ module.exports =
 		setLangBasedOnDomainMiddlewear = (req, res, next) ->
 
 			host = req.headers.host
+			if !host?
+				return next()
 			subdomain = host.slice(0, host.indexOf("."))
+			if !subdomain?
+				return next()
 			lang = options?.subdomainLang?[subdomain]?.lngCode
 			if req.originalUrl.indexOf("setLng") == -1 and lang?
 				req.i18n.setLng lang
