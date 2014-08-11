@@ -1,6 +1,6 @@
 i18n = require("i18next")
 _ = require("underscore")
-
+path = require("path")
 
 module.exports = 
 
@@ -8,9 +8,9 @@ module.exports =
 		subdomainLang = options?.subdomainLang || {}
 		availableLngs = _.pluck(_.values(subdomainLang), "lngCode")
 		i18n.init
-			resGetPath: __dirname + "/locales/__lng__.json"
+			resGetPath: path.resolve(__dirname,"../../", "locales/__lng__.json")
 			saveMissing: true
-			resSetPath: __dirname + "/locales/missing-__lng__.json"
+			resGetPath: path.resolve(__dirname,"../../", "locales/missing-__lng__.json")
 			sendMissingTo: "fallback"
 			fallbackLng: options?.defaultLng || "en"
 			detectLngFromHeaders: true
