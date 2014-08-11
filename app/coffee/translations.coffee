@@ -6,17 +6,17 @@ module.exports =
 
 	setup: (options) ->
 		subdomainLang = options?.subdomainLang || {}
-
+		availableLngs = _.pluck(_.values(subdomainLang), "lngCode")
 		i18n.init
 			resGetPath: __dirname + "/locales/__lng__.json"
 			saveMissing: true
 			resSetPath: __dirname + "/locales/missing-__lng__.json"
 			sendMissingTo: "fallback"
 			fallbackLng: options?.defaultLng || "en"
-			detectLngFromHeaders: false
+			detectLngFromHeaders: true
 			useCookie: false
-			preload: _.pluck(_.values(subdomainLang), "lngCode")
-
+			preload: availableLngs
+			supportedLngs: availableLngs
 		setLangBasedOnDomainMiddlewear = (req, res, next) ->
 
 			host = req.headers.host
@@ -28,6 +28,8 @@ module.exports =
 			lang = options?.subdomainLang?[subdomain]?.lngCode
 			if req.originalUrl.indexOf("setLng") == -1 and lang?
 				req.i18n.setLng lang
+			if req.language != req.lng
+				req.showUserOtherLng = req.language
 			next()
 
 		expressMiddlewear: i18n.handle

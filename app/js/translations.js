@@ -7,17 +7,19 @@
 
   module.exports = {
     setup: function(options) {
-      var setLangBasedOnDomainMiddlewear, subdomainLang;
+      var availableLngs, setLangBasedOnDomainMiddlewear, subdomainLang;
       subdomainLang = (options != null ? options.subdomainLang : void 0) || {};
+      availableLngs = _.pluck(_.values(subdomainLang), "lngCode");
       i18n.init({
         resGetPath: __dirname + "/locales/__lng__.json",
         saveMissing: true,
         resSetPath: __dirname + "/locales/missing-__lng__.json",
         sendMissingTo: "fallback",
         fallbackLng: (options != null ? options.defaultLng : void 0) || "en",
-        detectLngFromHeaders: false,
+        detectLngFromHeaders: true,
         useCookie: false,
-        preload: _.pluck(_.values(subdomainLang), "lngCode")
+        preload: availableLngs,
+        supportedLngs: availableLngs
       });
       setLangBasedOnDomainMiddlewear = function(req, res, next) {
         var host, lang, subdomain, _ref, _ref1;
@@ -32,6 +34,9 @@
         lang = options != null ? (_ref = options.subdomainLang) != null ? (_ref1 = _ref[subdomain]) != null ? _ref1.lngCode : void 0 : void 0 : void 0;
         if (req.originalUrl.indexOf("setLng") === -1 && (lang != null)) {
           req.i18n.setLng(lang);
+        }
+        if (req.language !== req.lng) {
+          req.showUserOtherLng = req.language;
         }
         return next();
       };
