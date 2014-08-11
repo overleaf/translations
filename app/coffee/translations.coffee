@@ -10,7 +10,7 @@ module.exports =
 		i18n.init
 			resGetPath: path.resolve(__dirname,"../../", "locales/__lng__.json")
 			saveMissing: true
-			resGetPath: path.resolve(__dirname,"../../", "locales/missing-__lng__.json")
+			resSetPath: path.resolve(__dirname,"../../", "locales/missing-__lng__.json")
 			sendMissingTo: "fallback"
 			fallbackLng: options?.defaultLng || "en"
 			detectLngFromHeaders: true
