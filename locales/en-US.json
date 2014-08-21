@@ -1,6 +1,5 @@
 {
   "projects": "Projects",
-  "view_all": "View All",
   "upload_project": "Upload Project",
   "all_projects": "All projects",
   "your_projects": "Your Projects",
@@ -10,7 +9,6 @@
   "new_folder": "New Folder",
   "create_your_first_project": "Create your first project!",
   "complete": "Complete",
-  "profile_complete_percentage": "Your profile is {{percentComplete}}% complete",
   "on_free_sl": "You are using the free version of ShareLaTeX",
   "upgrade": "Upgrade",
   "or_unlock_features_bonus": "or unlock some free bonus features by",
@@ -188,7 +186,7 @@
   "generic_something_went_wrong": "Sorry, something went wrong :(",
   "restoring": "Restoring",
   "restore_to_before_these_changes": "Restore to before these changes",
-  "profile_complete_percentage_test": "Your profile is __percentval__% complete",
+  "profile_complete_percentage": "Your profile is __percentval__% complete",
   "file_has_been_deleted": "__filename__ has been deleted",
   "sure_you_want_to_restore_before": "Are you sure you want to restore __filename__ to before the changes on __date__?",
   "rename_project": "Rename Project",

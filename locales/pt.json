@@ -1,6 +1,5 @@
 {
   "projects": "Projetos",
-  "view_all": "Ver Todos",
   "upload_project": "Atualizar Projeto",
   "all_projects": "Todos Projetos",
   "your_projects": "Seus Projetos",
@@ -10,7 +9,6 @@
   "new_folder": "Nova Pasta",
   "create_your_first_project": "Crie seu primeiro projeto",
   "complete": "Completo",
-  "profile_complete_percentage": "Seu perfil está {{percentComplete}}% completo",
   "on_free_sl": "Você está usando a versão gratuíta do ShareLaTeX",
   "upgrade": "Aprimorar",
   "or_unlock_features_bonus": "ou desbloqueie alguns recursos grátis por",
@@ -188,7 +186,7 @@
   "generic_something_went_wrong": "Desculpe, algo saiu errado :(",
   "restoring": "Restaurando",
   "restore_to_before_these_changes": "Restaurar para antes dessas alterações",
-  "profile_complete_percentage_test": "Seu perfil está __percentval__% completo",
+  "profile_complete_percentage": "Seu perfil está __percentval__% completo",
   "file_has_been_deleted": "__filename_ foi excluído",
   "sure_you_want_to_restore_before": "Você tem certeza que deseja restaurar __filenname__ para antes das alterações em __date__?",
   "rename_project": "Renomear Projeto",

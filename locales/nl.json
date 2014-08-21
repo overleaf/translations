@@ -1,6 +1,5 @@
 {
   "projects": "Projecten",
-  "view_all": "Alle Bekijken",
   "upload_project": "Project Uploaden",
   "all_projects": "Alle projecten",
   "your_projects": "Jouw Projecten",
@@ -10,7 +9,6 @@
   "new_folder": "Nieuwe Map",
   "create_your_first_project": "Maak je eerste project!",
   "complete": "Klaar",
-  "profile_complete_percentage": "Je profiel is {{percentComplete}}% volledig",
   "on_free_sl": "Je gebruikt de gratis versie van ShareLaTeX",
   "upgrade": "Upgraden",
   "or_unlock_features_bonus": "of verkrijg bepaalde bonusfuncties door",
