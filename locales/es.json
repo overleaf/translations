@@ -137,7 +137,6 @@
   "off": "Apagado",
   "auto_complete": "Autocompletar",
   "theme": "Tema",
-  "keybindigns": "Teclas de acceso rápido",
   "font_size": "Tamaño de la tipografía",
   "pdf_viewer": "Visor de PDF",
   "built_in": "Integrado",
@@ -376,7 +375,6 @@
   "download_zip_file": "Descargar archivo .zip",
   "account_settings": "Opciones de la cuenta",
   "search_projects": "Buscar proyectos",
-  "actions:": "Acciones",
   "clone_project": "Clonar proyecto",
   "delete_project": "Eliminar proyecto",
   "download_zip": "Descargar Zip",
@@ -434,7 +432,6 @@
   "unpublish": "Anular publicación",
   "re-publish": "Re-publicar",
   "problem_publishing": "Hay un problema con nuestro servicio de publicación, por favor intenta en unos pocos minutos más.",
-  "working": "Trabajando",
   "hotkeys": "Teclas de acceso rápido",
   "editor_tour": "Tour del editor",
   "saving": "Guardando",
@@ -479,6 +476,5 @@
   "about_us": "Quiénes somos",
   "meet_team_behind_sl": "Conoce al equipo detrás de tu editor de LaTeX online  favorito",
   "technologies": "Tecnologías",
-  "attribution": "Atribución",
   "thanks_to_open_source_components": "Solo hemos sido capaces de crear ShareLaTeX gracias a las muchas tecnologías de software de código libre y abierto que existen. Aquí hay algunas de las que hemos estado usando y nos gustaría dar las gracias a:"
 }
