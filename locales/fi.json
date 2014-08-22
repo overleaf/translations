@@ -1,5 +1,11 @@
 {
   "projects": "Projektit",
   "password_reset": "Nollaa salasana",
-  "account_settings": "Tilin asetukset"
+  "account_settings": "Tilin asetukset",
+  "clone_project": "Monista projekti",
+  "delete_project": "Poista projekti",
+  "download_zip": "Lataa zip-tiedostona",
+  "new_project": "Uusi projekti",
+  "blank_project": "Tyhjä projekti",
+  "example_project": "Esimerkkiprojekti"
 }
