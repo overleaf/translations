@@ -380,6 +380,8 @@
   "annual_billing_enabled": "Facturation annuelle activée",
   "move_to_annual_billing_now": "Opter pour une facturation annuelle dès maintenant",
   "change_to_annual_billing_and_save": "Obtenez __percentage__ de réduction grâce à la facturation annuelle. Si vous faites ce choix dès maintenant vous économiserez __yearlySaving__ par an.",
+  "missing_template_question": "Un modèle qui manque ?",
+  "email_us": "Envoyez-nous un email",
   "account_settings": "Paramètres du compte",
   "search_projects": "Rechercher un projet",
   "clone_project": "Dupliquer un projet",
