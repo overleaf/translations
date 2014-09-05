@@ -381,6 +381,7 @@
   "move_to_annual_billing_now": "Opter pour une facturation annuelle dès maintenant",
   "change_to_annual_billing_and_save": "Obtenez __percentage__ de réduction grâce à la facturation annuelle. Si vous faites ce choix dès maintenant vous économiserez __yearlySaving__ par an.",
   "missing_template_question": "Un modèle qui manque ?",
+  "tell_us_about_the_template": "S'il manque un modèle, vous pouvez soit nous en envoyer une copie, une URL vers le modèle, ou nous indiquer où nous pouvons le trouver. Merci de nous donner quelques informations complémentaires pour la description du modèle.",
   "email_us": "Envoyez-nous un email",
   "account_settings": "Paramètres du compte",
   "search_projects": "Rechercher un projet",
