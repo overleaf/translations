@@ -1,0 +1,14 @@
+{
+  "projects": "Projekty",
+  "account_settings": "Ustawienia konta",
+  "search_projects": "Przeszukaj projekty",
+  "clone_project": "Kopiuj projekt",
+  "delete_project": "Usuń projekt",
+  "download_zip": "Pobierz jako ZIP",
+  "new_project": "Nowy projekt",
+  "blank_project": "Pusty projekt",
+  "from_template": "Z szablonu",
+  "cv_or_resume": "CV lub życiorys",
+  "presentation": "Prezentacja",
+  "project_name": "Nazwa projektu"
+}
