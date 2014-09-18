@@ -1,0 +1,22 @@
+{
+  "projects": "プロジェクト",
+  "account_settings": "アカウント設定",
+  "search_projects": "プロジェクトの検索",
+  "clone_project": "プロジェクトの複製",
+  "delete_project": "プロジェクトの削除",
+  "new_project": "新規のプロジェクト",
+  "blank_project": "空のプロジェクト",
+  "cv_or_resume": "履歴書",
+  "presentation": "プレゼンテーション",
+  "sharelatex_is_open_source": "ShareLaTeXはオープンソースです",
+  "privacy_policy": "プライバシーポリシー",
+  "download": "ダウンロード",
+  "read_only": "読み込み専用",
+  "publish": "公開",
+  "saving": "保存中",
+  "cancel": "取消",
+  "project_settings": "プロジェクトの設定",
+  "project_name": "プロジェクトの名前",
+  "help": "ヘルプ",
+  "dropbox_sync": "Dropboxとの同期"
+}
