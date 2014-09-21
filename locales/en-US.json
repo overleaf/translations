@@ -383,6 +383,7 @@
   "missing_template_question": "Missing Template?",
   "tell_us_about_the_template": "If we are missing a template please either: Send us a copy of the template, a ShareLaTeX url to the template or let us know where we can find the template. Also please let us know a little about the template for the description.",
   "email_us": "Email us",
+  "this_project_is_public_read_only": "This project is public and can be viewed but not edited by anyone with the URL",
   "account_settings": "Account Settings",
   "search_projects": "Search projects",
   "clone_project": "Clone Project",
