@@ -383,6 +383,7 @@
   "missing_template_question": "¿Falta una plantilla?",
   "tell_us_about_the_template": "Si estamos olvidando una plantilla, por favor: Envíanos una copia de la plantilla, una dirección url de la plantilla en ShareLaTeX o dinos dónde podemos encontrar la plantilla. Además, cuéntanos un poco sobre la plantilla para su descripción, por favor.",
   "email_us": "Envíanos un correo electrónico",
+  "this_project_is_public_read_only": "Este proyecto es público y puede ser visto (pero no editado) por cualquiera que tenga la dirección URL",
   "account_settings": "Opciones de la cuenta",
   "search_projects": "Buscar proyectos",
   "clone_project": "Clonar proyecto",

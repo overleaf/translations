@@ -166,6 +166,7 @@
   "anonymous": "Anonym",
   "generic_something_went_wrong": "Beklager, noget gik galt :(",
   "restoring": "Gendanner",
+  "restore_to_before_these_changes": "Gendanner til før disse ændringer",
   "profile_complete_percentage": "Din profil er __percentval__% færdig",
   "file_has_been_deleted": "__filename__ blev slettet",
   "sure_you_want_to_restore_before": "Er du sikker på du vil gendanne __filename__ til før ændringerne den __date__?",
