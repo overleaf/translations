@@ -384,6 +384,7 @@
   "tell_us_about_the_template": "S'il manque un modèle, vous pouvez soit nous en envoyer une copie, une URL vers le modèle, ou nous indiquer où nous pouvons le trouver. Merci de nous donner quelques informations complémentaires pour la description du modèle.",
   "email_us": "Envoyez-nous un email",
   "this_project_is_public_read_only": "Ce projet est public et peut être vu, mais non modifié, par toute personne possédant l'URL",
+  "tr": "Turque",
   "account_settings": "Paramètres du compte",
   "search_projects": "Rechercher un projet",
   "clone_project": "Dupliquer un projet",
