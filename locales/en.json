@@ -390,6 +390,7 @@
   "hint_press_and_hold_control_key": "Hint: Press and hold the Control (Ctrl) key to select multiple files",
   "upload_failed_sorry": "Upload failed, sorry :(",
   "inserting_files": "Inserting file...",
+  "password_reset_token_expired": "Your password reset token has expired. Please request a new password reset email and follow the link there.",
   "account_settings": "Account Settings",
   "search_projects": "Search projects",
   "clone_project": "Clone Project",

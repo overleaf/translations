@@ -493,7 +493,7 @@
   "export_project_to_github": "Projeyi GitHub'a yükle",
   "github_validation_check": "Lütfen, depo adının doğru yazıldığından ve yeni bir depo oluşturma yetkinizin olduğundan emin olunuz.",
   "repository_name": "Depo Adı",
-  "optional": "isteğe bağlı",
+  "optional": "İsteğe bağlı",
   "github_public_description": "Herkes bu depoyu görüntüleyebilir. Kimlerin işlem yapabileceğini siz seçersiniz.",
   "github_private_description": "Kimlerin bu depoyu görüntüleyebileceğini ve işlem yapabileceğini siz belirlersiniz. (Yükseltilmiş GitHub hesabı gerektirir).",
   "github_commit_message_placeholder": "ShareLaTeX üzerinden yaptığınız değişiklikler için yorum giriniz...",
