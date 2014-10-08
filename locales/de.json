@@ -463,5 +463,9 @@
   "sign_up_now": "Jetzt registrieren",
   "annual": "Jährlich",
   "half_price_student": "Studenten-Tarif zum halben Preis",
-  "about_us": "Über uns"
+  "about_us": "Über uns",
+  "import_from_github": "Von GitHub importieren",
+  "github_sync_error": "Entschuldigung, es gab ein Problem bei der Kommunikation mit unserem GitHub-Dienst. Bitte versuche es später erneut.",
+  "loading_github_repositories": "Deine GitHub-Repositories werden geladen",
+  "select_github_repository": "Wähle ein GitHub-Repository, das du in ShareLaTeX importieren möchtest."
 }
