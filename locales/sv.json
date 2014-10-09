@@ -389,6 +389,7 @@
   "hint_press_and_hold_control_key": "Tips: Tryck och håll nere Control (Ctrl) tangenten för att välja flera filer",
   "upload_failed_sorry": "Uppladdningen misslyckades :(",
   "inserting_files": "Importerar fil...",
+  "password_reset_token_expired": "Lösenordsåterställningen är för gammal. Vänligen begär en ny lösenordsåterställning och följ länken i e-postmeddelandet.",
   "account_settings": "Kontoinställningar",
   "search_projects": "Sök projekt",
   "clone_project": "Klona projekt",

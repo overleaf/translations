@@ -389,6 +389,7 @@
   "hint_press_and_hold_control_key": "İpucu: Kontrol tuşuna (Ctrl) basılı tutarak çoklu seçim yapabilirsiniz.",
   "upload_failed_sorry": "Yükleme başarısız, özür dileriz :(",
   "inserting_files": "Dosya yükleniyor...",
+  "password_reset_token_expired": "Şifrenizi yeniden tanımlamanız için sağlanan iznin süresi geçti. Lütfen tekrar şifre sıfırlama talep edin ve e-posta ile gelen bağlantıdan şifrenizi yeniden tanımlayın.",
   "account_settings": "Hesap Ayarları",
   "search_projects": "Projelerde Ara",
   "clone_project": "Projenin Kopyasını Oluştur",
