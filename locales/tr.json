@@ -393,6 +393,7 @@
   "merge_project_with_github": "Projeleri GitHub ile birleştir",
   "pull_github_changes_into_sharelatex": "GitHub'daki değişiklikleri ShareLaTeX'e aktar",
   "push_sharelatex_changes_to_github": "ShareLaTeX'deki değişiklikleri GitHub'a aktar",
+  "features": "Özellikler",
   "account_settings": "Hesap Ayarları",
   "search_projects": "Projelerde Ara",
   "clone_project": "Projenin Kopyasını Oluştur",
