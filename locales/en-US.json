@@ -298,7 +298,7 @@
   "your_settings": "Your settings",
   "maintenance": "Maintenance",
   "to_many_login_requests_2_mins": "This account has had too many login requests. Please wait 2 minutes before trying to log in again",
-  "email_or_password_wrong_try_again": "Your email or password were incorrect. Please try again",
+  "email_or_password_wrong_try_again": "Your email or password is incorrect. Please try again",
   "rate_limit_hit_wait": "Rate limit hit. Please wait a while before retrying",
   "problem_changing_email_address": "There was a problem changing your email address. Please try again in a few moments. If the problem continues please contact us.",
   "single_version_easy_collab_blurb": "ShareLaTeX makes sure that you're always up to date with your collaborators and what they are doing. There is only a single master version of each document which everyone has access to. It's impossible to make conflicting changes, and you don't have to wait for your colleagues to send you the latest draft before you can keep working.",
