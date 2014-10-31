@@ -400,6 +400,7 @@
   "upgrade_for_faster_compiles": "Daha hızlı derlemek ve derlemedeki süre aşımı limitini arttırmak için hesabınızı yükseltin",
   "free_accounts_have_timeout_upgrade_to_increase": "Ücretsiz hesaplar sadece bir dakikalık süre aşımı limitine sahiptir. Bunu arttırmak için hesabınızı yükseltin.",
   "learn_how_to_make_documents_compile_quickly": "Dökümanınızın nasıl daha hızlı derlenebileceği hakkında bilgi edinin",
+  "zh-CN": "Çince",
   "account_settings": "Hesap Ayarları",
   "search_projects": "Projelerde Ara",
   "clone_project": "Projenin Kopyasını Oluştur",
