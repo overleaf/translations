@@ -12,5 +12,5 @@ onesky.string.output platformId:"25049", (err, r)->
 
 	fs.createReadStream("./locales/en-GB.json").pipe(fs.createWriteStream("./locales/en-US.json"))
 	fs.createReadStream("./locales/en-GB.json").pipe(fs.createWriteStream("./locales/en.json"))
-        fs.createReadStream("./locales/zh-CN.json").pipe(fs.createWriteStream("./locales/cn.json"))
+	fs.createReadStream("./locales/zh-CN.json").pipe(fs.createWriteStream("./locales/cn.json"))
 
