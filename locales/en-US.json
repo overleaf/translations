@@ -402,6 +402,7 @@
   "free_accounts_have_timeout_upgrade_to_increase": "Free accounts have a one minute timeout. Upgrade to increase your timeout limit.",
   "learn_how_to_make_documents_compile_quickly": "Learn how to make your document compile more quickly",
   "zh-CN": "Chinese",
+  "cn": "Chinese (Simplified)",
   "account_settings": "Account Settings",
   "search_projects": "Search projects",
   "clone_project": "Clone Project",
