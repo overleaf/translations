@@ -143,7 +143,7 @@
   "server_error": "服务器错误",
   "somthing_went_wrong_compiling": "抱歉，出错了，您的项目无法编译。请在几分钟后再试。",
   "timedout": "超时",
-  "proj_timed_out_reason": "抱歉，您的编译超时。原因可能是存在大量高分辨率的图像，或者程序过于复杂。请尝试精简您的文档，或联系相关支持部门获得帮助。",
+  "proj_timed_out_reason": "抱歉，您的编译超时。原因可能是存在大量高分辨率的图像，或者程序过于复杂。",
   "no_errors_good_job": "没有错误，好样的！",
   "compile_error": "编译错误",
   "generic_failed_compile_message": "抱歉，由于一些原因，您的LaTeX代码无法编译。更多细节请检查下面报出的错误信息，或查看原始日志",
