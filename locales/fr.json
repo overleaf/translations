@@ -403,6 +403,8 @@
   "learn_how_to_make_documents_compile_quickly": "Apprenez comment compiler vos documents plus rapidement",
   "zh-CN": "Chinois",
   "cn": "Chinois (simplifié)",
+  "sync_to_github": "Synchroniser avec GitHub",
+  "sync_to_dropbox_and_github": "Synchroniser avec Dropbox et GitHub",
   "account_settings": "Paramètres du compte",
   "search_projects": "Rechercher un projet",
   "clone_project": "Dupliquer un projet",
