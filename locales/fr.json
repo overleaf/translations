@@ -279,7 +279,7 @@
   "restore_to_any_older_version": "Restaurer une version plus ancienne",
   "work_from_anywhere": "Travailler depuis n'importe où",
   "acces_work_from_anywhere": "Accéder à votre travail depuis n'importe où dans le monde",
-  "work_offline_and_sync_with_dropbox": "Travailler hors ligne et synchroniser vos fichiers via Dropbox",
+  "work_offline_and_sync_with_dropbox": "Travailler hors ligne et synchroniser vos fichiers via Dropbox et GitHub",
   "over": "Plus de",
   "view_templates": "Voir les modèles",
   "nothing_to_install_ready_to_go": "Il n'y a rien de compliqué ou de difficile à installer, vous pouvez __start_now__, même si vous débutez totalement. ShareLaTeX inclut un environnement LaTeX complet et prêt à l'emploi, qui fonctionne sur nos serveurs.",
