@@ -317,7 +317,7 @@
   "this_project_will_appear_in_your_dropbox_folder_at": "此项目将显示在您的Dropbox的目录 ",
   "member_of_group_subscription": "您是由__admin_email__管理下的团体认购中的一员。请联系他们来管理您的认购。\n",
   "about_henry_oswald": "是居住在伦敦的一名软件工程师。他构建了SharaLaTeX的原型，并且一直负责构建一个稳定并具有上升空间到平台。Henry是测试驱动开发的强烈拥护者，并且督促我们保持ShareLaTeX代码始终整洁且易于维护。",
-  "about_james_allen": "拥有理论物理学博士学位并且对LaTeX充满热情。他开发了最早的在线LaTeX编辑器中的一个，ScribTeX，并且在新技术开发中起了很大作用。正是有了这些新技术，ShareLaTeX才得以问世。",
+  "about_james_allen": "拥有理论物理学博士学位并且对LaTeX充满热情。他开发了最早的在线LaTeX编辑器中的一个，ScribTeX，并且在新技术开发中起了很大作用。正是有了这些新技术，ShareLaTeX才得以面世。",
   "two_strong_principles_behind_sl": "我们关于ShareLaTeX的工作背后有两个非常强烈的推动原则：",
   "want_to_improve_workflow_of_as_many_people_as_possible": "我们想要完善尽可能多的人的工作流程",
   "detail_on_improve_peoples_workflow": "LaTeX一向以极其难用著称，且非常难以合作使用。 我们相信我们已经研发了一些非常有效的方案来帮助人们解决困难，并且我们保证ShareLaTeX会对尽可能多的人开放。 我们一直尝试保持公道的价格，并且公布了ShareLaTeX的大部分的代码做为开源代码。",
