@@ -90,7 +90,7 @@
   "password_has_been_reset": "Dit kodeord er blevet nulstillet",
   "login_here": "Log ind her",
   "set_new_password": "Sæt nyt kodeord",
-  "user_wants_you_to_see_project": "__username__ kunne tænke sig at du ser på __projektname__",
+  "user_wants_you_to_see_project": "__username__ kunne tænke sig at du ser på __projectname__",
   "join_sl_to_view_project": "Tilmeld dig til ShareLaTeX for at se dette projekt",
   "register_to_edit_template": "Register for at redigere i __templateName__ skabelonen",
   "already_have_sl_account": "Har du allerede en ShareLaTeX bruger?",
