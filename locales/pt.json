@@ -409,6 +409,8 @@
   "project_too_large_please_reduce": "Esse projeto tem muito texto, por favor tente e reduza.",
   "please_ask_the_project_owner_to_link_to_github": "Por favor, peça ao dono do projeto que vincule o projeto a um repositório no GitHub.",
   "go_to_pdf_location_in_code": "Ir para a localização do PDF no código",
+  "ko": "Coreano",
+  "ja": "Japonês",
   "account_settings": "Configurações da Conta",
   "search_projects": "Buscar projetos",
   "clone_project": "Clonar Projeto",

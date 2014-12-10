@@ -408,6 +408,8 @@
   "project_too_large_please_reduce": "Detta projekt har för mycket text, försök att minska ner det.",
   "please_ask_the_project_owner_to_link_to_github": "Vänligen be projektägaren att länka detta projekt till GitHub",
   "go_to_pdf_location_in_code": "Gå till PDF platsen i koden",
+  "ko": "Koreanska",
+  "ja": "Japanska",
   "account_settings": "Kontoinställningar",
   "search_projects": "Sök projekt",
   "clone_project": "Klona projekt",

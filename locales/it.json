@@ -408,6 +408,8 @@
   "project_too_large_please_reduce": "Questo progetto contiene troppo testo, per favore prova a ridurlo.",
   "please_ask_the_project_owner_to_link_to_github": "Chiedi al proprietario del progetto di collegare questo progetto a un repository GitHub",
   "go_to_pdf_location_in_code": "Vai a locazione PDF in codice",
+  "ko": "Coreano",
+  "ja": "Giapponese",
   "account_settings": "Impostazioni Account",
   "search_projects": "Cerca progetti",
   "clone_project": "Clona Progetto",
