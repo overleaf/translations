@@ -408,6 +408,8 @@
   "project_too_large_please_reduce": "Dit project bevat teveel tekst, probeer dit te verminderen.",
   "please_ask_the_project_owner_to_link_to_github": "Vraag de projecteigenaar om het project te koppelen aan een GitHub repository",
   "go_to_pdf_location_in_code": "Ga naar de PDF-locatie in de code",
+  "ko": "Koreaans",
+  "ja": "Japans",
   "account_settings": "Accountinstellingen",
   "search_projects": "Projecten zoeken",
   "clone_project": "Project Klonen",
