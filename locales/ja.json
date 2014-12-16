@@ -410,6 +410,7 @@
   "go_to_pdf_location_in_code": "コードのPDFロケーションに進む",
   "ko": "韓国語",
   "ja": "日本語",
+  "about_brian_gough": "ソフトウェア開発者で、以前はフェルミ国立加速器研究所およびロスアラモス国立研究所の理論高エネルギー物理学研究者でした。長年に渡り、TeXおよびLaTeXの商業的利用に関する無料ソフトウェアマニュアルを配布しており、GNU Scientific Libraryのメンテナーを務めていました。",
   "account_settings": "アカウントの設定",
   "search_projects": "プロジェクトの検索",
   "clone_project": "プロジェクトの複製",
