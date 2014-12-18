@@ -142,7 +142,7 @@
   "compiling": "Compilando",
   "click_here_to_preview_pdf": "Clickea aquí para previsualizar tu trabajo como un PDF.",
   "server_error": "Error del servidor",
-  "somthing_went_wrong_compiling": "Disculpa, algo anduvo mal y tu proyecto no se pudo compilar. Intenta de nuevo en unos minutos más, por favor.",
+  "somthing_went_wrong_compiling": "Disculpa, algo anduvo mal y tu proyecto no se pudo compilar. Por favor, intenta de nuevo en unos minutos más.",
   "timedout": "Expiró el tiempo de espera",
   "proj_timed_out_reason": "Disculpa, tu compilación tomó mucho tiempo en completarse y falló. Esto puede ser debido a un gran número de imágenes de alta resolución o diagramas muy complicados.",
   "no_errors_good_job": "Sin errores, ¡buen trabajo!",

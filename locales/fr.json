@@ -51,7 +51,7 @@
   "need_to_leave": "Besoin de quitter ?",
   "delete_your_account": "Supprimer votre compte",
   "delete_account": "Supprimer un compte",
-  "delete_account_warning_message": "Vous êtes sur le point de <strong>supprimer définitivement toutes les données de votre compte</strong>, y compris vos projets et vos réglages. Veuillez saisir SUPPRIMER dans la case ci-dessous pour continuer.",
+  "delete_account_warning_message": "Vous êtes sur le point de <strong>supprimer définitivement toutes les données de votre compte</strong>, y compris vos projets et vos réglages. Veuillez saisir DELETE dans la case ci-dessous pour continuer.",
   "deleting": "Suppression en cours",
   "delete": "Supprimer",
   "sl_benefits_plans": "ShareLaTeX est l'éditeur LaTeX le plus facile à utiliser au monde. Restez à jour avec vos collaborateurs, gardez la trace de toutes les modifications apportées à votre travail, et utilisez notre environnement LaTeX à partir de n'importe où dans le monde.",
