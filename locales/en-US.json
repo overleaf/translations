@@ -434,6 +434,7 @@
   "city": "City",
   "address": "Address",
   "coupon_code": "coupon_code",
+  "country": "Country",
   "account_settings": "Account Settings",
   "search_projects": "Search projects",
   "clone_project": "Clone Project",
