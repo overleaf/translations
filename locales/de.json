@@ -435,6 +435,7 @@
   "address": "Adresse",
   "coupon_code": "Gutscheincode",
   "country": "Land",
+  "billing_address": "Rechnungsadresse ",
   "account_settings": "Kontoeinstellungen",
   "search_projects": "Projekte suchen",
   "clone_project": "Projekt duplizieren",
