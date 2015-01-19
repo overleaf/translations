@@ -432,7 +432,7 @@
   "zip_post_code": "Индекс",
   "city": "Город",
   "address": "Адрес",
-  "coupon_code": "coupon_code",
+  "coupon_code": "код купона",
   "country": "Страна",
   "billing_address": "Адрес для счёта",
   "account_settings": "Настройки профиля",

@@ -435,6 +435,7 @@
   "coupon_code": "rabattkod",
   "country": "Land",
   "billing_address": "Fakturaadress",
+  "upgrade_now": "Uppgradera Nu",
   "account_settings": "Kontoinställningar",
   "search_projects": "Sök projekt",
   "clone_project": "Klona projekt",
