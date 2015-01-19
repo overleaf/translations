@@ -435,6 +435,7 @@
   "address": "Address",
   "coupon_code": "coupon_code",
   "country": "Country",
+  "billing_address": "Billing Address",
   "account_settings": "Account Settings",
   "search_projects": "Search projects",
   "clone_project": "Clone Project",
