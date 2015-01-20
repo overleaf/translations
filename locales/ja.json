@@ -436,6 +436,7 @@
   "country": "国",
   "billing_address": "請求先住所",
   "upgrade_now": "今すぐアップグレード",
+  "state": "状態",
   "account_settings": "アカウントの設定",
   "search_projects": "プロジェクトの検索",
   "clone_project": "プロジェクトの複製",

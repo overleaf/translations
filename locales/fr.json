@@ -437,6 +437,7 @@
   "country": "Pays",
   "billing_address": "Adresse de facturation",
   "upgrade_now": "Mettre à jour maintenant",
+  "state": "État",
   "account_settings": "Paramètres du compte",
   "search_projects": "Rechercher un projet",
   "clone_project": "Dupliquer un projet",
