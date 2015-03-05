@@ -439,6 +439,7 @@
   "billing_address": "Billing Address",
   "upgrade_now": "Upgrade Now",
   "state": "State",
+  "vat_number": "Vat Number",
   "account_settings": "Account Settings",
   "search_projects": "Search projects",
   "clone_project": "Clone Project",
