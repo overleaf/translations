@@ -438,6 +438,7 @@
   "billing_address": "Адрес для счёта",
   "upgrade_now": "Сменить тариф",
   "state": "Состояние",
+  "vat_number": "Номер плательщика НДС",
   "account_settings": "Настройки профиля",
   "search_projects": "Поиск по проектам",
   "clone_project": "Копировать проект",

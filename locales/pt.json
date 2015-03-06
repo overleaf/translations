@@ -439,6 +439,7 @@
   "billing_address": "Endereço de Cobrança",
   "upgrade_now": "Aprimorar Agora",
   "state": "Estado",
+  "vat_number": "Número IVA",
   "account_settings": "Configurações da Conta",
   "search_projects": "Buscar projetos",
   "clone_project": "Clonar Projeto",

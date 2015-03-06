@@ -439,6 +439,7 @@
   "billing_address": "Dirección para cobranza",
   "upgrade_now": "Sube de categoría ahora",
   "state": "Estado",
+  "vat_number": "Número VAT",
   "account_settings": "Opciones de la cuenta",
   "search_projects": "Buscar proyectos",
   "clone_project": "Clonar proyecto",
