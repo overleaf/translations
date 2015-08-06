@@ -446,6 +446,8 @@
   "not_now": "Не сейчас",
   "verify_email_join_group": "Подтвердить адрес и вступить в группу",
   "check_email_to_complete_group": "Пожалуйста, проверьте Вашу почту для завершения процесса вступления в группу!",
+  "verify_email_address": "Подтвердить адрес электронной почты",
+  "check_email_to_complete_the_upgrade": "Пожалуйста, проверьте Вашу почту для завершения",
   "account_settings": "Настройки профиля",
   "search_projects": "Поиск по проектам",
   "clone_project": "Копировать проект",
