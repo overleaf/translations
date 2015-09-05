@@ -1,4 +1,5 @@
 {
+  "connected_users": "Usuários Conectados",
   "projects": "Projetos",
   "upload_project": "Atualizar Projeto",
   "all_projects": "Todos Projetos",
@@ -462,6 +463,11 @@
   "thorough_and_complete_language_check": "Uma minuciosa e completa verificação para seu manuscrito.",
   "substantive_editing_details": "Um foco não só no uso correto da lingua Inglesa, mas também numa apresentação geral de seu artigo, incluindo a estrutura e fluxo lógico.",
   "formetted_in_tex_or_ms": "Formatação tanto para arquivos TeX quanto Microsoft Word.",
+  "visit_enago": "Visite Enago",
+  "services": "Serviços",
+  "about_shane_kilkelly": "é um desenvolvedor de software que mora em Edinburgh. Shane é um forte defensor de Programação Funcional, Desenvolvimento Orientado a Teste e se orgulha em construir softwares de qualidade.",
+  "this_is_your_template": "Esse é seu modelo de seu projeto",
+  "links": "Links",
   "account_settings": "Configurações da Conta",
   "search_projects": "Buscar projetos",
   "clone_project": "Clonar Projeto",
