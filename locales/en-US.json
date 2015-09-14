@@ -1,4 +1,10 @@
 {
+  "word_count": "Word Count",
+  "please_compile_pdf_before_word_count": "Please compile your project before performing a word count",
+  "total_words": "Total Words",
+  "headers": "Headers",
+  "math_inline": "Math Inline",
+  "math_display": "Math Display",
   "connected_users": "Connected Users",
   "projects": "Projects",
   "upload_project": "Upload Project",
