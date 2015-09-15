@@ -1,4 +1,10 @@
 {
+  "word_count": "Количество слов",
+  "please_compile_pdf_before_word_count": "Пожалуйста, скомпилируйте проект, прежде чем подсчитывать количество слов!",
+  "total_words": "Количество слов",
+  "headers": "Заголовки",
+  "math_inline": "Встроенные формулы",
+  "math_display": "Формулы",
   "connected_users": "Связанные пользователи",
   "projects": "Проекты",
   "upload_project": "Загрузить проект",

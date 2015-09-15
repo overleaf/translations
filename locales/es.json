@@ -1,4 +1,11 @@
 {
+  "word_count": "Conteo de palabras",
+  "please_compile_pdf_before_word_count": "Por favor compila tu proyecto antes de realizar un conteo de palabras",
+  "total_words": "Palabras totales",
+  "headers": "Encabezados",
+  "math_inline": "Fórmulas en texto",
+  "math_display": "Fórmulas mostradas",
+  "connected_users": "Usuarios conectados",
   "projects": "Proyectos",
   "upload_project": "Subir proyecto",
   "all_projects": "Todos los proyectos",
