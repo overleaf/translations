@@ -1,4 +1,8 @@
 {
+  "word_count": "Aantal woorden",
+  "please_compile_pdf_before_word_count": "Compileer je project alvorens het aantal woorden te tellen",
+  "total_words": "Aantal woorden",
+  "connected_users": "Verbonden gebruikers",
   "projects": "Projecten",
   "upload_project": "Project Uploaden",
   "all_projects": "Alle projecten",
@@ -463,6 +467,8 @@
   "formetted_in_tex_or_ms": "Geformatteerde output in TeX of Microsoft Word.",
   "visit_enago": "Enago Bezoeken",
   "services": "Diensten",
+  "about_shane_kilkelly": "is een software ontwikkelaar woonachtig in Edinburgh. Shane is een sterk voorstander van Functioneel Programmeren, Test Driven Development en haalt voldoening uit het bouwen van kwaliteits software.",
+  "this_is_your_template": "Dit is jouw sjabloon uit jouw project",
   "account_settings": "Accountinstellingen",
   "search_projects": "Projecten zoeken",
   "clone_project": "Project Klonen",
