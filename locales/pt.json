@@ -1,4 +1,10 @@
 {
+  "word_count": "Contagem de Palavras",
+  "please_compile_pdf_before_word_count": "Por favor, compile seu projeto antes de executar a contagem de palavras",
+  "total_words": "Total de Palavras",
+  "headers": "Cabeçalho",
+  "math_inline": "Matemática em Linha",
+  "math_display": "Exibição de Matemática",
   "connected_users": "Usuários Conectados",
   "projects": "Projetos",
   "upload_project": "Atualizar Projeto",
