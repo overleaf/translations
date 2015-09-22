@@ -1,4 +1,10 @@
 {
+  "word_count": "文字数",
+  "please_compile_pdf_before_word_count": "文字数を計算する前にプロジェクトをコンパイルしてください",
+  "total_words": "合計文字数",
+  "headers": "ヘッダー",
+  "math_inline": "マスインライン",
+  "math_display": "マスディスプレイ",
   "connected_users": "接続したユーザー",
   "projects": "プロジェクト",
   "upload_project": "プロジェクトのアップロード",
