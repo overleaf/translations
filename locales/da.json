@@ -1,4 +1,9 @@
 {
+  "word_count": "Ordoptælling",
+  "please_compile_pdf_before_word_count": "Kompiler venligst dit projekt før du udfører en ordoptælling",
+  "total_words": "Totale Antal Ord",
+  "headers": "Overskrifter",
+  "math_display": "Vist Matematik",
   "connected_users": "Forbundne Brugere",
   "projects": "Projekter",
   "upload_project": "Overfør projekt",
@@ -457,6 +462,7 @@
   "language_check": "Sprog Tjek",
   "copy_editing": "Kopi redigering",
   "substantive_editing": "Omfattende Redigering",
+  "formatting": "Formaterer",
   "one_round_of_checking": "En omgang sprog og grammatik tjek.",
   "thorough_and_complete_language_check": "Et grundigt og komplet sprog tjek af dit manuskript.",
   "substantive_editing_details": "Ikke kun et fokus på korrekt brug af det engelske sprog, men også på den overordnede fremtoning af dit dokument, herunder den logiske sammenhæng og struktur.",
