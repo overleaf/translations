@@ -1,4 +1,11 @@
 {
+  "Subscription": "Abonnement",
+  "Documentation": "Dokumentasjon",
+  "Universities": "Universiteter",
+  "Log out": "Logg ut",
+  "Projects": "Prosjekter",
+  "Account": "Konto",
+  "Help": "Hjelp",
   "projects": "Prosjekter",
   "upload_project": "Last opp prosjekt",
   "all_projects": "Alle prosjekter",
