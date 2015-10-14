@@ -1,4 +1,5 @@
 {
+  "editor_disconected_click_to_reconnect": "Editor disconnected, click anywhere to reconnect.",
   "word_count": "Word Count",
   "please_compile_pdf_before_word_count": "Please compile your project before performing a word count",
   "total_words": "Total Words",
