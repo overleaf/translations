@@ -1,4 +1,7 @@
 {
+  "Subscription": "Iscrizione",
+  "Documentation": "Documentazione",
+  "Universities": "Università",
   "word_count": "Conteggio Parole",
   "please_compile_pdf_before_word_count": "Per favore, compila il tuo progetto prima di eseguire il conteggio parole",
   "total_words": "Parole Totali",
