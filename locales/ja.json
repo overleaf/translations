@@ -1,4 +1,6 @@
 {
+  "compile_larger_projects": "大きなプロジェクトをコンパイル",
+  "upgrade_to_get_feature": "__feature__, plusのアップグレードを取得：",
   "new_group": "新しいグループ",
   "about_to_delete_groups": "次のグループを削除しようとしています：",
   "removing": "削除中",
