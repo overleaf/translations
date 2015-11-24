@@ -619,5 +619,7 @@
   "unlink_github": "Unlink your GitHub account",
   "link_to_github": "Link to your GitHub account",
   "github_integration": "GitHub Integration",
-  "github_is_premium": "GitHub sync is a premium feature"
+  "github_is_premium": "GitHub sync is a premium feature",
+  "show_auth_token": "Show API token",
+  "auth_token_info": "You can use your API token to interact with the ShareLaTeX API"
 }
