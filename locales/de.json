@@ -10,7 +10,7 @@
   "new_folder": "Neuer Ordner",
   "create_your_first_project": "Erstelle dein erstes Projekt!",
   "complete": "Fertig",
-  "on_free_sl": "Du benutzt die kostenlose Version von _appName_",
+  "on_free_sl": "Du benutzt die kostenlose Version von __appName__",
   "upgrade": "Upgrade",
   "or_unlock_features_bonus": "oder schalte kostenlose Bonus Features frei indem du",
   "sharing_sl": "_appName_ teilst",
