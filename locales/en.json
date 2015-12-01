@@ -1,4 +1,5 @@
 {
+  "too_many_files_uploaded_throttled_short_period": "Too many files uploaded, your uploads have been throttled for short period.",
   "compile_larger_projects": "Compile Larger Projects",
   "upgrade_to_get_feature": "Upgrade to get __feature__, plus:",
   "new_group": "New Group",
