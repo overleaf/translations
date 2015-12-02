@@ -1,4 +1,7 @@
 {
+  "session_expired_redirecting_to_login": "Sessione scaduta. Redirezione alla pagina di login fra __seconds__ secondi",
+  "maximum_files_uploaded_together": "Massimo __max__ file caricati insieme",
+  "too_many_files_uploaded_throttled_short_period": "Troppi file caricati, i tuoi caricamenti sono stati limitati per un breve periodo.",
   "compile_larger_projects": "Compila progetti più grandi",
   "upgrade_to_get_feature": "Esegui l'upgrade per avere __feature__, oltre a:",
   "new_group": "Nuovo Gruppo",
