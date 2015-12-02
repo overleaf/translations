@@ -1,4 +1,6 @@
 {
+  "maximum_files_uploaded_together": "最大 __max__ファイルを一緒にアップロード",
+  "too_many_files_uploaded_throttled_short_period": "あまりにも多くのファイルをアップロードされました。アップロードは短期間で調整されます。",
   "compile_larger_projects": "大きなプロジェクトをコンパイル",
   "upgrade_to_get_feature": "__feature__, plusのアップグレードを取得：",
   "new_group": "新しいグループ",

@@ -1,4 +1,5 @@
 {
+  "maximum_files_uploaded_together": "__max__ fichiers téléversés simultanément. Valeur maximale atteinte.",
   "too_many_files_uploaded_throttled_short_period": "Trop de fichiers téléversés, votre envoi est en attente pour un court instant.",
   "new_group": "Nouveau groupe",
   "about_to_delete_groups": "Vous êtes sur le point de supprimer les groupes suivants :",
