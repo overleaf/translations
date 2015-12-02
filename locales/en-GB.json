@@ -1,4 +1,5 @@
 {
+  "session_expired_redirecting_to_login": "Session Expired. Redirecting to login page in __seconds__ seconds",
   "maximum_files_uploaded_together": "Maximum __max__ files uploaded together",
   "too_many_files_uploaded_throttled_short_period": "Too many files uploaded, your uploads have been throttled for short period.",
   "compile_larger_projects": "Compile Larger Projects",

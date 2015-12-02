@@ -1,4 +1,6 @@
 {
+  "maximum_files_uploaded_together": "Máximo de __max__ arquivos enviados juntos",
+  "too_many_files_uploaded_throttled_short_period": "Excesso de arquivos enviados, seus envios foram suprimidos por um curto tempo.",
   "compile_larger_projects": "Compile Projetos Maiores",
   "upgrade_to_get_feature": "Aprimore para ter __feature__, mais:",
   "new_group": "Novo Grupo",
