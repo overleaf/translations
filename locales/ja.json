@@ -1,8 +1,9 @@
 {
+  "session_expired_redirecting_to_login": "セッション期限切れ。__seconds__秒後にログインぺージにリダイレクトします",
   "maximum_files_uploaded_together": "最大 __max__ファイルを一緒にアップロード",
-  "too_many_files_uploaded_throttled_short_period": "あまりにも多くのファイルをアップロードされました。アップロードは短期間で調整されます。",
+  "too_many_files_uploaded_throttled_short_period": "あまりにも多くのファイルがアップロードされました。アップロードがしばらく調整されます。",
   "compile_larger_projects": "大きなプロジェクトをコンパイル",
-  "upgrade_to_get_feature": "__feature__, plusのアップグレードを取得：",
+  "upgrade_to_get_feature": "__feature__のアップグレードを取得、プラス：",
   "new_group": "新しいグループ",
   "about_to_delete_groups": "次のグループを削除しようとしています：",
   "removing": "削除中",
