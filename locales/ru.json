@@ -1,4 +1,11 @@
 {
+  "yes_please": "Да, пожалуйста!",
+  "ill_take_it": "Беру!",
+  "cancel_your_subscription": "Удалить аккаунт",
+  "no_thanks_cancel_now": "Нет, спасибо - я хочу удалить сейчас",
+  "cancel_my_account": "Удалить аккаунт",
+  "sure_you_want_to_cancel": "Вы уверены, что хотите удалить Ваш аккаунт?",
+  "i_want_to_stay": "Я хочу остаться",
   "session_expired_redirecting_to_login": "Срок сессии истёк. Перенаправление на страницу входа через __seconds__ секунд(ы)",
   "maximum_files_uploaded_together": "Совместная загрузка до максимум __max__ файлов",
   "too_many_files_uploaded_throttled_short_period": "Слишком много файлов загружено за раз - на короткое время загрузка была приостановлена.",
