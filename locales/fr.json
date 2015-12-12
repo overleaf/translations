@@ -1,4 +1,11 @@
 {
+  "yes_please": "Oui, merci !",
+  "nearly_activated": "Il ne vous reste plus qu'une étape pour activer votre compte __appName__ !",
+  "please_set_a_password": "Veuillez choisir un mot de passe",
+  "activation_token_expired": "Votre jeton d'authentification est arrivé à expiration, il est nécessaire de vous en envoyer un autre.",
+  "activate": "Activer",
+  "activating": "Activation",
+  "cancel_your_subscription": "Annuler votre compte",
   "session_expired_redirecting_to_login": "Session expirée. Redirection vers la page de connexion dans __seconds__ s.",
   "maximum_files_uploaded_together": "__max__ fichiers téléversés simultanément. Valeur maximale atteinte.",
   "too_many_files_uploaded_throttled_short_period": "Trop de fichiers téléversés, votre envoi est en attente pour un court instant.",

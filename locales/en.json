@@ -1,5 +1,11 @@
 {
+  "activate_account": "Activate your account",
   "yes_please": "Yes Please!",
+  "nearly_activated": "You're one step away from activating your __appName__ account!",
+  "please_set_a_password": "Please set a password",
+  "activation_token_expired": "Your activation token has expired, you will need to get another one sent to you.",
+  "activate": "Activate",
+  "activating": "Activating",
   "ill_take_it": "I'll take it!",
   "cancel_your_subscription": "Cancel your account",
   "no_thanks_cancel_now": "No thanks - I still want to Cancel Now",

@@ -1,4 +1,11 @@
 {
+  "activate_account": "アカウントのアクティベート",
+  "yes_please": "はい、お願いします！",
+  "nearly_activated": "あと一歩であなたの__appName__アカウントがアクティべートされます！",
+  "please_set_a_password": "パスワードを設定してください",
+  "activation_token_expired": "アクティベーショントークンの期限が切れています。新しいトークンが必要となります。",
+  "activate": "アクティベート",
+  "activating": "アクティベート中",
   "ill_take_it": "これにします！",
   "cancel_your_subscription": "アカウントをキャンセル",
   "no_thanks_cancel_now": "結構です - 今すぐキャンセルします",

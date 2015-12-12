@@ -1,5 +1,11 @@
 {
+  "activate_account": "Активируйте Ваш аккаунт",
   "yes_please": "Да, пожалуйста!",
+  "nearly_activated": "Вы в одном шаге от активации Вашего аккаунта для __appName__!",
+  "please_set_a_password": "Пожалуйста, укажите пароль",
+  "activation_token_expired": "Срок действия Вашего ключа истёк. Вам необходимо запросить новый ключ активации.",
+  "activate": "Активировать",
+  "activating": "Активация",
   "ill_take_it": "Беру!",
   "cancel_your_subscription": "Удалить аккаунт",
   "no_thanks_cancel_now": "Нет, спасибо - я хочу удалить сейчас",
