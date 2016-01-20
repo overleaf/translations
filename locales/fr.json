@@ -445,7 +445,7 @@
   "commiting": "Commit en cours",
   "importing_and_merging_changes_in_github": "Import et fusion des changements dans GitHub",
   "upgrade_for_faster_compiles": "Mettez à jour votre compte pour des compilations plus rapides et pour augmenter la limite d'expiration",
-  "free_accounts_have_timeout_upgrade_to_increase": "Les comptes gratuits on une expiration d'une minute. Mettez à jour votre compte pour augmenter cette limite.",
+  "free_accounts_have_timeout_upgrade_to_increase": "Les comptes gratuits ont une expiration d'une minute. Mettez à jour votre compte pour augmenter cette limite.",
   "learn_how_to_make_documents_compile_quickly": "Apprenez comment compiler vos documents plus rapidement",
   "zh-CN": "Chinois",
   "cn": "Chinois (simplifié)",
