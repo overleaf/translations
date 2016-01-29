@@ -1,4 +1,7 @@
 {
+  "rename_folder": "Rename Folder",
+  "delete_folder": "Delete Folder",
+  "about_to_delete_folder": "You are about to delete the following folders (any projects in them will not be deleted):",
   "to_modify_your_subscription_go_to": "To modify your subscription go to",
   "manage_subscription": "Manage Subscription",
   "activate_account": "Activate your account",
