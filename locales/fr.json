@@ -1,4 +1,7 @@
 {
+  "rename_folder": "Renommer le dossier",
+  "delete_folder": "Supprimer le dossier",
+  "about_to_delete_folder": "Vous allez supprimer les dossiers suivants (les projets qu'ils contiennent ne seront pas supprimés)",
   "yes_please": "Oui, merci !",
   "nearly_activated": "Il ne vous reste plus qu'une étape pour activer votre compte __appName__ !",
   "please_set_a_password": "Veuillez choisir un mot de passe",
