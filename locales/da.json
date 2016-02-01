@@ -1,4 +1,7 @@
 {
+  "rename_folder": "Omdøb mappe",
+  "delete_folder": "Slet mappe",
+  "about_to_delete_folder": "Du er ved at slette følgende mapper (ingen af mappernes projekter vil blive slettet):",
   "to_modify_your_subscription_go_to": "For at administrere dit abonnement, gå til",
   "manage_subscription": "Administrer Abonnement",
   "activate_account": "Aktiver din konto",
