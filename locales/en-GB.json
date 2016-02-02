@@ -1,4 +1,7 @@
 {
+  "compile_mode": "Compile Mode",
+  "normal": "Normal",
+  "fast": "Fast",
   "rename_folder": "Rename Folder",
   "delete_folder": "Delete Folder",
   "about_to_delete_folder": "You are about to delete the following folders (any projects in them will not be deleted):",
