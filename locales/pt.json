@@ -1,4 +1,10 @@
 {
+  "compile_mode": "Modo de Compilação",
+  "normal": "Normal",
+  "fast": "Rápido",
+  "rename_folder": "Renomear Pasta",
+  "delete_folder": "Excluir Pasta",
+  "about_to_delete_folder": "Você está prestes a excluir as seguintes pastas (qualquer projeto dentro não serão excluídos):",
   "to_modify_your_subscription_go_to": "Para modificar sua inscrição, vá para",
   "manage_subscription": "Administrar Inscrição",
   "activate_account": "Ative sua conta",

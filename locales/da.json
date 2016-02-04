@@ -1,4 +1,7 @@
 {
+  "compile_mode": "Kompilering metode",
+  "normal": "Normal",
+  "fast": "Hurtig",
   "rename_folder": "Omdøb mappe",
   "delete_folder": "Slet mappe",
   "about_to_delete_folder": "Du er ved at slette følgende mapper (ingen af mappernes projekter vil blive slettet):",
