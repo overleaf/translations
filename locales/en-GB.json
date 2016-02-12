@@ -179,7 +179,7 @@
   "create": "Create",
   "creating": "Creating",
   "upload_files": "Upload File(s)",
-  "sure_you_want_to_delete": "Are you sure you want to permanently delete <strong>{{ entity.name }}</strong>?",
+  "sure_you_want_to_delete": "Are you sure you want to permanently delete the following files?",
   "common": "Common",
   "navigation": "Navigation",
   "editing": "Editing",
