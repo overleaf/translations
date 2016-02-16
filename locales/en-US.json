@@ -1,4 +1,5 @@
 {
+  "email_already_registered": "This email is already registered",
   "compile_mode": "Compile Mode",
   "normal": "Normal",
   "fast": "Fast",
