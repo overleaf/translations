@@ -1,4 +1,11 @@
 {
+  "email_already_registered": "Этот адрес уже зарегистрирован.",
+  "compile_mode": "Режим компиляции",
+  "normal": "нормальный",
+  "fast": "быстрый",
+  "rename_folder": "Переименовать папку",
+  "delete_folder": "Удалить папку",
+  "about_to_delete_folder": "Вы собираетесь удалить следующие папки (проекты в них будут сохранены):",
   "to_modify_your_subscription_go_to": "Для изменения подписки перейдите по ссылке:",
   "manage_subscription": "Управление подпиской",
   "activate_account": "Активируйте Ваш аккаунт",

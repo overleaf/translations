@@ -1,4 +1,5 @@
 {
+  "email_already_registered": "Este email já está registrado",
   "compile_mode": "Modo de Compilação",
   "normal": "Normal",
   "fast": "Rápido",
