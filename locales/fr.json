@@ -1,4 +1,8 @@
 {
+  "email_already_registered": "Cette adresse électronique est déjà enregistrée",
+  "compile_mode": "Mode de compilation",
+  "normal": "Normal",
+  "fast": "Rapide",
   "rename_folder": "Renommer le dossier",
   "delete_folder": "Supprimer le dossier",
   "about_to_delete_folder": "Vous allez supprimer les dossiers suivants (les projets qu'ils contiennent ne seront pas supprimés)",
@@ -164,7 +168,7 @@
   "create": "Créer",
   "creating": "Création en cours",
   "upload_files": "Importer des fichiers",
-  "sure_you_want_to_delete": "Êtes-vous sûr(e) de vouloir supprimer définitivement  <strong>{{ entity.name }}</strong>?",
+  "sure_you_want_to_delete": "Êtes-vous sûr(e) de vouloir supprimer définitivement  les fichiers suivants ?",
   "common": "Commun",
   "navigation": "Navigation",
   "editing": "Édition en cours",

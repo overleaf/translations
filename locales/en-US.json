@@ -1,4 +1,6 @@
 {
+  "search_references": "Search References",
+  "no_search_results": "No Search Results",
   "email_already_registered": "This email is already registered",
   "compile_mode": "Compile Mode",
   "normal": "Normal",
@@ -506,7 +508,7 @@
   "vat_number": "Vat Number",
   "you_have_joined": "You have joined __groupName__",
   "claim_premium_account": "You have claimed your premium account provided by __groupName__.",
-  "you_are_invited_to_group": " You are invited to Join __groupName__",
+  "you_are_invited_to_group": "You are invited to join __groupName__",
   "you_can_claim_premium_account": "You can claim a premium account provided by  __groupName__  by verifying your email",
   "not_now": "Not now",
   "verify_email_join_group": "Verify email and join Group",
