@@ -1,6 +1,7 @@
 {
   "search_references": "Search References",
   "no_search_results": "No Search Results",
+  "notification_group_invite": "You have been invited to join the __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>Join Here</a>.",
   "email_already_registered": "This email is already registered",
   "compile_mode": "Compile Mode",
   "normal": "Normal",
