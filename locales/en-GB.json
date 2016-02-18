@@ -1,7 +1,7 @@
 {
+  "notification_group_invite": "You have been invited to join the __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>Join Here</a>.",
   "search_references": "Search References",
   "no_search_results": "No Search Results",
-  "notification_group_invite": "You have been invited to join the __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>Join Here</a>.",
   "email_already_registered": "This email is already registered",
   "compile_mode": "Compile Mode",
   "normal": "Normal",
@@ -19,7 +19,7 @@
   "activate": "Activate",
   "activating": "Activating",
   "ill_take_it": "I'll take it!",
-  "cancel_your_subscription": "Cancel your account",
+  "cancel_your_subscription": "Stop Your Subscription",
   "no_thanks_cancel_now": "No thanks - I still want to Cancel Now",
   "cancel_my_account": "Cancel my account",
   "sure_you_want_to_cancel": "Are you sure you want to cancel?",

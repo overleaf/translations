@@ -1,4 +1,7 @@
 {
+  "notification_group_invite": "Вас пригласили вступить в группу __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>присоединиться</a>.",
+  "search_references": "Поиск ссылок",
+  "no_search_results": "Ничего не найдено",
   "email_already_registered": "Этот адрес уже зарегистрирован.",
   "compile_mode": "Режим компиляции",
   "normal": "нормальный",
