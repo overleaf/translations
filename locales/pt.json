@@ -1,4 +1,8 @@
 {
+  "leave_group": "Sair do grupo",
+  "leave_now": "Sair agora",
+  "sure_you_want_to_leave_group": "Você tem certeza que deseja sair do grupo?",
+  "notification_group_invite": "Você foi convidado para entrar no __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>Entre Aqui</a>.",
   "search_references": "Buscar Referências",
   "no_search_results": "Sem resultados",
   "email_already_registered": "Este email já está registrado",
