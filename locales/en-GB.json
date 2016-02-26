@@ -1,10 +1,10 @@
 {
-  "search_bib_files": "Search your .bib files",
+  "search_bib_files": "Search by author, title, year",
   "leave_group": "Leave group",
   "leave_now": "Leave now",
   "sure_you_want_to_leave_group": "Are you sure you want to leave this group?",
   "notification_group_invite": "You have been invited to join the __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>Join Here</a>.",
-  "search_references": "Search References",
+  "search_references": "Search the .bib files in this project",
   "no_search_results": "No Search Results",
   "email_already_registered": "This email is already registered",
   "compile_mode": "Compile Mode",
