@@ -1,9 +1,10 @@
 {
+  "search_bib_files": "Søg efter forfatter, titel, år",
   "leave_group": "Forlad gruppe",
   "leave_now": "Forlad nu",
   "sure_you_want_to_leave_group": "Er du sikker på, at du ønsker, at forlade denne gruppe?",
   "notification_group_invite": "Du er blevet inviteret til at deltage i __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>Deltag her</a>.",
-  "search_references": "Søge Referencer",
+  "search_references": "Søg i .bib filerne fra dette projekt",
   "no_search_results": "Ingen Søge Resultater",
   "email_already_registered": "Denne mail er allerede registreret",
   "compile_mode": "Kompilering metode",
