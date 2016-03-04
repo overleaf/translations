@@ -1,5 +1,6 @@
 {
-  "search_bib_files": "Busque seus arquivos .bib",
+  "references_search_hint": "Pressione CTRL-Espaço para Buscar",
+  "search_bib_files": "Busque por autor, título ou ano",
   "leave_group": "Sair do grupo",
   "leave_now": "Sair agora",
   "sure_you_want_to_leave_group": "Você tem certeza que deseja sair do grupo?",
