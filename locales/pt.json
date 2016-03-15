@@ -1,5 +1,7 @@
 {
   "references_search_hint": "Pressione CTRL-Espaço para Buscar",
+  "ask_proj_owner_to_upgrade_for_references_search": "Por favor, peça ao dono do projeto para aprimorar para usar a funcionalidade Busca Referências.",
+  "ask_proj_owner_to_upgrade_for_faster_compiles": "Por favor, peça ao dono do projeto para aprimorar para compilação mais rápida e aumentar o limite de tempo.",
   "search_bib_files": "Busque por autor, título ou ano",
   "leave_group": "Sair do grupo",
   "leave_now": "Sair agora",
