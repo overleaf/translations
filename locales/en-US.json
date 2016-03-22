@@ -1,4 +1,6 @@
 {
+  "too_recently_compiled": "This project was compiled very recently, so this compile has been skipped.",
+  "clsi_maintenance": "The compile servers are down for maintenance, and will be back shortly.",
   "references_search_hint": "Press CTRL-Space to Search",
   "ask_proj_owner_to_upgrade_for_references_search": "Please ask the project owner to upgrade to use the References Search feature.",
   "ask_proj_owner_to_upgrade_for_faster_compiles": "Please ask the project owner to upgrade for faster compiles and to increase the timeout limit.",
