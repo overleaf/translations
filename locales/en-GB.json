@@ -1,4 +1,7 @@
 {
+  "delete_projects": "Delete Projects",
+  "leave_projects": "Leave Projects",
+  "delete_and_leave_projects": "Delete and Leave Projects",
   "too_recently_compiled": "This project was compiled very recently, so this compile has been skipped.",
   "clsi_maintenance": "The compile servers are down for maintenance, and will be back shortly.",
   "references_search_hint": "Press CTRL-Space to Search",
