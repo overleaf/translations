@@ -1,4 +1,10 @@
 {
+  "confirm": "Confirmar",
+  "delete_projects": "Deletar Projetos",
+  "leave_projects": "Deixar Projetos",
+  "delete_and_leave_projects": "Deletar e Deixar Projetos",
+  "too_recently_compiled": "Esse projeto foi compilado recentemente, então foi pulada a compilação.",
+  "clsi_maintenance": "O servidor de compilação está fora do ar para manutenção, logo estará de volta.",
   "references_search_hint": "Pressione CTRL-Espaço para Buscar",
   "ask_proj_owner_to_upgrade_for_references_search": "Por favor, peça ao dono do projeto para aprimorar para usar a funcionalidade Busca Referências.",
   "ask_proj_owner_to_upgrade_for_faster_compiles": "Por favor, peça ao dono do projeto para aprimorar para compilação mais rápida e aumentar o limite de tempo.",
