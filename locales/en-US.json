@@ -1,4 +1,9 @@
 {
+  "request_sent_thank_you": "Request Sent, Thank you.",
+  "suggestion": "Suggestion",
+  "project_url": "Project URL",
+  "subject": "Subject",
+  "Suggest New Doc": "suggest_new_doc",
   "confirm": "Confirm",
   "cancel_personal_subscription_first": "You already have a personal subscription, would you like us to cancel this first before joining the group licence?",
   "delete_projects": "Delete Projects",
