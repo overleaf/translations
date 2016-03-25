@@ -1,5 +1,11 @@
 {
+  "suggest_new_doc": "Sugerir novo documento",
+  "request_sent_thank_you": "Requisição Enviada, Obrigado.",
+  "suggestion": "Sugestões",
+  "project_url": "URL do Projeto",
+  "subject": "Assunto",
   "confirm": "Confirmar",
+  "cancel_personal_subscription_first": "Você já tem uma inscrição pessoal, você gostaria que cancelássemos a primeira antes de se juntar à licença de grupo?",
   "delete_projects": "Deletar Projetos",
   "leave_projects": "Deixar Projetos",
   "delete_and_leave_projects": "Deletar e Deixar Projetos",

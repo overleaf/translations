@@ -1,4 +1,5 @@
 {
+  "suggest_new_doc": "Foreslå nytt dokument",
   "request_sent_thank_you": "Forespørsel sendt. Takk.",
   "suggestion": "Forslag",
   "project_url": "Prosjekt URL",
@@ -17,6 +18,11 @@
   "leave_group": "Forlat gruppe",
   "leave_now": "Forlat nå",
   "sure_you_want_to_leave_group": "Er du sikker på at du vil forlate denne gruppen?",
+  "notification_group_invite": "Du har blitt invitert til gruppen __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>Bli medlem her</a>.",
+  "search_references": "Søk i .bib-filene for dette prosjektet",
+  "no_search_results": "Ingen søkeresultater",
+  "email_already_registered": "Denne eposten er allerede registrert",
+  "compile_mode": "Kompileringsmodus",
   "normal": "Normal",
   "fast": "Hurtig",
   "rename_folder": "Endre mappenavn",

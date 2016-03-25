@@ -1,5 +1,10 @@
 {
+  "request_sent_thank_you": "リクエストが送信されました。ありがとうございます。",
+  "suggestion": "提案",
+  "project_url": "プロジェクトURL",
+  "subject": "件名",
   "confirm": "確認",
+  "cancel_personal_subscription_first": "個人購読をすでに申し込んでいます。これをキャンセルしてグループライセンスに参加しますか？",
   "delete_projects": "プロジェクトの削除",
   "leave_projects": "プロジェクトを退出",
   "delete_and_leave_projects": "プロジェクトを削除・退出",
