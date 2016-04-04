@@ -1,4 +1,9 @@
 {
+  "suggest_new_doc": "Foreslå nyt dokument",
+  "request_sent_thank_you": "Anmodning afsendt, tak.",
+  "suggestion": "Foreslag",
+  "project_url": "Projektets URL",
+  "subject": "Emne",
   "confirm": "Bekræft",
   "cancel_personal_subscription_first": "Du har allerede et personligt abonnement. Ønsker du, at dette abonnement annulleres inden du tilslutter dig gruppe licensen?",
   "delete_projects": "Slet projekter",
