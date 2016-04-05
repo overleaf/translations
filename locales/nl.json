@@ -175,7 +175,7 @@
   "create": "Creëren",
   "creating": "Aan het maken",
   "upload_files": "Bestand(en) Uploaden",
-  "sure_you_want_to_delete": "Weet je zeker dat je <strong>{{ entity.name }}</strong> permanent wilt verwijderen?",
+  "sure_you_want_to_delete": "Weet je zeker dat je de volgende bestanden permanent wilt verwijderen?",
   "common": "Veelvoorkomend",
   "navigation": "Navigatie",
   "editing": "Aan het bewerken",
