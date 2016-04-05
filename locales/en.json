@@ -1,4 +1,6 @@
 {
+  "mendeley": "Mendeley",
+  "zotero": "Zotero",
   "suggest_new_doc": "Suggest new doc",
   "request_sent_thank_you": "Request Sent, Thank you.",
   "suggestion": "Suggestion",
