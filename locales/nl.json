@@ -1,4 +1,6 @@
 {
+  "mendeley_is_premium": "Mendeley Integratie is een premium functie",
+  "zotero_integration": "Zetro Integratie",
   "compile_mode": "Compileer Mode",
   "normal": "Normaal",
   "fast": "Snel",
@@ -100,7 +102,7 @@
   "doesnt_match": "Komt niet overeen",
   "dropbox_integration": "Dropboxintegratie",
   "learn_more": "Meer weten",
-  "dropbox_is_premium": "Synchronisatie met Dropbox is een betaalde functie",
+  "dropbox_is_premium": "Synchronisatie met Dropbox is een premium functie",
   "account_is_linked": "Account is gekoppeld",
   "unlink_dropbox": "Dropbox Ontkoppelen",
   "link_to_dropbox": "Verbinden met Dropbox",
@@ -641,5 +643,5 @@
   "unlink_github": "Ontkoppel je GitHubaccount",
   "link_to_github": "Verbinden met je GitHubaccount",
   "github_integration": "GitHubintegratie",
-  "github_is_premium": "GitHubsnychronisatie is een betaalde functie"
+  "github_is_premium": "GitHubsnychronisatie is een premium functie"
 }
