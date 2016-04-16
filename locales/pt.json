@@ -1,4 +1,8 @@
 {
+  "mendeley_reference_loading_error_expired": "O token do Mendeley expirou, por favor, revincule sua conta",
+  "zotero_reference_loading_error_expired": "O token do Zotero expirou, por favor, revincule sua conta",
+  "mendeley_reference_loading_error_forbidden": "Não foi possível carregar as referências do Mendeley, por favor, revincule sua conta e tente novamente",
+  "zotero_reference_loading_error_forbidden": "Não foi possível carregar as referências do Zotero, por favor, revincule sua conta e tente novamente",
   "mendeley_integration": "Integração Mendeley",
   "mendeley_sync_description": "A integração com Mendeley permite importar suas referências do mendeley para seus projetos no ShareLaTeX",
   "mendeley_is_premium": "A integração com Mendeley é um recurso premium",
