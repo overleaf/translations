@@ -1,6 +1,9 @@
 {
+  "zotero_reference_loading_error_expired": "Zoteroトークンの期限が切れました。アカウントを再リンクしてください",
+  "mendeley_reference_loading_error_forbidden": "Mendeleyのリファレンスを読み込むことができませんでした。アカウントを再リンクして、再度お試しください",
+  "zotero_reference_loading_error_forbidden": "Zoteroのリファレンスを読み込むことができませんでした。アカウントを再リンクして、再度お試しください",
   "mendeley_integration": "Mendeley統合",
-  "mendeley_sync_description": "Mendeleyを統合すると、MendeleyからShareLaTeXプロジェクトにリファレンスをインポートすることができます。",
+  "mendeley_sync_description": "Mendeleyを統合すると、MendeleyからShareLaTeXプロジェクトにリファレンスをインポートすることができます",
   "mendeley_is_premium": "Mendeley統合はプレミアム機能です",
   "link_to_mendeley": "Mendeleyのリンク",
   "unlink_to_mendeley": "Mendeleyのリンク解除",
