@@ -1,4 +1,6 @@
 {
+  "pdf_rendering_error": "PDF Rendering Error",
+  "something_went_wrong_rendering_pdf": "Something went wrong while rendering this PDF.",
   "mendeley_reference_loading_error_expired": "Mendeley token expired, please re-link your account",
   "zotero_reference_loading_error_expired": "Zotero token expired, please re-link your account",
   "mendeley_reference_loading_error_forbidden": "Could not load references from Mendeley, please re-link your account and try again",
