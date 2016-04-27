@@ -1,4 +1,6 @@
 {
+  "something_went_wrong_rendering_pdf": "Noget gik galt i oversættelsen af denne PDF",
+  "reference_import_button": "Importer referencer til",
   "suggest_new_doc": "Foreslå nyt dokument",
   "request_sent_thank_you": "Anmodning afsendt, tak.",
   "suggestion": "Foreslag",
