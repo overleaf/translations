@@ -1,4 +1,5 @@
 {
+  "reference_error_relink_hint": "If this error persists, try re-linking your account here:",
   "pdf_rendering_error": "PDF Rendering Error",
   "something_went_wrong_rendering_pdf": "Something went wrong while rendering this PDF.",
   "mendeley_reference_loading_error_expired": "Mendeley token expired, please re-link your account",
