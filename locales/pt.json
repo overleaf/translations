@@ -1,4 +1,5 @@
 {
+  "reference_error_relink_hint": "Se os problemas persistirem, tente revincular sua conta aqui:",
   "pdf_rendering_error": "Erro ao renderizar PDF",
   "something_went_wrong_rendering_pdf": "Alguma coisa deu errado ao renderizar o PDF.",
   "mendeley_reference_loading_error_expired": "O token do Mendeley expirou, por favor, revincule sua conta",

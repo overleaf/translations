@@ -1,4 +1,8 @@
 {
+  "reference_error_relink_hint": "エラーが継続して発生する場合は、こちらでアカウントを再リンク付けしてください：",
+  "pdf_rendering_error": "PDFレンダリングエラー",
+  "something_went_wrong_rendering_pdf": "このPDFのレンダリング中にエラーが発生しました。",
+  "mendeley_reference_loading_error_expired": "Mendeleyトークンの期限が切れました。アカウントを再リンク付けしてください",
   "zotero_reference_loading_error_expired": "Zoteroトークンの期限が切れました。アカウントを再リンクしてください",
   "mendeley_reference_loading_error_forbidden": "Mendeleyのリファレンスを読み込むことができませんでした。アカウントを再リンクして、再度お試しください",
   "zotero_reference_loading_error_forbidden": "Zoteroのリファレンスを読み込むことができませんでした。アカウントを再リンクして、再度お試しください",
