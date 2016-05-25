@@ -1,4 +1,5 @@
 {
+  "open_a_file_on_the_left": "左のファイルを開く",
   "reference_error_relink_hint": "エラーが継続して発生する場合は、こちらでアカウントを再リンク付けしてください：",
   "pdf_rendering_error": "PDFレンダリングエラー",
   "something_went_wrong_rendering_pdf": "このPDFのレンダリング中にエラーが発生しました。",
@@ -21,7 +22,7 @@
   "unlink_to_zotero": "Zoteroのリンク解除",
   "zotero_reference_loading": "Zoteroからリファレンスの読み込み中",
   "zotero_reference_loading_success": "Zoteroからリファレンスを読み込みました",
-  "zotero_reference_loading_error": "エラー。Mendeleyからリファレンスを読み込むことができませんでした",
+  "zotero_reference_loading_error": "エラー。Zoteroからリファレンスを読み込むことができませんでした",
   "reference_import_button": "リファレンスをインポート",
   "unlink_reference": "リファレンスプロバイダーのリンク解除",
   "unlink_warning_reference": "警告：このプロバイダーからアカウントをリンク解除すると、リファレンスをプロジェクトにインポートすることができなくなります。",
@@ -229,7 +230,7 @@
   "create": "作成",
   "creating": "作成中",
   "upload_files": "ファイルのアップロード",
-  "sure_you_want_to_delete": "<strong>{{ entity.name }}</strong>を完全に消去してよろしいですか？",
+  "sure_you_want_to_delete": "以下のファイルを完全に消去しますか？",
   "common": "共通",
   "navigation": "ナビゲーション",
   "editing": "編集中",

@@ -22,7 +22,7 @@
   "unlink_to_zotero": "Unlink Zotero",
   "zotero_reference_loading": "Loading references from Zotero",
   "zotero_reference_loading_success": "Loaded references from Zotero",
-  "zotero_reference_loading_error": "Error, could not load references from Mendeley",
+  "zotero_reference_loading_error": "Error, could not load references from Zotero",
   "reference_import_button": "Import References to",
   "unlink_reference": "Unlink References Provider",
   "unlink_warning_reference": "Warning: When you unlink your account from this provider you will not be able to import references into your projects.",
