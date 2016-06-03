@@ -1,4 +1,6 @@
 {
+  "conflicting_paths_found": "競合パスが見つかりました",
+  "following_paths_conflict": "次のファイルとフォルダーは同一のパスと競合しています",
   "open_a_file_on_the_left": "左のファイルを開く",
   "reference_error_relink_hint": "エラーが継続して発生する場合は、こちらでアカウントを再リンク付けしてください：",
   "pdf_rendering_error": "PDFレンダリングエラー",
@@ -521,7 +523,7 @@
   "sync_to_github": "GitHubと同期",
   "sync_to_dropbox_and_github": "DropboxとGitHubと同期",
   "project_too_large": "プロジェクトが大きすぎます",
-  "project_too_large_please_reduce": "このプロジェクトにはテキストが多すぎます。テキストを削減して再度お試しください。",
+  "project_too_large_please_reduce": "このプロジェクトには編集可能なテキストが多すぎます。テキストを減らしてください。最大ファイルは次の通りです：",
   "please_ask_the_project_owner_to_link_to_github": "このプロジェクトをGitHubリポジトリとリンクするにはプロジェクト管理者に問い合わせてください",
   "go_to_pdf_location_in_code": "コードのPDFロケーションに進む",
   "ko": "韓国語",
