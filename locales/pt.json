@@ -1,4 +1,8 @@
 {
+  "beta_program_already_participating": "Você já está inscrito no Programa Beta.",
+  "sharelatex_beta_program": "ShareLaTeX Programa Beta",
+  "beta_program_benefits": "Nós estamos sempre melhorando o ShareLaTeX. Ingressando em nosso Programa Beta você pode ter acesso aos novos recursos e nos ajudar a entender melhor suas necessidades.",
+  "beta_program_opt_in_action": "Cadastrar no Programa Beta",
   "conflicting_paths_found": "Conflito de Caminhos Encontrado",
   "following_paths_conflict": "Os arquivos e diretórios a seguir conflitam com o mesmo caminho",
   "open_a_file_on_the_left": "Abra em arquivo à esquerda",

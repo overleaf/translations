@@ -1,4 +1,8 @@
 {
+  "beta_program_already_participating": "すでにベータプログラムに参加しています。",
+  "sharelatex_beta_program": "ShareLaTeXベータプログラム",
+  "beta_program_benefits": "当社は絶えずShareLaTeXを改善しています。当社のベータプログラムに参加することによって、新しい機能にいち早くアクセスし、当社がお客さまのニーズをより良く理解できるようサポートすることができます。",
+  "beta_program_opt_in_action": "ベータプログラムにオプトイン",
   "conflicting_paths_found": "競合パスが見つかりました",
   "following_paths_conflict": "次のファイルとフォルダーは同一のパスと競合しています",
   "open_a_file_on_the_left": "左のファイルを開く",
