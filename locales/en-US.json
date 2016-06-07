@@ -1,4 +1,7 @@
 {
+  "sharelatex_beta_program": "ShareLaTeX Beta Program",
+  "beta_program_benefits": "We're always improving ShareLaTeX. By joining our Beta program you can have early access to new features and help us understand your needs better.",
+  "beta_program_opt_in_action": "Opt-In to Beta Program",
   "conflicting_paths_found": "Conflicting Paths Found",
   "following_paths_conflict": "The following files & folders conflict with the same path",
   "open_a_file_on_the_left": "Open a file on the left",
