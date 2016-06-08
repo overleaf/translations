@@ -1,4 +1,6 @@
 {
+  "beta_program_opt_out_action": "Opt-Out of Beta Program",
+  "disable_beta": "Disable Beta",
   "beta_program_badge_description": "While using ShareLaTeX, you will see beta features marked with this badge:",
   "beta_program_current_beta_features_description": "We are currently testing the following new features in beta:",
   "enable_beta": "Enable Beta",
