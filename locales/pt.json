@@ -1,4 +1,7 @@
 {
+  "manage_beta_program_membership": "Gerenciar Filiação do Programa Beta",
+  "beta_program_opt_out_action": "Descadastrar do Programa Beta",
+  "disable_beta": "Desabilitar Beta",
   "beta_program_badge_description": "Enquanto usa o ShareLaTeX, você verá os recursos beta marcados com cracha:",
   "beta_program_current_beta_features_description": "Nós estamos testando os seguintes recursos beta:",
   "enable_beta": "Habilitar Beta",
