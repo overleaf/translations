@@ -1,7 +1,9 @@
 {
+  "login_or_password_wrong_try_again": "ログインまたはパスワードの情報が間違っています。再度お試しください",
+  "manage_beta_program_membership": "ベータプログラムメンバーシップを管理",
   "beta_program_opt_out_action": "ベータプログラムからオプトアウト",
   "disable_beta": "ベータを無効",
-  "beta_program_badge_description": "ShareLaTeXの使用中に、ベータ機能にはこのバッジが付いています：",
+  "beta_program_badge_description": "ShareLaTeXの使用中は、ベータ機能にこのバッジが付いています：",
   "beta_program_current_beta_features_description": "以下の新機能はベータ版で現在テスト中です：",
   "enable_beta": "ベータを許可",
   "user_in_beta_program": "ユーザーはベータプログラムに参加しています",
