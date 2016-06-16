@@ -1,4 +1,5 @@
 {
+  "recompile_pdf": "Recompilar o PDF",
   "about_paulo_reis": "é desenvolvedor de software front-end e pesquisador de experiência de usuário residente em Aveiro, Portugal. Paulo tem PhD em experiência de usuário e é apaixonado por criar tecnologia adequada às necessidades do usuário — tanto em conceito ou validação/teste, quanto em idealização ou implementação.",
   "login_or_password_wrong_try_again": "Seu usário ou senha estão incorretos. Tente novamente.",
   "manage_beta_program_membership": "Gerenciar Filiação do Programa Beta",
