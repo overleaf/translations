@@ -1,4 +1,9 @@
 {
+  "answer_yes": "Yes",
+  "answer_no": "No",
+  "log_hint_extra_info": "Learn more",
+  "log_hint_feedback_label": "Was this hint helpful?",
+  "log_hint_feedback_gratitude": "Thank you for your feedback!",
   "recompile_pdf": "Recompile the PDF",
   "about_paulo_reis": "is a front-end software developer and user experience researcher living in Aveiro, Portugal. Paulo has a PhD in user experience and is passionate about shaping technology towards human usage — either in concept or testing/validation, in design or implementation.",
   "login_or_password_wrong_try_again": "Your login or password is incorrect. Please try again",
