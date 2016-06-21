@@ -1,6 +1,12 @@
 {
+  "answer_yes": "はい",
+  "answer_no": "いいえ",
+  "log_hint_extra_info": "詳しく見る",
+  "log_hint_feedback_label": "このヒントは役に立ちましたか？",
+  "log_hint_feedback_gratitude": "ご意見ありがとうございます！",
+  "recompile_pdf": "PDFを再コンパイル",
   "about_paulo_reis": "ポルトガルのアヴェイロ在住のフロントエンドソフトウェア開発者およびユーザーエクスペリエンスリサーチャー。パウロはユーザーエクスペリエンスの博士号を持ち、コンセプトやテスト・認証、デザインや実装において、人の使い方に合わせてテクノロジーを応用させることに情熱を傾けています。",
-  "login_or_password_wrong_try_again": "ログインまたはパスワードの情報が間違っています。再度お試しください",
+  "login_or_password_wrong_try_again": "ログイン情報またはパスワードが正しくありません。再度お試しください",
   "manage_beta_program_membership": "ベータプログラムメンバーシップを管理",
   "beta_program_opt_out_action": "ベータプログラムからオプトアウト",
   "disable_beta": "ベータを無効",
