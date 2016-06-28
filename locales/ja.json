@@ -1,4 +1,5 @@
 {
+  "kb_suggestions_enquiry": "当社の知識ベースを確認しましたか？",
   "answer_yes": "はい",
   "answer_no": "いいえ",
   "log_hint_extra_info": "詳しく見る",
@@ -52,7 +53,7 @@
   "suggest_new_doc": "新しいドキュメントの提案",
   "request_sent_thank_you": "リクエストが送信されました。ありがとうございます。",
   "suggestion": "提案",
-  "project_url": "プロジェクトURL",
+  "project_url": "影響を受けたプロジェクトURL",
   "subject": "件名",
   "confirm": "確認",
   "cancel_personal_subscription_first": "個人購読をすでに申し込んでいます。これをキャンセルしてグループライセンスに参加しますか？",

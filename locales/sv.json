@@ -1,4 +1,5 @@
 {
+  "kb_suggestions_enquiry": "Har du kollat i vår kunskapsdatabas?",
   "answer_yes": "Ja",
   "answer_no": "Nej",
   "log_hint_extra_info": "Läs mer",
@@ -52,7 +53,7 @@
   "suggest_new_doc": "Föreslå nytt dokument",
   "request_sent_thank_you": "Begäran skickad, tack.",
   "suggestion": "Förslag",
-  "project_url": "Projekt URL",
+  "project_url": "Påverkad projekt URL",
   "subject": "Ämne",
   "confirm": "Bekräfta",
   "cancel_personal_subscription_first": "Du har redan en personlig prenumeration, vill du avbryta denna innan du går med i grupp licensen?",
