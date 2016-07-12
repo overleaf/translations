@@ -1,4 +1,12 @@
 {
+  "contact_message_label": "Message",
+  "kb_suggestions_enquiry": "Avez-vous consulté notre base de connaissances ?",
+  "answer_yes": "Oui",
+  "answer_no": "Non",
+  "log_hint_extra_info": "En savoir plus",
+  "log_hint_feedback_label": "Ce conseil vous a-t-il été utile ?",
+  "log_hint_feedback_gratitude": "Merci pour votre avis !",
+  "recompile_pdf": "Recompiler le PDF",
   "open_a_file_on_the_left": "Ouvrir un fichier sur la gauche",
   "reference_error_relink_hint": "Si cette erreur persiste, essayez de lier à nouveau votre compte ici :",
   "pdf_rendering_error": "Erreur de rendu PDF",

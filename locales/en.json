@@ -1,6 +1,7 @@
 {
+  "knowledge_base": "knowledge base",
   "contact_message_label": "Message",
-  "kb_suggestions_enquiry": "Have you checked our knowledge base?",
+  "kb_suggestions_enquiry": "Have you checked our __kbLink__?",
   "answer_yes": "Yes",
   "answer_no": "No",
   "log_hint_extra_info": "Learn more",
