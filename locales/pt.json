@@ -1,4 +1,5 @@
 {
+  "contact_message_label": "Mensagem",
   "kb_suggestions_enquiry": "Você já viu nossa base de conhecimento?",
   "answer_yes": "Sim",
   "answer_no": "Não",
@@ -53,7 +54,7 @@
   "suggest_new_doc": "Sugerir novo documento",
   "request_sent_thank_you": "Requisição Enviada, Obrigado.",
   "suggestion": "Sugestões",
-  "project_url": "URL do Projeto",
+  "project_url": "URL Afetada do Projeto",
   "subject": "Assunto",
   "confirm": "Confirmar",
   "cancel_personal_subscription_first": "Você já tem uma inscrição pessoal, você gostaria que cancelássemos a primeira antes de se juntar à licença de grupo?",
