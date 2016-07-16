@@ -1,4 +1,7 @@
 {
+  "stop_compile": "Parar compilação",
+  "terminated": "Compilação cancelada",
+  "compile_terminated_by_user": "O compilador foi cancelado usando o botão \"Parar Compilação\". Você pode olhar os logs e ver onde a compilação parou.",
   "site_description": "Um editor de LaTeX online fácil de usar. Sem instalação, colaboração em tempo real, controle de versões, centenas de templates LaTeX e mais.",
   "knowledge_base": "base de conhecimento",
   "contact_message_label": "Mensagem",
