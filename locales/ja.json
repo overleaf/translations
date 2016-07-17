@@ -1,4 +1,7 @@
 {
+  "stop_compile": "コンパイルの停止",
+  "terminated": "コンパイルがキャンセルされました",
+  "compile_terminated_by_user": "「コンパイルの中止」ボタンを押してコンパイルがキャンセルされました。RAWログを表示して、コンパイルを中止した場所を確認することができます。",
   "site_description": "簡単に使用できるオンラインLaTeXエディタ。インストール必要なし、リアルタイムコラボレーション、バージョン管理、何百種類のLaTeXテンプレートなど多数の機能。",
   "knowledge_base": "知識ベース",
   "contact_message_label": "メッセージ",
