@@ -1,4 +1,5 @@
 {
+  "if_you_are_registered": "If you are already registered",
   "stop_compile": "Stop compilation",
   "terminated": "Compilation cancelled",
   "compile_terminated_by_user": "The compile was cancelled using the 'Stop Compilation' button. You can view the raw logs to see where the compile stopped.",
