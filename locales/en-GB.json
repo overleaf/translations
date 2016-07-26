@@ -1,4 +1,10 @@
 {
+  "log_hint_ask_extra_feedback": "Can you help us understand why this hint wasn't helpful?",
+  "log_hint_extra_feedback_didnt_understand": "I didn’t understand the hint",
+  "log_hint_extra_feedback_not_applicable": "I can’t apply this solution to my document",
+  "log_hint_extra_feedback_incorrect": "This doesn’t fix the error",
+  "log_hint_extra_feedback_other": "Other:",
+  "log_hint_extra_feedback_submit": "Submit",
   "if_you_are_registered": "If you are already registered",
   "stop_compile": "Stop compilation",
   "terminated": "Compilation cancelled",
