@@ -1,5 +1,12 @@
 {
-  "kb_suggestions_enquiry": "Har du kollat i vår kunskapsdatabas?",
+  "if_you_are_registered": "Om du redan är registrerad",
+  "stop_compile": "Stoppa kompilering",
+  "terminated": "Kompilering avbruten",
+  "compile_terminated_by_user": "Kompileringen var avbruten med 'Stoppa kompilering' knappen. Du kan titta i rå loggarna för att se var kompileringen avbröts.",
+  "site_description": "En online LaTeX editor som är enkel att använda. Ingen installation, realtids kollaborering, versionshantering, hundratals med LaTeX mallar, och mera.",
+  "knowledge_base": "kunskapsbank",
+  "contact_message_label": "Meddelande",
+  "kb_suggestions_enquiry": "Har du kollat i vår __kbLink__?",
   "answer_yes": "Ja",
   "answer_no": "Nej",
   "log_hint_extra_info": "Läs mer",
