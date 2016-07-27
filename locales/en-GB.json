@@ -1,4 +1,9 @@
 {
+  "pending": "Pending",
+  "invite_not_valid": "This is not a valid project invite",
+  "invite_not_valid_description": "The invite may have expired. Please contact the project owner",
+  "accepting_invite_as": "You are accepting this invite as",
+  "accept_invite": "Accept invite",
   "log_hint_ask_extra_feedback": "Can you help us understand why this hint wasn't helpful?",
   "log_hint_extra_feedback_didnt_understand": "I didn’t understand the hint",
   "log_hint_extra_feedback_not_applicable": "I can’t apply this solution to my document",
