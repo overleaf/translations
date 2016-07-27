@@ -1,4 +1,11 @@
 {
+  "log_hint_ask_extra_feedback": "このヒントが役に立たなかった",
+  "log_hint_extra_feedback_didnt_understand": "ヒントが理解できませんでした",
+  "log_hint_extra_feedback_not_applicable": "このソリューションをドキュメントに適用できません",
+  "log_hint_extra_feedback_incorrect": "これではエラーを修正できません",
+  "log_hint_extra_feedback_other": "その他：",
+  "log_hint_extra_feedback_submit": "提出",
+  "if_you_are_registered": "すでに登録しています",
   "stop_compile": "コンパイルの停止",
   "terminated": "コンパイルがキャンセルされました",
   "compile_terminated_by_user": "「コンパイルの中止」ボタンを押してコンパイルがキャンセルされました。RAWログを表示して、コンパイルを中止した場所を確認することができます。",
