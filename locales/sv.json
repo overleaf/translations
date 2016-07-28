@@ -1,5 +1,11 @@
 {
-  "log_hint_ask_extra_feedback": "Kan du hjälpa oss att förstå vad som inte var till någon hjälp?",
+  "revoke_invite": "Återkalla inbjudan",
+  "pending": "Inväntar",
+  "invite_not_valid": "Detta är inte en giltig inbjudan till ett projekt",
+  "invite_not_valid_description": "Inbjudan kan ha utgått. Vänligen kontakta ägaren av projektet",
+  "accepting_invite_as": "Du accepterar inbjudan som",
+  "accept_invite": "Acceptera inbjudan",
+  "log_hint_ask_extra_feedback": "Kan du hjälpa oss att förstå varför tipset inte var till någon nytta?",
   "log_hint_extra_feedback_didnt_understand": "Jag förstod inte tipset",
   "log_hint_extra_feedback_not_applicable": "Jag kan inte genomföra detta i mitt dokument",
   "log_hint_extra_feedback_incorrect": "Det löste inte problemet",
