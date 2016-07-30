@@ -1,4 +1,6 @@
 {
+  "file_checks": "Filkontroll",
+  "syntax_check": "Syntaxkontroll",
   "revoke_invite": "Återkalla inbjudan",
   "pending": "Inväntar",
   "invite_not_valid": "Detta är inte en giltig inbjudan till ett projekt",
