@@ -1,4 +1,6 @@
 {
+  "file_checks": "ファイルチェック",
+  "syntax_check": "シンタックスチェック",
   "revoke_invite": "招待のキャンセル",
   "pending": "承認待ち",
   "invite_not_valid": "これは有効なプロジェクト招待ではありません",
