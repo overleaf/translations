@@ -1,6 +1,7 @@
 {
   "file_checks": "Arquivos verificados",
   "syntax_check": "Sintaxe verificada",
+  "run_syntax_check": "Verificar sintaxe",
   "revoke_invite": "Revogar Convite",
   "pending": "Pendente",
   "invite_not_valid": "Esse não é um convite válido do projeto",
