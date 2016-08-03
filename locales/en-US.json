@@ -1,4 +1,6 @@
 {
+  "invite_not_accepted": "Invite not yet accepted",
+  "resend": "Resend",
   "file_checks": "File checks",
   "syntax_check": "Syntax check",
   "run_syntax_check": "Run syntax check",
