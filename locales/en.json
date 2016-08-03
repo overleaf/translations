@@ -1,4 +1,7 @@
 {
+  "file_restored": "Your file (__filename__) has been recovered.",
+  "file_restored_back_to_editor": "You can go back to the editor and work on it again.",
+  "file_restored_back_to_editor_btn": "Back to editor",
   "view_project": "View Project",
   "join_project": "Join Project",
   "invite_not_accepted": "Invite not yet accepted",
