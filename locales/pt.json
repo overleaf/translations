@@ -1,4 +1,8 @@
 {
+  "view_project": "Ver Projeto",
+  "join_project": "Entrar no Projeto",
+  "invite_not_accepted": "Convite ainda não aceito",
+  "resend": "Reenviar",
   "file_checks": "Arquivos verificados",
   "syntax_check": "Sintaxe verificada",
   "run_syntax_check": "Verificar sintaxe",
