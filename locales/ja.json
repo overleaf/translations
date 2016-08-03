@@ -1,6 +1,9 @@
 {
+  "invite_not_accepted": "招待はまだ承認されていません",
+  "resend": "再送信",
   "file_checks": "ファイルチェック",
   "syntax_check": "シンタックスチェック",
+  "run_syntax_check": "シンタックスチェックの実行",
   "revoke_invite": "招待のキャンセル",
   "pending": "承認待ち",
   "invite_not_valid": "これは有効なプロジェクト招待ではありません",

@@ -1,4 +1,6 @@
 {
+  "view_project": "View Project",
+  "join_project": "Join Project",
   "invite_not_accepted": "Invite not yet accepted",
   "resend": "Resend",
   "file_checks": "File checks",
