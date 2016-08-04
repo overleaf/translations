@@ -1,4 +1,5 @@
 {
+  "accept_invite": "Accepteer uitnodiging",
   "pdf_rendering_error": "PDF Render Error",
   "something_went_wrong_rendering_pdf": "Er is iets misgegaan tijdens het renderen van deze PDF.",
   "mendeley_reference_loading_error_expired": "Mendeley token verlopen, gelieve je account opnieuw te koppelen",

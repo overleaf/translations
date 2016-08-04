@@ -1,4 +1,9 @@
 {
+  "file_restored": "ファイル（__filename__）が復元されました。",
+  "file_restored_back_to_editor": "エディターに戻ってもう一度作業をすることができます。",
+  "file_restored_back_to_editor_btn": "エディターに戻る",
+  "view_project": "プロジェクトの表示",
+  "join_project": "プロジェクトに参加",
   "invite_not_accepted": "招待はまだ承認されていません",
   "resend": "再送信",
   "file_checks": "ファイルチェック",
@@ -240,7 +245,7 @@
   "password_has_been_reset": "あなたのパスワードはリセットされました",
   "login_here": "ここからログイン",
   "set_new_password": "新しいパスワードの設定",
-  "user_wants_you_to_see_project": "__username__ が __projectname__ の確認を求めています。",
+  "user_wants_you_to_see_project": "__username__ が __projectname__ への参加を求めています。",
   "join_sl_to_view_project": "__appName__ に参加してこのプロジェクトを表示",
   "register_to_edit_template": "__templateName__ テンプレートを編集するには登録してください",
   "already_have_sl_account": "__appName__ のアカウントをすでにお持ちですか？",
