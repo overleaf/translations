@@ -1,4 +1,8 @@
 {
+  "syntax_checking": "Verificando Sintaxe",
+  "file_restored": "Seu arquivo (__filename__) foi recuperado.",
+  "file_restored_back_to_editor": "Você pode voltar para o editor e trabalhar novamente.",
+  "file_restored_back_to_editor_btn": "Voltar para o editor",
   "view_project": "Ver Projeto",
   "join_project": "Entrar no Projeto",
   "invite_not_accepted": "Convite ainda não aceito",

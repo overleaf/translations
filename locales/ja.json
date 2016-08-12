@@ -1,5 +1,6 @@
 {
-  "notification_project_invite": "__userName__ が<em>__projectName__</em>への参加を求めています。<a href='/project/__projectId__/invite/token/__token__'>プロジェクトに参加</a>",
+  "syntax_checking": "シンタックス確認",
+  "notification_project_invite": "<b>__userName__</b> が <em>__projectName__</em> への参加を求めています。 <br><a class=\"ben btn-xs btn-info\" style=\"margin-top: 5px;\" href='/project/__projectId__/invite/token/__token__'>プロジェクトに参加</a>",
   "file_restored": "ファイル（__filename__）が復元されました。",
   "file_restored_back_to_editor": "エディターに戻ってもう一度作業をすることができます。",
   "file_restored_back_to_editor_btn": "エディターに戻る",

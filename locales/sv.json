@@ -1,4 +1,6 @@
 {
+  "syntax_checking": "Syntax kontroll",
+  "notification_project_invite": "<b>__userName__</b> vill att du går med i <em>__projectName__</em>, <br><a class=\"ben btn-xs btn-info\" style=\"margin-top: 5px;\" href='/project/__projectId__/invite/token/__token__'>Gå med i Projekt</a>",
   "file_restored": "Din fil (__filename__) har återställts.",
   "file_restored_back_to_editor": "Du kan gå tillbaka till editorn och jobba vidare med det igen.",
   "file_restored_back_to_editor_btn": "Tillbaka till editorn",
