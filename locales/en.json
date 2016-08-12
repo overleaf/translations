@@ -336,7 +336,7 @@
   "need_to_upgrade_for_history": "You need to upgrade your account to use the History feature.",
   "ask_proj_owner_to_upgrade_for_history": "Please ask the project owner to upgrade to use the History feature.",
   "anonymous": "Anonymous",
-  "generic_something_went_wrong": "Sorry, something went wrong :(",
+  "generic_something_went_wrong": "Sorry, something went wrong",
   "restoring": "Restoring",
   "restore_to_before_these_changes": "Restore to before these changes",
   "profile_complete_percentage": "Your profile is __percentval__% complete",
