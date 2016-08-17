@@ -1,6 +1,6 @@
 {
   "syntax_checking": "Syntax checking",
-  "notification_project_invite": "<b>__userName__</b> would like you to join <em>__projectName__</em>,<br><a class=\"ben btn-xs btn-info\" style=\"margin-top: 5px;\" href='/project/__projectId__/invite/token/__token__'>Join Project</a>",
+  "notification_project_invite": "<b>__userName__</b> would like you to join <em>__projectName__</em>,<br><a class=\"btn btn-xs btn-info\" style=\"margin-top: 5px;\" href='/project/__projectId__/invite/token/__token__'>Join Project</a>",
   "file_restored": "Your file (__filename__) has been recovered.",
   "file_restored_back_to_editor": "You can go back to the editor and work on it again.",
   "file_restored_back_to_editor_btn": "Back to editor",
