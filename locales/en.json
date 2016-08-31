@@ -1,4 +1,5 @@
 {
+  "autocomplete_references": "Reference Autocomplete (inside a \\cite{} block)",
   "autocomplete": "Autocomplete",
   "failed_compile_check": "It looks like your project has some fatal syntax errors that you should fix before we compile it",
   "failed_compile_check_try": "Try compiling anyway",

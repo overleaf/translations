@@ -1,4 +1,5 @@
 {
+  "autocomplete": "Autocomplete",
   "failed_compile_check": "Det verkar som att ditt projekt har allvarliga syntax fel som du måste åtgärda innan vi kan kompilera det",
   "failed_compile_check_try": "Försök att kompilera ändå",
   "failed_compile_option_or": "eller",
