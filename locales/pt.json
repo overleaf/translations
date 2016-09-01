@@ -1,4 +1,6 @@
 {
+  "autocomplete_references": "Referência Autocompletar (dentro do bloco <code>\\cite{}</code>)",
+  "autocomplete": "Autocompletar",
   "failed_compile_check": "Parece que o seu projeto tem erros fatais de sintaxe que você pode corrigir antes de compilar",
   "failed_compile_check_try": "Tentar compilar mesmo assim",
   "failed_compile_option_or": "ou",
@@ -24,7 +26,7 @@
   "resend": "Reenviar",
   "file_checks": "Arquivos verificados",
   "syntax_check": "Sintaxe verificada",
-  "run_syntax_check": "Verificar sintaxe",
+  "run_syntax_check": "Verificar sintaxe agora",
   "revoke_invite": "Revogar Convite",
   "pending": "Pendente",
   "invite_not_valid": "Esse não é um convite válido do projeto",
