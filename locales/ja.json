@@ -1,5 +1,7 @@
 {
-  "failed_compile_check": "コンパイルする前に修正すべき重大なシンタックスエラーがプロジェクト",
+  "autocomplete_references": "オートコンプリート参照（<code>\\cite{}</code>ブロック内）",
+  "autocomplete": "オートコンプリート",
+  "failed_compile_check": "コンパイルする前に修正すべき重大なシンタックスエラーがプロジェクトにあるようです",
   "failed_compile_check_try": "とにかくコンパイルを実行",
   "failed_compile_option_or": "あるいは",
   "failed_compile_check_ignore": "シンタックスチェックを終了",
