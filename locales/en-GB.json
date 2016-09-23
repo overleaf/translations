@@ -1,4 +1,10 @@
 {
+  "joining": "Joining",
+  "notification_project_invite_message": "<b>{{ userName }}</b> would like you to join <b>{{ projectName }}</b>",
+  "notification_project_invite_accepted_message": "You've joined <b>{{ projectName }}</b>",
+  "open_project": "Open Project",
+  "files_cannot_include_invalid_characters": "Files cannot include '*' or '/' characters",
+  "invalid_file_name": "Invalid File Name",
   "autocomplete_references": "Reference Autocomplete (inside a <code>\\cite{}</code> block)",
   "autocomplete": "Autocomplete",
   "failed_compile_check": "It looks like your project has some fatal syntax errors that you should fix before we compile it",
