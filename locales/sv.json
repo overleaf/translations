@@ -1,4 +1,11 @@
 {
+  "joining": "Går med",
+  "notification_project_invite_message": "<b>{{ userName }}</b> vill att du ska gå med i <b>{{ projectName }}</b>",
+  "notification_project_invite_accepted_message": "Du har gått med i <b>{{ projectName }}</b>",
+  "open_project": "Öppna Projekt",
+  "files_cannot_include_invalid_characters": "Filer kan inte inkludera '*' eller '/' tecken",
+  "invalid_file_name": "Ogiltigt filnamn",
+  "autocomplete_references": "Referens autocomplete (inuti en <code>\\cite{}</code> block)",
   "autocomplete": "Autocomplete",
   "failed_compile_check": "Det verkar som att ditt projekt har allvarliga syntax fel som du måste åtgärda innan vi kan kompilera det",
   "failed_compile_check_try": "Försök att kompilera ändå",
