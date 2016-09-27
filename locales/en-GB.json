@@ -1,4 +1,5 @@
 {
+  "history": "History",
   "joining": "Joining",
   "notification_project_invite_message": "<b>{{ userName }}</b> would like you to join <b>{{ projectName }}</b>",
   "notification_project_invite_accepted_message": "You've joined <b>{{ projectName }}</b>",

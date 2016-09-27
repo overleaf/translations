@@ -1,4 +1,5 @@
 {
+  "notification_project_invite_message": "<b>{{ userName }}</b> ønsker at du deltager i <b>{{ projectName }}</b>",
   "failed_compile_check": "Det ser ud til at dit projekt har nogle fatale syntaksfejl, som skal rettes før vi kan kompilere det",
   "failed_compile_check_try": "Prøv at kompilere alligevel",
   "failed_compile_option_or": "eller",
