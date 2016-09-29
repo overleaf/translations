@@ -1,4 +1,5 @@
 {
+  "history": "Historik",
   "joining": "Går med",
   "notification_project_invite_message": "<b>{{ userName }}</b> vill att du ska gå med i <b>{{ projectName }}</b>",
   "notification_project_invite_accepted_message": "Du har gått med i <b>{{ projectName }}</b>",
