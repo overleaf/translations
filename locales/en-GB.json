@@ -231,7 +231,7 @@
   "need_to_leave": "Need to leave?",
   "delete_your_account": "Delete your account",
   "delete_account": "Delete Account",
-  "delete_account_warning_message": "You are about to permanently <strong>delete all of your account data</strong>, including your projects and settings. Please type DELETE into the box below to proceed.",
+  "delete_account_warning_message": "You are about to permanently <strong>delete all of your account data</strong>, including your projects and settings. Please type your account email address into the box below to proceed.",
   "deleting": "Deleting",
   "delete": "Delete",
   "sl_benefits_plans": "__appName__ is the world's easiest to use LaTeX editor. Stay up to date with your collaborators, keep track of all changes to your work, and use our LaTeX environment from anywhere in the world.",
