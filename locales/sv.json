@@ -1,4 +1,5 @@
 {
+  "syntax_validation": "Kod kontroll",
   "history": "Historik",
   "joining": "Går med",
   "notification_project_invite_message": "<b>{{ userName }}</b> vill att du ska gå med i <b>{{ projectName }}</b>",
@@ -231,7 +232,7 @@
   "need_to_leave": "Vill du lämna?",
   "delete_your_account": "Ta bort ditt konto",
   "delete_account": "Ta bort konto",
-  "delete_account_warning_message": "Du håller på att permanent <strong>ta bort ditt konto och data</strong>, inklusive alla projekt och inställningar. Vänligen skriv DELETE i rutan nedan för att fortsätta.",
+  "delete_account_warning_message": "Du håller på att permanent <strong>ta bort all din konto data</strong>, inklusive dina projekt och inställningar. Vänligen skriv in ditt konto e-postadress i rutan nedan för att fortsätta.",
   "deleting": "Tar bort",
   "delete": "Radera",
   "sl_benefits_plans": "__appName__ är världens enklaste LaTeX editor. Samarbeta direkt med dina medarbetare, håll koll på alla förändringar i dokumenten, och använd vår LaTeX miljö över hela världen.",

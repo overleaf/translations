@@ -1,4 +1,5 @@
 {
+  "syntax_validation": "Code check",
   "history": "History",
   "joining": "Joining",
   "notification_project_invite_message": "<b>{{ userName }}</b> would like you to join <b>{{ projectName }}</b>",
@@ -309,7 +310,7 @@
   "settings": "Settings",
   "main_document": "Main document",
   "off": "Off",
-  "auto_complete": "Auto-Complete",
+  "auto_complete": "Auto-complete",
   "theme": "Theme",
   "font_size": "Font Size",
   "pdf_viewer": "PDF Viewer",
@@ -685,7 +686,7 @@
   "general": "General",
   "project_name": "Project Name",
   "root_document": "Root Document",
-  "spell_check": "Spell Check",
+  "spell_check": "Spell check",
   "compiler": "Compiler",
   "public_access": "Public Access",
   "private": "Private",
