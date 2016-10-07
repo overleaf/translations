@@ -1,4 +1,13 @@
 {
+  "your_sessions": "Your Sessions",
+  "clear_sessions_description": "This is a list of other sessions (logins) which are active on your account, not including your current session. Click the \"Clear Sessions\" button below to log them out.",
+  "no_other_sessions": "No other sessions active",
+  "ip_address": "IP Address",
+  "session_created_at": "Session Created At",
+  "clear_sessions": "Clear Sessions",
+  "clear_sessions_success": "Sessions Cleared",
+  "sessions": "Sessions",
+  "manage_sessions": "Manage Your Sessions",
   "syntax_validation": "Code check",
   "history": "History",
   "joining": "Joining",
