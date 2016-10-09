@@ -1,4 +1,13 @@
 {
+  "your_sessions": "あなたのセッション",
+  "clear_sessions_description": "これはお客さまのアカウントでアクティブなセッション（ログイン）の一覧です。現在のセッションは含まれていません。下の「セッションのクリア」ボタンをクリックしてログアウトします。",
+  "no_other_sessions": "他にアクティブなセッションはありません",
+  "ip_address": "IPアドレス",
+  "session_created_at": "作成されたセッション",
+  "clear_sessions": "セッションのクリア",
+  "clear_sessions_success": "セッションがクリアされました",
+  "sessions": "セッション",
+  "manage_sessions": "セッションの管理",
   "syntax_validation": "コードチェック",
   "history": "履歴",
   "joining": "参加中",
