@@ -1,4 +1,5 @@
 {
+  "delete_account_warning_message_2": "プロジェクトや設定などの <strong> アカウントデータをすべて削除 </strong> しようとしています。続行するには下のボックスにお客さまのアカウントのメールアドレスを入力してください。",
   "your_sessions": "あなたのセッション",
   "clear_sessions_description": "これはお客さまのアカウントでアクティブなセッション（ログイン）の一覧です。現在のセッションは含まれていません。下の「セッションのクリア」ボタンをクリックしてログアウトします。",
   "no_other_sessions": "他にアクティブなセッションはありません",
@@ -16,7 +17,7 @@
   "open_project": "プロジェクトを開く",
   "files_cannot_include_invalid_characters": "ファイルには「*」や「/」などの文字を含めることはできません",
   "invalid_file_name": "無効なファイル名",
-  "autocomplete_references": "オートコンプリート参照（<code>\\cite{}</code>ブロック内）",
+  "autocomplete_references": "参照オートコンプリート（<code>\\cite{}</code>ブロック内）",
   "autocomplete": "オートコンプリート",
   "failed_compile_check": "コンパイルする前に修正すべき重大なシンタックスエラーがプロジェクトにあるようです",
   "failed_compile_check_try": "とにかくコンパイルを実行",
@@ -32,7 +33,7 @@
   "paypal_upgrade": "アップグレードするには、下のボタンをクリックし、メールアドレスとパスワードを入力してPayPalにログインしてください。",
   "upgrade_cc_btn": "今すぐアップグレード、支払いは1週間後",
   "upgrade_paypal_btn": "続行",
-  "syntax_checking": "シンタックス確認",
+  "syntax_checking": "シンタックスチェック",
   "notification_project_invite": "<b>__userName__</b>が<b>__projectName__</b> への参加を求めています<a class=\"btn btn-sm btn-info pull-right\" href='/project/__projectId__/invite/token/__token__'>プロジェクトに参加</a>",
   "file_restored": "ファイル（__filename__）が復元されました。",
   "file_restored_back_to_editor": "エディターに戻ってもう一度作業をすることができます。",
