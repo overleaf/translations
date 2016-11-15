@@ -1,4 +1,6 @@
 {
+  "return_to_login_page": "ログインページに戻る",
+  "login_failed": "ログイン失敗",
   "delete_account_warning_message_3": "プロジェクトや設定などの <strong> アカウントのデータをすべて削除 </strong> しようとしています。続行するには下のボックスにお客さまのアカウントのメールアドレスとパスワードを入力してください。",
   "delete_account_warning_message_2": "プロジェクトや設定などの <strong> アカウントデータをすべて削除 </strong> しようとしています。続行するには下のボックスにお客さまのアカウントのメールアドレスを入力してください。",
   "your_sessions": "あなたのセッション",

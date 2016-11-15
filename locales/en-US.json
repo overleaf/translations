@@ -230,7 +230,7 @@
   "current_password": "Current Password",
   "new_password": "New Password",
   "confirm_new_password": "Confirm New Password",
-  "required": "required",
+  "required": "Required",
   "doesnt_match": "Doesn't match",
   "dropbox_integration": "Dropbox Integration",
   "learn_more": "Learn more",

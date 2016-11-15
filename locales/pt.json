@@ -1,4 +1,6 @@
 {
+  "return_to_login_page": "Retorna à Página de Login",
+  "login_failed": "Login falhou",
   "delete_account_warning_message_3": "Você está prestes da <strong>deletar todos os dados de sua conta</strong> permanentemente, incluindo seus projetos e configurações. Por favor, digite o endereço de email e senha da sua conta nas caixas de texto abaixo para prosseguir.",
   "delete_account_warning_message_2": "Você está prestes da <strong>deletar todos os dados de sua conta</strong> permanentemente, incluindo seus projetos e configurações. Por favor, digite o endereço de email da sua conta nas caixas de texto abaixo para prosseguir.",
   "your_sessions": "Suas Sessões",
