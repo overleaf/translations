@@ -1,4 +1,8 @@
 {
+  "return_to_login_page": "Tilbage til Login siden",
+  "login_failed": "Login fejlede",
+  "delete_account_warning_message_3": "Du er ved at <strong>slette alle din kontos data</strong>, herunder dine projekter og indstillinger, permanent. Skriv venligst din kontos email adresse og kodeord i nedenstående felter for at fortsætte.",
+  "delete_account_warning_message_2": "Du er ved at <strong>slette alle din kontos data</strong>, herunder dine projekter og indstillinger, permanent. Skriv venligst din kontos email adresse i nedenstående felt for at fortsætte.",
   "your_sessions": "Dine sessioner",
   "clear_sessions_description": "Dette er en liste over alle din brugers aktive sessioner (logins), undtagen din nuværende session. Klik på knappen \"Ryd sessioner\" nedenunder for at logge dem af.",
   "no_other_sessions": "Ingen aktive sessioner",
@@ -224,7 +228,7 @@
   "current_password": "Nuværende Kodeord",
   "new_password": "Nyt Kodeord",
   "confirm_new_password": "Bekræft Nyt Kodeord",
-  "required": "nødvendig",
+  "required": "Nødvendig",
   "doesnt_match": "Matcher ikke",
   "dropbox_integration": "Dropbox Integration",
   "learn_more": "Lær mere",

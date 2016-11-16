@@ -1,4 +1,5 @@
 {
+  "log_in_with": "Log in with __provider__",
   "return_to_login_page": "Return to Login page",
   "login_failed": "Login failed",
   "delete_account_warning_message_3": "You are about to permanently <strong>delete all of your account data</strong>, including your projects and settings. Please type your account email address and password in the boxes below to proceed.",
