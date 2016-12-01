@@ -1,4 +1,7 @@
 {
+  "cant_find_page_or_restricted": "Sidan existerar inte, eller så saknar du rättigheter att se den",
+  "log_in_with": "Logga in med __provider__",
+  "return_to_login_page": "Tillbaka till Inloggningssidan",
   "login_failed": "Inloggning misslyckades",
   "delete_account_warning_message_3": "Du håller på att permanent <strong>ta bort all din kontodata</strong>, inklusive dina projekt och inställningar. Vänligen skriv in e-postadressen till ditt konto och lösenordet i fältet nedan för att fortsätta.",
   "delete_account_warning_message_2": "Du håller på att permanent <strong>ta bort all din konto data</strong>, inklusive dina projekt och inställningar. Vänligen skriv in din konto e-postadress i fältet nedan för att fortsätta.",
