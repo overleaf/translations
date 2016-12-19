@@ -1,4 +1,5 @@
 {
+  "cannot_invite_non_user": "Can't send invite. Recipient must already have a ShareLaTeX account",
   "cant_find_page_or_restricted": "Page doesn't exist, or you don't have permission to view it",
   "log_in_with": "Log in with __provider__",
   "return_to_login_page": "Return to Login page",
