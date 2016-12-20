@@ -1,4 +1,5 @@
 {
+  "cannot_invite_non_user": "招待を送信することができません。受信者がShareLaTeXアカウントを所持している必要があります。 ",
   "cant_find_page_or_restricted": "ページは存在していません。あるいは、ページを表示するための権限がありません。",
   "log_in_with": "__provider__ でログイン",
   "return_to_login_page": "ログインページに戻る",
