@@ -287,7 +287,7 @@
   "password_has_been_reset": "Dein Passwort wurde zurückgesetzt",
   "login_here": "Hier anmelden",
   "set_new_password": "Neues Passwort eingeben",
-  "user_wants_you_to_see_project": "__username__ möchte, dass du dir  __projectname__ ansiehst",
+  "user_wants_you_to_see_project": "__username__ möchte, dass Sie __projectname__ beitreten",
   "join_sl_to_view_project": "Registriere dich für  __appName__, um dieses Projekt zu sehen",
   "register_to_edit_template": "Bitte registriere dich um die __templateName__ Vorlage zu bearbeiten",
   "already_have_sl_account": "Hast du bereits ein __appName__-Konto?",
