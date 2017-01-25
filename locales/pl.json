@@ -1,4 +1,6 @@
 {
+  "retry": "Ponów",
+  "error": "Błąd",
   "projects": "Projekty",
   "upload_project": "Wyślij projekt",
   "all_projects": "Wszystkie projekty",
