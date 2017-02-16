@@ -62,7 +62,7 @@
   "leave_group": "Quitter le groupe",
   "leave_now": "Quitter maintenant",
   "sure_you_want_to_leave_group": "Voulez-vous vraiment quitter ce groupe ?",
-  "notification_group_invite": "Vous avez été invité(e) à rejoindre le __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>Rejoindre ici</a>.",
+  "notification_group_invite": "Vous avez été invité(e) à rejoindre le __groupName__, <a href=\"/user/subscription/__subscription_id__/group/invited\">Rejoindre ici</a>.",
   "search_references": "Rechercher les fichiers .bib dans ce projet",
   "no_search_results": "Aucun résultat pour la recherche",
   "email_already_registered": "Cette adresse électronique est déjà enregistrée",

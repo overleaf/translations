@@ -327,7 +327,7 @@
   "get_in_touch": "연락하기",
   "want_to_hear_from_you_email_us_at": "ShareLaTeX를 사용하는 모든분들을 이야기를 듣거나, 사용자분들과 대화하길 바랍니다. 저희와 대화하시려면 다음으로 연락주세요: ",
   "cant_find_email": "해당 이메일 주소는 등록되지 않았습니다, 죄송합니다.",
-  "plans_amper_pricing": "플랜 & 가격",
+  "plans_amper_pricing": "플랜 &amp; 가격",
   "documentation": "문서",
   "account": "계정",
   "subscription": "구독",

@@ -28,7 +28,7 @@
   "leave_group": "Verlaat groep",
   "leave_now": "Verlaat nu",
   "sure_you_want_to_leave_group": "Weet je zeker dat je deze groep wilt verlaten?",
-  "notification_group_invite": "Je bent uigenodigd om lid te worden van __groupName__, <a href='/user/subscription/__subscription_id__/group/invited'>Word lid</a>.",
+  "notification_group_invite": "Je bent uigenodigd om lid te worden van __groupName__, <a href=\"/user/subscription/__subscription_id__/group/invited\">Word lid</a>.",
   "search_references": "Doorzoek het .bib bestand in dit project",
   "no_search_results": "Geen zoek resultaten",
   "email_already_registered": "Dit e-mailadres is al geregistreerd",

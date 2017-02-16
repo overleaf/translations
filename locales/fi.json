@@ -327,7 +327,7 @@
   "get_in_touch": "Ota yhteyttä",
   "want_to_hear_from_you_email_us_at": "Kuulisimme mielellämme kaikista niistä, jotka käyttävät __appName__-sovellusta ja haluavat keskustella kanssamme siitä, mitä me teemme. Ota meihin yhteys osoitteessa ",
   "cant_find_email": "Tämä sähköposti ei ole rekisteröity, pahoittelut.",
-  "plans_amper_pricing": "Sopimukset & Hinnoittelu",
+  "plans_amper_pricing": "Sopimukset &amp; Hinnoittelu",
   "documentation": "Dokumentaatio",
   "account": "Tili",
   "subscription": "Tilaus",
