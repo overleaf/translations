@@ -1,4 +1,6 @@
 {
+  "hit_enter_to_reply": "点击确认键重试",
+  "add_your_comment_here": "在此添加评论",
   "resolved_comments": "已折叠的评论",
   "try_it_for_free": "免费体验",
   "please_ask_the_project_owner_to_upgrade_to_track_changes": "请要求项目所有者升级以使用历史查询功能。",
@@ -93,7 +95,7 @@
   "syntax_check": "语法检查",
   "revoke_invite": "撤销邀请",
   "pending": "待定",
-  "invite_not_valid": "这不是一个有效的项目邀请",
+  "invite_not_valid": "项目邀请无效",
   "invite_not_valid_description": "邀请已经过期。请联系项目所有者",
   "accepting_invite_as": "接受邀请",
   "accept_invite": "接受邀请",
