@@ -620,7 +620,7 @@
   "inserting_files": "Datei wird eingefügt...",
   "password_reset_token_expired": "Dein Passwortzurücksetztoken ist nicht mehr gültig. Bitte fordere ein neues Passwortresetmail an und folge dem Link im Mail.",
   "merge_project_with_github": "Projekt mit GitHub mergen",
-  "pull_github_changes_into_sharelatex": "GitHun-Änderungen nach __appName__ ziehen",
+  "pull_github_changes_into_sharelatex": "GitHub-Änderungen nach __appName__ ziehen",
   "push_sharelatex_changes_to_github": "__appName__-Änderungen in GitHub drücken",
   "features": "Features",
   "commit": "Commit",
