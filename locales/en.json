@@ -1,4 +1,6 @@
 {
+  "reauthorize_github_account": "Reauthorize your GitHub Account",
+  "github_credentials_expired": "Your GitHub authorization credentials have expired",
   "hit_enter_to_reply": "Hit Enter to reply",
   "add_your_comment_here": "Add your comment here",
   "resolved_comments": "Resolved comments",

@@ -1,4 +1,6 @@
 {
+  "reauthorize_github_account": "Återauktorisera ditt GitHub konto",
+  "github_credentials_expired": "Din auktorisering för GitHub har löpt ut",
   "hit_enter_to_reply": "Tryck Enter för att svara",
   "add_your_comment_here": "Skriv din kommentar här",
   "resolved_comments": "Åtgärdade kommentarer",
