@@ -1,4 +1,6 @@
 {
+  "reauthorize_github_account": "重新授权 GitHub 帐号",
+  "github_credentials_expired": "您的 Github 授权凭证已过期",
   "hit_enter_to_reply": "点击确认键重试",
   "add_your_comment_here": "在此添加评论",
   "resolved_comments": "已折叠的评论",
