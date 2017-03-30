@@ -1,4 +1,6 @@
 {
+  "reauthorize_github_account": "Autoriser din GitHub konto igen",
+  "github_credentials_expired": "Dine GitHub autorisations oplysninger er udløbet",
   "hit_enter_to_reply": "Tryk på Enter for at svare",
   "add_your_comment_here": "Tilføj din kommentar her",
   "resolved_comments": "Løste kommentarer",
