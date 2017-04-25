@@ -1,4 +1,6 @@
 {
+  "pdf_compile_rate_limit_hit": "Limite de taxa de compilação atingido",
+  "project_flagged_too_many_compiles": "Este projeto foi marcado por compilar com muita frequência. O limite vai ser restabelecido logo.",
   "reauthorize_github_account": "Reautorize sua conta GitHub",
   "github_credentials_expired": "Suas credenciais de autorização do GitHub expiraram",
   "hit_enter_to_reply": "Pressione Enter para responder",
