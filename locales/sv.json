@@ -1,4 +1,6 @@
 {
+  "pdf_compile_rate_limit_hit": "Kompilerings gräns nådd",
+  "project_flagged_too_many_compiles": "Detta projekt har kompilerats för ofta. Begränsningen kommer snart tas bort igen.",
   "reauthorize_github_account": "Återauktorisera ditt GitHub konto",
   "github_credentials_expired": "Din auktorisering för GitHub har löpt ut",
   "hit_enter_to_reply": "Tryck Enter för att svara",
