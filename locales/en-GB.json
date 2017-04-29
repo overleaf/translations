@@ -1,4 +1,5 @@
 {
+  "uncategorized": "Uncategorized",
   "pdf_compile_rate_limit_hit": "Compile rate limit hit",
   "project_flagged_too_many_compiles": "This project has been flagged for compiling too often. The limit will be lifted shortly.",
   "reauthorize_github_account": "Reauthorize your GitHub Account",

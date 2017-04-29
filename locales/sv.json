@@ -1,4 +1,5 @@
 {
+  "uncategorized": "Okategoriserad",
   "pdf_compile_rate_limit_hit": "Kompilerings gräns nådd",
   "project_flagged_too_many_compiles": "Detta projekt har kompilerats för ofta. Begränsningen kommer snart tas bort igen.",
   "reauthorize_github_account": "Återauktorisera ditt GitHub konto",
