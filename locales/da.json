@@ -1,4 +1,7 @@
 {
+  "uncategorized": "Ikke kategoriseret",
+  "pdf_compile_rate_limit_hit": "Grænsen for kompilerings hyppigheden er nået",
+  "project_flagged_too_many_compiles": "Dette projekt er blevet markeret for at kompilere for ofte. Grænsen bliver snart løftet.",
   "reauthorize_github_account": "Autoriser din GitHub konto igen",
   "github_credentials_expired": "Dine GitHub autorisations oplysninger er udløbet",
   "hit_enter_to_reply": "Tryk på Enter for at svare",
