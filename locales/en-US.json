@@ -1,4 +1,8 @@
 {
+  "accept_all": "Accept all",
+  "reject_all": "Reject all",
+  "bulk_accept_confirm": "Are you sure you want to accept the selected __nChanges__ changes?",
+  "bulk_reject_confirm": "Are you sure you want to reject the selected __nChanges__ changes?",
   "uncategorized": "Uncategorized",
   "pdf_compile_rate_limit_hit": "Compile rate limit hit",
   "project_flagged_too_many_compiles": "This project has been flagged for compiling too often. The limit will be lifted shortly.",
