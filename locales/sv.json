@@ -1,4 +1,8 @@
 {
+  "accept_all": "Acceptera alla",
+  "reject_all": "Avvisa alla",
+  "bulk_accept_confirm": "Är du säker på att du vill acceptera de __nChanges__ valda ändringarna?",
+  "bulk_reject_confirm": "Är du säker på att du vill avvisa de __nChanges__ valda ändringarna?",
   "uncategorized": "Okategoriserad",
   "pdf_compile_rate_limit_hit": "Kompilerings gräns nådd",
   "project_flagged_too_many_compiles": "Detta projekt har kompilerats för ofta. Begränsningen kommer snart tas bort igen.",

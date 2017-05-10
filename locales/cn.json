@@ -1,4 +1,8 @@
 {
+  "accept_all": "采纳全部",
+  "reject_all": "拒绝全部",
+  "bulk_accept_confirm": "您确认采纳__nChanges__ 个变动吗？",
+  "bulk_reject_confirm": "您确认拒绝__nChanges__ 个变动吗？",
   "uncategorized": "未分类",
   "pdf_compile_rate_limit_hit": "编译率达到限制",
   "project_flagged_too_many_compiles": "因频繁编译，项目被标旗。编译上限会稍后解除。",
