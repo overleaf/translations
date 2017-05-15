@@ -43,6 +43,7 @@
   "sending": "보내기",
   "invalid_password": "비밀번호 틀림",
   "error": "오류",
+  "send_test_email": "테스트 이메일 보내기",
   "email_sent": "이메일 보냄",
   "create_first_admin_account": "첫 관리 계정 생성",
   "ldap": "LDAP",

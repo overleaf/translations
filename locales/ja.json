@@ -6,6 +6,7 @@
   "create_first_admin_account": "初めての管理者アカウントの作成",
   "ldap": "LDAP",
   "status_checks": "ステータスの確認",
+  "editor_resources": "エディターの資源",
   "checking": "確認中",
   "cannot_invite_non_user": "招待を送信することができません。受信者がShareLaTeXアカウントを所持している必要があります。 ",
   "log_in_with": "__provider__ でログイン",

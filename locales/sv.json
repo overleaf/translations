@@ -1,4 +1,6 @@
 {
+  "confirm_password_to_continue": "Bekräfta lösenord för att fortsätta",
+  "confirm_password_footer": "Vi kommer inte att fråga efter ditt lösenord igen på ett tag.",
   "accept_all": "Acceptera alla",
   "reject_all": "Avvisa alla",
   "bulk_accept_confirm": "Är du säker på att du vill acceptera de __nChanges__ valda ändringarna?",
@@ -45,6 +47,7 @@
   "invalid_password": "Felaktigt lösenord",
   "error": "Fel",
   "other_actions": "Andra åtgärder",
+  "send_test_email": "Skicka ett test-mail",
   "email_sent": "E-mail skickat",
   "create_first_admin_account": "Skapa ett första Admin-konto",
   "ldap": "LDAP",
@@ -53,6 +56,7 @@
   "saml_create_admin_instructions": "Välj en e-mailadress för ditt första admin-konto på ShareLaTeX. Den bör matcha ett konto i SAML-systemet. När du valt kommer du ombes logga in med detta konto.",
   "admin_user_created_message": "Admin-konto skapat, <a href=\"__link__\">Logga in här</a> för att fortsätta",
   "status_checks": "Rutinkontroller",
+  "editor_resources": "Editor-resurser",
   "checking": "Kontrollerar",
   "cannot_invite_self": "Du kan inte skicka en inbjudan till dig själv",
   "cannot_invite_non_user": "Kunde inte skicka inbjudan. Mottagaren har redan ett ShareLaTeX-konto",
