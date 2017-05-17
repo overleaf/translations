@@ -1,4 +1,10 @@
 {
+  "confirm_password_to_continue": "Bekræft kodeordet for at fortsætte",
+  "confirm_password_footer": "Vi vil ikke bede om dit kodeord igen i et stykke tid.",
+  "accept_all": "Accepter alle",
+  "reject_all": "Afvis alle",
+  "bulk_accept_confirm": "Er du sikker på, at du vil acceptere de valgte __nChanges__ ændringer?",
+  "bulk_reject_confirm": "Er du sikker på, at du vil afvise de valgte __nChanges__ ændringer?",
   "uncategorized": "Ikke kategoriseret",
   "pdf_compile_rate_limit_hit": "Grænsen for kompilerings hyppigheden er nået",
   "project_flagged_too_many_compiles": "Dette projekt er blevet markeret for at kompilere for ofte. Grænsen bliver snart løftet.",
