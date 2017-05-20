@@ -51,7 +51,7 @@
   "unlink_reference": "Ne plus lier le fournisseur de références",
   "unlink_warning_reference": "Attention : si vous supprimez le lien entre votre compte et ce fournisseur, vous ne pourrez plus importer des références dans vos projets.",
   "mendeley": "Mendeley",
-  "suggest_new_doc": "Suggérer nouveau document",
+  "suggest_new_doc": "Suggérer un nouveau document",
   "request_sent_thank_you": "Demande envoyée, merci.",
   "suggestion": "Suggestion",
   "project_url": "URL du projet concerné",
