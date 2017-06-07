@@ -1,4 +1,8 @@
 {
+  "aggregate_changed": "替换",
+  "aggregate_to": "为",
+  "confirm_password_to_continue": "确认密码以继续",
+  "confirm_password_footer": "短时间内我们将不会再要求输入密码",
   "accept_all": "采纳全部",
   "reject_all": "拒绝全部",
   "bulk_accept_confirm": "您确认采纳__nChanges__ 个变动吗？",

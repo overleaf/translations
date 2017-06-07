@@ -1,4 +1,6 @@
 {
+  "aggregate_changed": "Ändrade",
+  "aggregate_to": "till",
   "confirm_password_to_continue": "Bekräfta lösenord för att fortsätta",
   "confirm_password_footer": "Vi kommer inte att fråga efter ditt lösenord igen på ett tag.",
   "accept_all": "Acceptera alla",

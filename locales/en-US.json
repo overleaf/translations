@@ -1,4 +1,6 @@
 {
+  "aggregate_changed": "Changed",
+  "aggregate_to": "to",
   "confirm_password_to_continue": "Confirm password to continue",
   "confirm_password_footer": "We won't ask for your password again for a while.",
   "accept_all": "Accept all",

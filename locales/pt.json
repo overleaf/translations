@@ -1,4 +1,8 @@
 {
+  "aggregate_changed": "Alterado",
+  "aggregate_to": "para",
+  "confirm_password_to_continue": "Confirme sua senha para continuar",
+  "confirm_password_footer": "Não pediremos sua senha de novo por um tempo.",
   "accept_all": "Aceitar todos",
   "reject_all": "Rejeitar todos",
   "bulk_accept_confirm": "Vocês tem certeza que deseja aceitar as __nChanges__ alterações selecionadas?",
