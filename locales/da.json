@@ -1,4 +1,6 @@
 {
+  "aggregate_changed": "Ændrede",
+  "aggregate_to": "til",
   "confirm_password_to_continue": "Bekræft kodeordet for at fortsætte",
   "confirm_password_footer": "Vi vil ikke bede om dit kodeord igen i et stykke tid.",
   "accept_all": "Accepter alle",
