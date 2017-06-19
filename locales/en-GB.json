@@ -1,4 +1,6 @@
 {
+  "show_link": "Show Link",
+  "hide_link": "Hide Link",
   "aggregate_changed": "Changed",
   "aggregate_to": "to",
   "confirm_password_to_continue": "Confirm password to continue",
