@@ -1,4 +1,6 @@
 {
+  "show_link": "Visa länk",
+  "hide_link": "Göm länk",
   "aggregate_changed": "Ändrade",
   "aggregate_to": "till",
   "confirm_password_to_continue": "Bekräfta lösenord för att fortsätta",

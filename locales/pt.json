@@ -1,4 +1,6 @@
 {
+  "show_link": "Mostrar Link",
+  "hide_link": "Esconder Link",
   "aggregate_changed": "Alterado",
   "aggregate_to": "para",
   "confirm_password_to_continue": "Confirme sua senha para continuar",
