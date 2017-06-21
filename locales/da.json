@@ -1,4 +1,6 @@
 {
+  "show_link": "Vis Link",
+  "hide_link": "Skjul Link",
   "aggregate_changed": "Ændrede",
   "aggregate_to": "til",
   "confirm_password_to_continue": "Bekræft kodeordet for at fortsætte",
