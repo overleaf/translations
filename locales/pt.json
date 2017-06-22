@@ -1,4 +1,5 @@
 {
+  "successfull_dropbox_link": "Dropbox vinculado com sucesso, Redirecionando para página de configurações.",
   "show_link": "Mostrar Link",
   "hide_link": "Esconder Link",
   "aggregate_changed": "Alterado",
@@ -236,7 +237,7 @@
   "Subscription": "Inscrição",
   "Documentation": "Documentação",
   "Universities": "Universidades",
-  "Account Settings": "Configuração da Conta",
+  "Account Settings": "Configurações da Conta",
   "Projects": "Projetos",
   "Account": "Conta",
   "global": "global",
