@@ -1,4 +1,5 @@
 {
+  "auto_close_brackets": "Auto-close Brackets",
   "auto_pair_delimiters": "Auto-Pair Delimiters",
   "successfull_dropbox_link": "Dropbox successfully linked, Redirecting to settings page.",
   "show_link": "Show Link",
