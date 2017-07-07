@@ -1,4 +1,9 @@
 {
+  "tc_everyone": "Everyone",
+  "per_user_tc_title": "Per-user Track Changes",
+  "you_can_use_per_user_tc": "Now you can use Track Changes on a per-user basis",
+  "turn_tc_on_individuals": "Turn Track Changes on for individuals users",
+  "keep_tc_on_like_before": "Or keep it on for everyone, like before",
   "auto_close_brackets": "Auto-close Brackets",
   "auto_pair_delimiters": "Auto-Pair Delimiters",
   "successfull_dropbox_link": "Dropbox successfully linked, Redirecting to settings page.",

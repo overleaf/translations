@@ -1,5 +1,11 @@
 {
-  "auto_pair_delimiters": "Fechamento Automático de Delimitador",
+  "tc_everyone": "Todos",
+  "per_user_tc_title": "Acompanhar Alterações por Usuário",
+  "you_can_use_per_user_tc": "Agora você pode acompanhar as alterações por usuário",
+  "turn_tc_on_individuals": "Ligar Acompanhar Alterações individualmente por usuário",
+  "keep_tc_on_like_before": "Ou continue verificando todas, como antes",
+  "auto_close_brackets": "Fechamento Automático de Delimitadores",
+  "auto_pair_delimiters": "Delimitadores de Pareamento Automático",
   "successfull_dropbox_link": "Dropbox vinculado com sucesso, Redirecionando para página de configurações.",
   "show_link": "Mostrar Link",
   "hide_link": "Esconder Link",
