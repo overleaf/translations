@@ -1,4 +1,8 @@
 {
+  "tc_everyone": "모든 사람",
+  "per_user_tc_title": "개인별 변경 추적",
+  "you_can_use_per_user_tc": "이제 개인별 변경 추적을 사용할 수 있습니다.",
+  "turn_tc_on_individuals": "개인별 변경 추적 사용하기",
   "auto_close_brackets": "괄호 자동완성",
   "auto_pair_delimiters": "구분문자 자동완성",
   "successfull_dropbox_link": "Dropbox에 성공적으로 연결되었습니다. 설정 페이지로 이동합니다.",
