@@ -1,4 +1,11 @@
 {
+  "tc_everyone": "Alla",
+  "per_user_tc_title": "Ändringshistorik per användare",
+  "you_can_use_per_user_tc": "Nu kan du se ändringshistorik per användare",
+  "turn_tc_on_individuals": "Aktivera ändringshistorik för individuella användare",
+  "keep_tc_on_like_before": "Eller behåll det aktivt för alla, som tidigare",
+  "auto_close_brackets": "Auto stäng paranteser",
+  "auto_pair_delimiters": "Auto para avgränsare",
   "successfull_dropbox_link": "Dropbox har länkats, omdirigerar till inställningssidan.",
   "show_link": "Visa länk",
   "hide_link": "Göm länk",
