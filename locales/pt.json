@@ -1,4 +1,6 @@
 {
+  "auto_compile": "Compilar Automaticamente",
+  "on": "Ligado",
   "tc_everyone": "Todos",
   "per_user_tc_title": "Acompanhar Alterações por Usuário",
   "you_can_use_per_user_tc": "Agora você pode acompanhar as alterações por usuário",

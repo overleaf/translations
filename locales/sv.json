@@ -1,4 +1,6 @@
 {
+  "auto_compile": "Kompilera automatiskt",
+  "on": "På",
   "tc_everyone": "Alla",
   "per_user_tc_title": "Ändringshistorik per användare",
   "you_can_use_per_user_tc": "Nu kan du se ändringshistorik per användare",

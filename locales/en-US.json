@@ -1,4 +1,6 @@
 {
+  "auto_compile": "Auto Compile",
+  "on": "On",
   "tc_everyone": "Everyone",
   "per_user_tc_title": "Per-user Track Changes",
   "you_can_use_per_user_tc": "Now you can use Track Changes on a per-user basis",

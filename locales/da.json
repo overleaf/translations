@@ -1,5 +1,9 @@
 {
+  "auto_compile": "Kompilér automatisk",
+  "on": "Til",
   "tc_everyone": "Alle",
+  "auto_close_brackets": "Luk automatisk firkantede parenteser",
+  "auto_pair_delimiters": "Par automatisk afgrænsninger",
   "successfull_dropbox_link": "Dropbox er blevet forbundet, omdirigerer til indstillinger",
   "show_link": "Vis Link",
   "hide_link": "Skjul Link",

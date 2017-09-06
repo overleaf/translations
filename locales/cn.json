@@ -1,4 +1,6 @@
 {
+  "auto_compile": "自动编译",
+  "on": "开",
   "tc_everyone": "所有人",
   "per_user_tc_title": "个人用户记录更改历史",
   "you_can_use_per_user_tc": "现在您可以记录每个用户的更改记录",
