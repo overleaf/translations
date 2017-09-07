@@ -1,4 +1,5 @@
 {
+  "invalid_email": "有未验证的邮箱",
   "auto_compile": "自动编译",
   "on": "开",
   "tc_everyone": "所有人",

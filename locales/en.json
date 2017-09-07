@@ -1,4 +1,5 @@
 {
+  "invalid_email": "An email address is invalid",
   "auto_compile": "Auto Compile",
   "on": "On",
   "tc_everyone": "Everyone",
