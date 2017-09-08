@@ -1,4 +1,5 @@
 {
+  "invalid_email": "En email adresse er forkert",
   "auto_compile": "Kompilér automatisk",
   "on": "Til",
   "tc_everyone": "Alle",
