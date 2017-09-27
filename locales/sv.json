@@ -1,4 +1,7 @@
 {
+  "pdf_compile_in_progress_error": "Kompilering körs redan i ett annat fönster",
+  "pdf_compile_try_again": "Vänligen vänta tills din andra kompilering är klar innan du försöker igen.",
+  "invalid_email": "En e-postadress är inte giltig",
   "auto_compile": "Kompilera automatiskt",
   "on": "På",
   "tc_everyone": "Alla",

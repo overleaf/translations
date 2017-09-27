@@ -1,4 +1,6 @@
 {
+  "pdf_compile_in_progress_error": "다른 창에서 컴파일 중",
+  "pdf_compile_try_again": "재시도 전에 현재 진행 중인 컴파일이 끝날 때까지 기다려주세요.",
   "invalid_email": "이메일 주소가 잘못되었습니다.",
   "auto_compile": "자동 컴파일",
   "tc_everyone": "모든 사람",

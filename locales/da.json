@@ -1,4 +1,6 @@
 {
+  "pdf_compile_in_progress_error": "Kompilering kører allerede i et andet vindue",
+  "pdf_compile_try_again": "Vent venlist til din anden kompilering er færdig før en ny startes",
   "invalid_email": "En email adresse er forkert",
   "auto_compile": "Kompilér automatisk",
   "on": "Til",

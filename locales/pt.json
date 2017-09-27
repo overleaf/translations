@@ -1,4 +1,6 @@
 {
+  "pdf_compile_in_progress_error": "Compilador já está executando em outra janela",
+  "pdf_compile_try_again": "Aguarde até que sua outra compilação termine antes de tentar novamente.",
   "invalid_email": "Algum email está inválido",
   "auto_compile": "Compilar Automaticamente",
   "on": "Ligado",
