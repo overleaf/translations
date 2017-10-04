@@ -1,4 +1,6 @@
 {
+  "autocompile_disabled": "Autocompile disabled",
+  "autocompile_disabled_reason": "Due to high server load, background recompilation has been temporarily disabled. Please recompile by clicking the button above.",
   "auto_compile_onboarding_description": "When enabled, your project will compile as you type.",
   "try_out_auto_compile_setting": "Try out the new auto compile setting!",
   "got_it": "Got it",

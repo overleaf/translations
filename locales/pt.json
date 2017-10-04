@@ -1,4 +1,7 @@
 {
+  "autocompile_disabled": "Autocompilação desativada",
+  "autocompile_disabled_reason": "Devido à alta carga do servidor, a recompilação de fundo foi desativada temporariamente. Recompile clicando no botão acima.",
+  "auto_compile_onboarding_description": "Quando habilitado, seu projeto irá compilar enquanto você digita.",
   "try_out_auto_compile_setting": "Experimente a nova configuração de compilação automática",
   "got_it": "Entendi",
   "pdf_compile_in_progress_error": "Compilador já está executando em outra janela",

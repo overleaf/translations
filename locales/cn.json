@@ -1,4 +1,11 @@
 {
+  "autocompile_disabled": "自动编译已关闭",
+  "autocompile_disabled_reason": "由于服务器过载，暂时无法自动实时编译，请点击上方按钮进行编译",
+  "auto_compile_onboarding_description": "开启后将会进行实时编译",
+  "try_out_auto_compile_setting": "试用新的自动编译功能！",
+  "got_it": "了解",
+  "pdf_compile_in_progress_error": "已在另一窗口编译",
+  "pdf_compile_try_again": "请等待其他项目编译完成后再试",
   "invalid_email": "有未验证的邮箱",
   "auto_compile": "自动编译",
   "on": "开",
