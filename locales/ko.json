@@ -1,4 +1,7 @@
 {
+  "autocompile_disabled": "자동 컴파일 불가",
+  "autocompile_disabled_reason": "서버에 부하가 많이 걸려서 백그라운드 재컴파일이 잠시 불가능했습니다. 위의 버튼을 다시 클릭해서 재컴파일 하십시오.",
+  "auto_compile_onboarding_description": "자동컴파일을 실행하면 타이핑하는대로 프로젝트를 컴파일 합니다.",
   "try_out_auto_compile_setting": "새로운 자동 컴파일 세팅을 사용해보세요!",
   "got_it": "알겠습니다.",
   "pdf_compile_in_progress_error": "다른 창에서 컴파일 중",
