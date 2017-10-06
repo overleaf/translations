@@ -1,4 +1,7 @@
 {
+  "autocompile_disabled": "Automatisk kompilering slået fra",
+  "autocompile_disabled_reason": "Grundet høj serverbelastning er baggrunds kompilering midlertidig slået fra. Genkompiler venligst ved at klikke på ovenstående knap.",
+  "auto_compile_onboarding_description": "Når det er slået til, vil du projekt kompilere imens du skriver.",
   "try_out_auto_compile_setting": "Prøv den nye indstilling for automatisk kompilering",
   "got_it": "Forstået",
   "pdf_compile_in_progress_error": "Kompilering kører allerede i et andet vindue",
