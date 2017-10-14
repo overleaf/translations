@@ -1,4 +1,12 @@
 {
+  "link_sharing_is_off": "링크 공유를 끄고 초대된 사용자만 볼 수 있습니다.",
+  "turn_on_link_sharing": "링크 공유 켜기",
+  "link_sharing_is_on": "링크 공유 중",
+  "turn_off_link_sharing": "링크 공유 끄기",
+  "anyone_with_link_can_edit": "이 링크에 있는 사람은 프로젝트 편집 가능",
+  "anyone_with_link_can_view": "이 링크에 있는 사람은 프로젝트를 볼 수 있음",
+  "turn_on_link_sharing_consequences": "링크 공유를 설정하면 관련된 사람들은 프로젝트에 접근 및 편집이 가능합니다.",
+  "turn_off_link_sharing_consequences": "링크 공유를 끄면 초대받은 사람들만 프로젝트에 접근할 수 있습니다.",
   "autocompile_disabled": "자동 컴파일 불가",
   "autocompile_disabled_reason": "서버에 부하가 많이 걸려서 백그라운드 재컴파일이 잠시 불가능했습니다. 위의 버튼을 다시 클릭해서 재컴파일 하십시오.",
   "auto_compile_onboarding_description": "자동컴파일을 실행하면 타이핑하는대로 프로젝트를 컴파일 합니다.",

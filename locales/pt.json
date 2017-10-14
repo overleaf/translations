@@ -1,4 +1,12 @@
 {
+  "link_sharing_is_off": "Compartilhamento de Link está desligado, somente usuários convidados podem ver esse projeto.",
+  "turn_on_link_sharing": "Ligar compartilhamento de Link.",
+  "link_sharing_is_on": "Compartilhamento de Link está ligado",
+  "turn_off_link_sharing": "Desligar compartilhamento de Link",
+  "anyone_with_link_can_edit": "Qualquer um com esse link pode editar esse projeto",
+  "anyone_with_link_can_view": "Qualquer um com esse link pode ver esse projeto",
+  "turn_on_link_sharing_consequences": "Quando o compartilhamento de Link estiver habilitado, qualquer um com o link poderá acessar e editar o projeto",
+  "turn_off_link_sharing_consequences": "Quando o compartilhamento de Link estiver desabilitado, apenas pessoas convidadas para o projeto poderão ter acesso",
   "autocompile_disabled": "Autocompilação desativada",
   "autocompile_disabled_reason": "Devido à alta carga do servidor, a recompilação de fundo foi desativada temporariamente. Recompile clicando no botão acima.",
   "auto_compile_onboarding_description": "Quando habilitado, seu projeto irá compilar enquanto você digita.",

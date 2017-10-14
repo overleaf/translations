@@ -1,4 +1,12 @@
 {
+  "link_sharing_is_off": "Länkdelning är inaktiverat, endast inbjudna användare kan se detta projekt.",
+  "turn_on_link_sharing": "Aktivera länkdelning",
+  "link_sharing_is_on": "Länkdelning är aktiverat",
+  "turn_off_link_sharing": "Inaktivera länkdelning",
+  "anyone_with_link_can_edit": "Vem som helst med denna länk kan redigera detta projekt",
+  "anyone_with_link_can_view": "Vem som helst med denna länk kan se detta projekt",
+  "turn_on_link_sharing_consequences": "När länkdelning är aktiverat, kan vem som helst med länken komma åt eller redigera projektet",
+  "turn_off_link_sharing_consequences": "När länkdelning är inaktiverat, har endast användare som är inbjudna tillgång till projektet",
   "autocompile_disabled": "Autokompilering inaktiverat",
   "autocompile_disabled_reason": "På grund av hög serverbelastning har bakgrundskompilering tillfälligt inaktiverats. Vänligen kompilera genom att klicka på knappen ovan.",
   "auto_compile_onboarding_description": "När aktiverad, kommer ditt projekt att kompilera efterhand som du skriver.",
