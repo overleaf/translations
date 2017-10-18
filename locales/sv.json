@@ -1,4 +1,6 @@
 {
+  "main_file_not_found": "Okänt huvuddokument.",
+  "please_set_main_file": "Välj en huvudfil för detta projekt i projektmenyn. ",
   "link_sharing_is_off": "Länkdelning är inaktiverat, endast inbjudna användare kan se detta projekt.",
   "turn_on_link_sharing": "Aktivera länkdelning",
   "link_sharing_is_on": "Länkdelning är aktiverat",
