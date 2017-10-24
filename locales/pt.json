@@ -1,4 +1,6 @@
 {
+  "select_all_projects": "Selecionar todos",
+  "select_project": "Selecionar",
   "main_file_not_found": "Arquivo principal desconhecido.",
   "please_set_main_file": "Por favor, selecione o arquivo principal para esse projeto no menu do projeto. ",
   "link_sharing_is_off": "Compartilhamento de Link está desligado, somente usuários convidados podem ver esse projeto.",

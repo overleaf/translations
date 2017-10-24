@@ -1,4 +1,6 @@
 {
+  "select_all_projects": "Select all",
+  "select_project": "Select",
   "main_file_not_found": "Unknown main document.",
   "please_set_main_file": "Please choose the main file for this project in the project menu.  ",
   "link_sharing_is_off": "Link sharing is off, only invited users can view this project.",

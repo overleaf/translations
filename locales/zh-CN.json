@@ -1,4 +1,6 @@
 {
+  "select_all_projects": "全选",
+  "select_project": "选择",
   "main_file_not_found": "未知主文件。",
   "please_set_main_file": "请在项目菜单中选择此项目的主文件。",
   "link_sharing_is_off": "链接分享已关闭，只有被邀请的用户才能浏览此项目。",
