@@ -1,4 +1,5 @@
 {
+  "tc_guests": "Guests",
   "select_all_projects": "Select all",
   "select_project": "Select",
   "main_file_not_found": "Unknown main document.",
