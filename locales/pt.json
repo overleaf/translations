@@ -1,4 +1,5 @@
 {
+  "tc_guests": "Convidados",
   "select_all_projects": "Selecionar todos",
   "select_project": "Selecionar",
   "main_file_not_found": "Arquivo principal desconhecido.",
@@ -662,7 +663,7 @@
   "email_us": "Nos envie email",
   "this_project_is_public_read_only": "Esse projeto é público e pode ser visualizado, mas não editado, por qualquer pessoa com a URL",
   "tr": "Turco",
-  "select_files": "Selecione arquivo(s)",
+  "select_files": "Selecionar arquivo(s)",
   "drag_files": "arraste arquivo(s)",
   "upload_failed_sorry": "Envio falhou. Desculpe :(",
   "inserting_files": "Inserindo arquivo...",
