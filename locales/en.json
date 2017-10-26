@@ -1,4 +1,7 @@
 {
+  "tc_switch_everyone_tip": "Toggle track-changes for everyone",
+  "tc_switch_user_tip": "Toggle track-changes for this user",
+  "tc_switch_guests_tip": "Toggle track-changes for all link-sharing guests",
   "tc_guests": "Guests",
   "select_all_projects": "Select all",
   "select_project": "Select",
