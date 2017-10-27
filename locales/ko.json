@@ -1,4 +1,7 @@
 {
+  "tc_switch_everyone_tip": "모두에게 변경 사항 추적 고정",
+  "tc_switch_user_tip": "이 사용자에게 변경 사항 추적 고정",
+  "tc_switch_guests_tip": "링크를 공유하는 모든 게스트에게 변경 사항 추적 고정",
   "tc_guests": "게스트",
   "select_all_projects": "전체 선택",
   "select_project": "선택",

@@ -1,4 +1,7 @@
 {
+  "tc_switch_everyone_tip": "Alternar acompanhar-alterações para todos",
+  "tc_switch_user_tip": "Alternar acompanhar-alterações para esse usuário",
+  "tc_switch_guests_tip": "Alternar acompanhar-alterações para todos os convidados por links compartilhado",
   "tc_guests": "Convidados",
   "select_all_projects": "Selecionar todos",
   "select_project": "Selecionar",
