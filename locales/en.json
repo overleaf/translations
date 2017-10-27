@@ -1,4 +1,5 @@
 {
+  "link_sharing": "Link sharing",
   "tc_switch_everyone_tip": "Toggle track-changes for everyone",
   "tc_switch_user_tip": "Toggle track-changes for this user",
   "tc_switch_guests_tip": "Toggle track-changes for all link-sharing guests",
