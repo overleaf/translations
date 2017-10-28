@@ -1,4 +1,8 @@
 {
+  "link_sharing": "Länkdelning",
+  "tc_switch_everyone_tip": "Aktivera spårningsändringar för alla",
+  "tc_switch_user_tip": "Aktivera spårningsändringar för denna användare",
+  "tc_switch_guests_tip": "Aktivera spårningsändringar för alla länkdelade gäster",
   "tc_guests": "Gäster",
   "select_all_projects": "Välj alla",
   "select_project": "Välj",
