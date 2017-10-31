@@ -1,4 +1,9 @@
 {
+  "learn_more_about_link_sharing": "了解分享链接",
+  "link_sharing": "分享链接",
+  "tc_switch_everyone_tip": "为所有用户切换记录模式",
+  "tc_switch_user_tip": "为当前用户切换记录模式",
+  "tc_switch_guests_tip": "为所有分享链接用户切换记录模式",
   "tc_guests": "受邀用户",
   "select_all_projects": "全选",
   "select_project": "选择",
