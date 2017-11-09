@@ -1,4 +1,6 @@
 {
+  "try_link_sharing": "Test Länkdelning",
+  "try_link_sharing_description": "Ge tillgång till ditt projekt genom att dela en länk.",
   "learn_more_about_link_sharing": "Läs mer om Länkdelning",
   "link_sharing": "Länkdelning",
   "tc_switch_everyone_tip": "Aktivera spårningsändringar för alla",
