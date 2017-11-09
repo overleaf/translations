@@ -1,4 +1,6 @@
 {
+  "try_link_sharing": "Try Link Sharing",
+  "try_link_sharing_description": "Give access to your project by simply sharing a link.",
   "learn_more_about_link_sharing": "Learn more about Link Sharing",
   "link_sharing": "Link sharing",
   "tc_switch_everyone_tip": "Toggle track-changes for everyone",
