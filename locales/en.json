@@ -1,4 +1,9 @@
 {
+  "drop_files_here_to_upload": "Drop files here to upload",
+  "drag_here": "drag here",
+  "creating_project": "Creating project",
+  "select_a_zip_file": "Select a .zip file",
+  "drag_a_zip_file": "drag a .zip file",
   "v1_badge": "V1 Badge",
   "v1_projects": "V1 Projects",
   "open_your_billing_details_page": "Open Your Billing Details Page",
