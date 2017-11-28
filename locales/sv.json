@@ -1,4 +1,9 @@
 {
+  "drop_files_here_to_upload": "Släpp filer här för att ladda upp",
+  "drag_here": "dra här",
+  "creating_project": "Skapa projekt",
+  "select_a_zip_file": "Välj en .zip fil",
+  "drag_a_zip_file": "dra en .zip fil",
   "v1_badge": "V1 Bricka",
   "v1_projects": "V1 Projekt",
   "open_your_billing_details_page": "Öppna sidan för dina Betalningsdetaljer",
@@ -466,7 +471,7 @@
   "make_project_public_consequences": "Om du gör ditt projekt publikt kan vem som helst med länken få åtkomst till det.",
   "allow_public_editing": "Tillåt publik redigering",
   "allow_public_read_only": "Tillåt endast publik läsåtkomst",
-  "make_project_private": "Gör projektet privat",
+  "make_project_private": "Inaktivera länkdelning",
   "make_project_private_consequences": "Om du gör ditt projekt privat har endast de du väljer att dela projektet med åtkomst.",
   "need_to_upgrade_for_history": "Du måste uppgradera ditt konto för att använda historikfunktionen.",
   "ask_proj_owner_to_upgrade_for_history": "Vänligen be projektets ägare att uppgradera för att använda historikfunktionen.",

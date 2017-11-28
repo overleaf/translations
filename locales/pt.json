@@ -1,4 +1,9 @@
 {
+  "drop_files_here_to_upload": "Largue arquivos aqui para enviar",
+  "drag_here": "arraste aqui",
+  "creating_project": "Criando projeto",
+  "select_a_zip_file": "Selecione um arquivo .zip",
+  "drag_a_zip_file": "arraste um arquivo .zip",
   "v1_badge": "Emblema V1",
   "v1_projects": "Projetos V1",
   "open_your_billing_details_page": "Abrir a Página de Detalhes da Cobrança",

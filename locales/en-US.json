@@ -472,7 +472,7 @@
   "make_project_public_consequences": "If you make your project public then anyone with the URL will be able to access it.",
   "allow_public_editing": "Allow public editing",
   "allow_public_read_only": "Allow public read only access",
-  "make_project_private": "Make project private",
+  "make_project_private": "Disable link-sharing",
   "make_project_private_consequences": "If you make your project private then only the people you choose to share it with will have access.",
   "need_to_upgrade_for_history": "You need to upgrade your account to use the History feature.",
   "ask_proj_owner_to_upgrade_for_history": "Please ask the project owner to upgrade to use the History feature.",
