@@ -1,5 +1,5 @@
 {
-  "drop_files_here_to_upload": "Largue arquivos aqui para enviar",
+  "drop_files_here_to_upload": "Largar arquivos aqui para enviar",
   "drag_here": "arraste aqui",
   "creating_project": "Criando projeto",
   "select_a_zip_file": "Selecione um arquivo .zip",
@@ -472,7 +472,7 @@
   "make_project_public_consequences": "Se você tornar seu probjeto público, qualquer um com a URL podera ter acesso a ele.",
   "allow_public_editing": "Permitir edição pública",
   "allow_public_read_only": "Permitir ao público acesso somente à leitura",
-  "make_project_private": "Tornar projeto privado",
+  "make_project_private": "Desabilitar compartilhamento de link",
   "make_project_private_consequences": "Se você tornar seu projeto privado então somente as pessoas compartilhadas terão acesso.",
   "need_to_upgrade_for_history": "Você precisa aprimorar sua conta para ter o recurso de Histórico.",
   "ask_proj_owner_to_upgrade_for_history": "Por favor, peça ao dono do projeto para aprimorar para usar o recurso de Histórico.",
