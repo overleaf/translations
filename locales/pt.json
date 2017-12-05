@@ -1,4 +1,9 @@
 {
+  "import_project_to_v2": "Importar projeto para V2",
+  "open_in_v1": "Abrir em V1",
+  "import_to_v2": "Importar para V2",
+  "never_mind_open_in_v1": "Não importa, abra em V1",
+  "yes_im_sure": "Sim, eu tenho certeza",
   "drop_files_here_to_upload": "Largar arquivos aqui para enviar",
   "drag_here": "arraste aqui",
   "creating_project": "Criando projeto",

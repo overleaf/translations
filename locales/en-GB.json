@@ -1,4 +1,9 @@
 {
+  "import_project_to_v2": "Import Project to V2",
+  "open_in_v1": "Open in V1",
+  "import_to_v2": "Import to V2",
+  "never_mind_open_in_v1": "Never mind, open in V1",
+  "yes_im_sure": "Yes, I'm sure",
   "drop_files_here_to_upload": "Drop files here to upload",
   "drag_here": "drag here",
   "creating_project": "Creating project",
