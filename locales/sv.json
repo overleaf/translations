@@ -1,4 +1,9 @@
 {
+  "import_project_to_v2": "Importera Projekt till V2",
+  "open_in_v1": "Öppna i V1",
+  "import_to_v2": "Importera till V2",
+  "never_mind_open_in_v1": "Glöm det, öppna i V1",
+  "yes_im_sure": "Ja, jag är säker",
   "drop_files_here_to_upload": "Släpp filer här för att ladda upp",
   "drag_here": "dra här",
   "creating_project": "Skapa projekt",
