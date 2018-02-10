@@ -1,4 +1,6 @@
 {
+  "tags_slash_folders": "Rótulos/Pastas",
+  "file_already_exists": "Já existe um arquivo ou pasta com esse nome",
   "import_project_to_v2": "Importar projeto para V2",
   "open_in_v1": "Abrir em V1",
   "import_to_v2": "Importar para V2",

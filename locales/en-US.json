@@ -1,5 +1,6 @@
 {
   "tags_slash_folders": "Tags/Folders",
+  "file_already_exists": "A file or folder with this name already exists",
   "import_project_to_v2": "Import Project to V2",
   "open_in_v1": "Open in V1",
   "import_to_v2": "Import to V2",
