@@ -1,5 +1,6 @@
 {
   "tags_slash_folders": "标签／文件夹",
+  "file_already_exists": "同名文件或文件夹已存在",
   "import_project_to_v2": "打开项目到V2",
   "open_in_v1": "在V1中打开",
   "import_to_v2": "倒入到V2",
