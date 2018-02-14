@@ -1,4 +1,7 @@
 {
+  "uncompiled_changes": "Uncompiled Changes",
+  "code_check_failed": "Code check failed",
+  "code_check_failed_explanation": "Your code has errors that need to be fixed before the auto-compile can run",
   "tags_slash_folders": "Tags/Folders",
   "file_already_exists": "A file or folder with this name already exists",
   "import_project_to_v2": "Import Project to V2",
