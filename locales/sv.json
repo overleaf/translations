@@ -1,4 +1,7 @@
 {
+  "uncompiled_changes": "Okompilerade ändringar",
+  "code_check_failed": "Kodkontroll misslyckades",
+  "code_check_failed_explanation": "Din kod har fel som behöver åtgärdas innan auto-kompileringen kan köras",
   "tags_slash_folders": "Taggar/Mappar",
   "file_already_exists": "En fil eller mapp med det namnet finns redan",
   "import_project_to_v2": "Importera Projekt till V2",
