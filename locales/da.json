@@ -1,4 +1,9 @@
 {
+  "uncompiled_changes": "Ukompilerede ændringer",
+  "code_check_failed": "Kode tjek fejlede",
+  "code_check_failed_explanation": "Din kode har fejl, der skal rettes før auto-kompileren kan køre",
+  "tags_slash_folders": "Tags/Mapper",
+  "file_already_exists": "Der eksisterer allerede en fil eller mappe med dette navn",
   "import_project_to_v2": "Importer projekt til V2",
   "open_in_v1": "Åben i V1",
   "import_to_v2": "Importer til V2",
