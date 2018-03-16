@@ -1,4 +1,8 @@
 {
+  "cannot_verify_user_not_robot": "抱歉，您没有通过“我不是个机器人”验证，请检查您的防火墙或网页插件是否阻碍了您的验证。",
+  "uncompiled_changes": "未编译的改动",
+  "code_check_failed": "代码检查失败",
+  "code_check_failed_explanation": "您的代码有问题，无法自动编译",
   "tags_slash_folders": "标签／文件夹",
   "file_already_exists": "同名文件或文件夹已存在",
   "import_project_to_v2": "打开项目到V2",

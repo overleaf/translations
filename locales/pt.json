@@ -1,4 +1,8 @@
 {
+  "cannot_verify_user_not_robot": "Desculpe, não conseguimos verificar se você não é um robô. Por favor, verifique se o Google reCAPTCHA não está sendo bloqueado por algum firewall ou bloqueador de anúncios.",
+  "uncompiled_changes": "Mudanças não Compiladas",
+  "code_check_failed": "Verificação do código falhou",
+  "code_check_failed_explanation": "Seu código contém erros que precisam ser corrigidos antes de rodar a auto-compilação",
   "tags_slash_folders": "Rótulos/Pastas",
   "file_already_exists": "Já existe um arquivo ou pasta com esse nome",
   "import_project_to_v2": "Importar projeto para V2",
