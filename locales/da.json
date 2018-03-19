@@ -1,4 +1,5 @@
 {
+  "cannot_verify_user_not_robot": "Vi har desværre ikke kunnet verificere, at du ikke er en robot. Tjek venligst at Google reCAPTCHA ikke bliver blokeret af en adblocker eller en firewall.",
   "uncompiled_changes": "Ukompilerede ændringer",
   "code_check_failed": "Kode tjek fejlede",
   "code_check_failed_explanation": "Din kode har fejl, der skal rettes før auto-kompileren kan køre",
