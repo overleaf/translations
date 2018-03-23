@@ -1,4 +1,8 @@
 {
+  "tooltip_hide_pdf": "Clique para esconder o PDF",
+  "tooltip_show_pdf": "Clique para mostrar o PDF",
+  "tooltip_hide_filetree": "Clique para esconder a árvore de arquivos",
+  "tooltip_show_filetree": "Clique para mostrar a árvore de arquivos",
   "cannot_verify_user_not_robot": "Desculpe, não conseguimos verificar se você não é um robô. Por favor, verifique se o Google reCAPTCHA não está sendo bloqueado por algum firewall ou bloqueador de anúncios.",
   "uncompiled_changes": "Mudanças não Compiladas",
   "code_check_failed": "Verificação do código falhou",

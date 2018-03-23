@@ -1,4 +1,8 @@
 {
+  "tooltip_hide_pdf": "Click to hide the PDF",
+  "tooltip_show_pdf": "Click to show the PDF",
+  "tooltip_hide_filetree": "Click to hide the file-tree",
+  "tooltip_show_filetree": "Click to show the file-tree",
   "cannot_verify_user_not_robot": "Sorry, we could not verify that you are not a robot. Please check that Google reCAPTCHA is not being blocked by an ad blocker or firewall.",
   "uncompiled_changes": "Uncompiled Changes",
   "code_check_failed": "Code check failed",

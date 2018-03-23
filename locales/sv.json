@@ -1,4 +1,8 @@
 {
+  "tooltip_hide_pdf": "Klicka för att gömma PDF:en",
+  "tooltip_show_pdf": "Klicka för att visa PDF:en",
+  "tooltip_hide_filetree": "Klicka för att gömma filträdet",
+  "tooltip_show_filetree": "Klicka för att visa filträdet",
   "cannot_verify_user_not_robot": "Tyvärr kunde vi inte verifiera att du inte är en robot. Vänligen kontrollera så att Google reCAPTCHA inte blockeras av en ad blocker eller brandvägg.",
   "uncompiled_changes": "Okompilerade ändringar",
   "code_check_failed": "Kodkontroll misslyckades",
