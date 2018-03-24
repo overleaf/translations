@@ -1,4 +1,8 @@
 {
+  "tooltip_hide_pdf": "Tryk for at skjule PDF'en",
+  "tooltip_show_pdf": "Tryk for at vise PDF'en",
+  "tooltip_hide_filetree": "Tryk for at skjule fil-træet",
+  "tooltip_show_filetree": "Tryk for at vise fil-træet",
   "cannot_verify_user_not_robot": "Vi har desværre ikke kunnet verificere, at du ikke er en robot. Tjek venligst at Google reCAPTCHA ikke bliver blokeret af en adblocker eller en firewall.",
   "uncompiled_changes": "Ukompilerede ændringer",
   "code_check_failed": "Kode tjek fejlede",
