@@ -1,6 +1,6 @@
 {
-  "month_capital": "Månad",
-  "year_capital": "År",
+  "month_capitalised": "Månad",
+  "year_capitalised": "År",
   "tooltip_hide_pdf": "Klicka för att gömma PDF:en",
   "tooltip_show_pdf": "Klicka för att visa PDF:en",
   "tooltip_hide_filetree": "Klicka för att gömma filträdet",
