@@ -1,4 +1,6 @@
 {
+  "month_capital": "Month",
+  "year_capital": "Year",
   "tooltip_hide_pdf": "Click to hide the PDF",
   "tooltip_show_pdf": "Click to show the PDF",
   "tooltip_hide_filetree": "Click to hide the file-tree",
