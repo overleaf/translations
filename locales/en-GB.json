@@ -1,4 +1,9 @@
 {
+  "billed_after_x_days": "You won’t be billed until after your __len__ day trial expires.",
+  "looking_multiple_licenses": "Looking for multiple licenses?",
+  "reduce_costs_group_licenses": "You can cut down on paperwork and reduce costs with our discounted group licenses.",
+  "find_out_more": "Find out More",
+  "compare_plan_features": "Compare Plan Features",
   "in_good_company": "You're In Good Company",
   "unlimited": "Unlimited",
   "priority_support": "Priority support",
