@@ -1,4 +1,5 @@
 {
+  "student_disclaimer": "The educational discount applies to all students at secondary and postsecondary institutions (schools and universities). We may contact you to confirm that you're eligible for the discount.",
   "billed_after_x_days": "You won’t be billed until after your __len__ day trial expires.",
   "looking_multiple_licenses": "Looking for multiple licenses?",
   "reduce_costs_group_licenses": "You can cut down on paperwork and reduce costs with our discounted group licenses.",
@@ -27,7 +28,7 @@
   "reference_search_info": "You can always search by citation key, and advanced reference search lets you also search by author, title, year or journal.",
   "reference_sync": "Reference manager sync",
   "reference_sync_info": "Manage your reference library in Mendeley and link it directly to a .bib file in ShareLaTeX, so you can easily cite anything in your Mendeley library.",
-  "faq_how_free_trial_works_answer": "You get full access to your chosen ShareLaTeX plan during your 7-day free trial. There is no obligation to continue beyond the trial. Your card will be charged at the end of your 7 day trial unless you cancel before then. You can cancel via your subscription settings.",
+  "faq_how_free_trial_works_answer": "You get full access to your chosen ShareLaTeX plan during your __len__-day free trial. There is no obligation to continue beyond the trial. Your card will be charged at the end of your __len__ day trial unless you cancel before then. You can cancel via your subscription settings.",
   "faq_change_plans_answer": "Yes, you can change your plan at any time via your subscription settings. This includes options to switch to a different plan, or to switch between monthly and annual billing options, or to cancel to downgrade to the free plan.",
   "faq_do_collab_need_premium_answer": "Premium features, such as tracked changes, will be available to your collaborators on projects that you have created, even if those collaborators have free accounts.",
   "faq_need_more_collab_answer": "You can upgrade to one of our paid accounts, which support more collaborators. You can also earn additional collaborators on our free accounts by __referFriendsLink__.",
