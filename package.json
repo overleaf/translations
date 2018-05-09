@@ -9,7 +9,7 @@
   "dependencies": {
     "async": "^2.1.4",
     "coffee-script": "^1.7.1",
-    "i18next": "~1.7.1",
+    "i18next": "^1.10.6",
     "onesky": "~0.1.5",
     "sanitize-html": "^1.14.1",
     "underscore": "^1.6.0"
