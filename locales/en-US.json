@@ -1,4 +1,12 @@
 {
+  "font_family": "Font Family",
+  "line_height": "Line Height",
+  "compact": "Compact",
+  "wide": "Wide",
+  "default": "Default",
+  "leave": "Leave",
+  "archived_projects": "Archived Projects",
+  "archive": "Archive",
   "student_disclaimer": "The educational discount applies to all students at secondary and postsecondary institutions (schools and universities). We may contact you to confirm that you're eligible for the discount.",
   "billed_after_x_days": "You won’t be billed until after your __len__ day trial expires.",
   "looking_multiple_licenses": "Looking for multiple licenses?",
