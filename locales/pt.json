@@ -1,4 +1,12 @@
 {
+  "font_family": "Família da Fonte",
+  "line_height": "Altura da Linha",
+  "compact": "Compacto",
+  "wide": "Largo",
+  "default": "Padrão",
+  "leave": "Sair",
+  "archived_projects": "Projetos Arquivados",
+  "archive": "Arquivar",
   "student_disclaimer": "O desconto educacional se aplica à todos os estudantes de instituições secundárias e pós-secundárias (escolas e universidades). Nos poderemos entrar em contato com você para confirmar se você é elegível para o desconto.",
   "billed_after_x_days": "Você não será cobrado até que os __len__ dias da experimentação expirar.",
   "looking_multiple_licenses": "Procurando por lincenças múltiplas?",
