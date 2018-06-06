@@ -1,4 +1,11 @@
 {
+  "compare_to_another_version": "Compare com outra versão",
+  "file_action_edited": "Editado",
+  "file_action_renamed": "Renomeado",
+  "file_action_created": "Criado",
+  "file_action_deleted": "Deletado",
+  "browsing_project_as_of": "Navegando projecto como",
+  "view_single_version": "Ver versão simples",
   "font_family": "Família da Fonte",
   "line_height": "Altura da Linha",
   "compact": "Compacto",
