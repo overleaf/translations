@@ -1,4 +1,6 @@
 {
+  "invited_to_join_team": "You have been invited to join a team",
+  "join_team": "Join Team",
   "accepted_invite": "Accepted invite",
   "invited_to_group": "__inviterName__ has invited you to join a team on __appName__",
   "join_team_explanation": "Please click the button below to join the team and enjoy the benefits of an upgraded __appName__ account",
