@@ -1,4 +1,7 @@
 {
+  "unconfirmed": "Unconfirmed",
+  "please_check_your_inbox": "Please check you inbox",
+  "resend_confirmation_email": "Resend confirmation email",
   "add_another_email": "Add another email",
   "start_by_adding_your_email": "Start by adding your email address.",
   "is_email_affiliated": "Is your email affiliated with an institution? ",
