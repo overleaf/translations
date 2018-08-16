@@ -1,6 +1,9 @@
 {
+  "please_confirm_your_email_before_making_it_default": "Please confirm your email before making it the default.",
+  "back_to_editor": "Back to the editor",
+  "generic_history_error": "Something went wrong trying to fetch your project's history. If the error persists, please contact us via:",
   "unconfirmed": "Unconfirmed",
-  "please_check_your_inbox": "Please check you inbox",
+  "please_check_your_inbox": "Please check your inbox",
   "resend_confirmation_email": "Resend confirmation email",
   "history_label_created_by": "Created by",
   "history_label_this_version": "Label this version",
