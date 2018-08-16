@@ -1,4 +1,7 @@
 {
+  "archive_projects": "Archive Projects",
+  "archive_and_leave_projects": "Archive and Leave Projects",
+  "about_to_archive_projects": "You are about to archive the following projects:",
   "please_confirm_your_email_before_making_it_default": "Please confirm your email before making it the default.",
   "back_to_editor": "Back to the editor",
   "generic_history_error": "Something went wrong trying to fetch your project's history. If the error persists, please contact us via:",
