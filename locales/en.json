@@ -1,4 +1,6 @@
 {
+  "ask_proj_owner_to_upgrade_for_full_history": "Please ask the project owner to upgrade to access this project's full history.",
+  "currently_seeing_only_24_hrs_history": "You're currently seeing the last 24 hours of changes in this project.",
   "archive_projects": "Archive Projects",
   "archive_and_leave_projects": "Archive and Leave Projects",
   "about_to_archive_projects": "You are about to archive the following projects:",

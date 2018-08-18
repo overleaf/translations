@@ -1,4 +1,10 @@
 {
+  "ask_proj_owner_to_upgrade_for_full_history": "Por favor, peça ao dono do projeto para aprimorar para acessar o recurso de Histórico Completo.",
+  "currently_seeing_only_24_hrs_history": "Você está vendo as alterações das últimas 24 horas neste projeto.",
+  "archive_projects": "Projetos Arquivados",
+  "archive_and_leave_projects": "Projetos Arquivados e Deixados",
+  "about_to_archive_projects": "Você está prestes a arquivar os seguintes projetos:",
+  "please_confirm_your_email_before_making_it_default": "Por favor, confirme o seu email antes de tornar ele padrão.",
   "back_to_editor": "Voltar ao editor",
   "generic_history_error": "Algo deu errado ao tentar buscar o histórico do seu projeto. Se o erro persistir, entre em contato conosco via:",
   "unconfirmed": "Não confirmado",
