@@ -1,5 +1,6 @@
 {
-  "ask_proj_owner_to_upgrade_for_full_history": "Por favor, peça ao dono do projeto para aprimorar para acessar o recurso de Histórico Completo.",
+  "get_instant_access_to": "Tenha acesso instantâneo a",
+  "ask_proj_owner_to_upgrade_for_full_history": "Por favor, peça ao dono do projeto para atualizar para acessar o recurso de Histórico Completo.",
   "currently_seeing_only_24_hrs_history": "Você está vendo as alterações das últimas 24 horas neste projeto.",
   "archive_projects": "Projetos Arquivados",
   "archive_and_leave_projects": "Projetos Arquivados e Deixados",
@@ -13,7 +14,7 @@
   "history_label_created_by": "Criado por",
   "history_label_this_version": "Etiquetar esta versão",
   "history_add_label": "Adicionar etiqueta",
-  "history_adding_label": "Adicionando etiqueta",
+  "history_adding_label": "Adicionando marcador",
   "history_new_label_name": "Novo nome do marcador",
   "history_new_label_added_at": "Um novo marcador será adicionado a partir de",
   "history_delete_label": "Excluir marcador",

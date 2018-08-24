@@ -1,4 +1,6 @@
 {
+  "thousands_templates": "Thousands of templates",
+  "get_instant_access_to": "Get instant access to",
   "ask_proj_owner_to_upgrade_for_full_history": "Please ask the project owner to upgrade to access this project's full history.",
   "currently_seeing_only_24_hrs_history": "You're currently seeing the last 24 hours of changes in this project.",
   "archive_projects": "Archive Projects",
