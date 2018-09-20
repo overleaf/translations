@@ -1,4 +1,6 @@
 {
+  "resending_confirmation_email": "Resending confirmation email",
+  "please_confirm_email": "Please confirm your email __emailAddress__ by clicking on the link in the confirmation email ",
   "register_using_service": "Register using __service__",
   "login_to_overleaf": "Log in to Overleaf",
   "login_with_email": "Log in with your email",
