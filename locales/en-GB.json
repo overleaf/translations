@@ -1,4 +1,8 @@
 {
+  "try_again": "Try again",
+  "email_required": "Email required",
+  "registration_error": "Registration error",
+  "newsletter-accept": "I’d like emails about product offers and company news and events.",
   "resending_confirmation_email": "Resending confirmation email",
   "please_confirm_email": "Please confirm your email __emailAddress__ by clicking on the link in the confirmation email ",
   "register_using_service": "Register using __service__",
@@ -766,7 +770,7 @@
   "sl_included_history_of_changes_blurb": "__appName__ includes a history of all of your changes so you can see exactly who changed what, and when. This makes it extremely easy to keep up to date with any progress made by your collaborators and allows you to review recent work.",
   "can_revert_back_blurb": "In a collaboration or on your own, sometimes mistakes are made. Reverting back to previous versions is simple and removes the risk of losing work or regretting a change.",
   "start_using_sl_now": "Start using __appName__ now",
-  "over_x_templates_easy_getting_started": "There are __over__ 400 __templates__ in our template gallery, so it's really easy to get started, whether you're writing a journal article, thesis, CV or something else.",
+  "over_x_templates_easy_getting_started": "There are thousands of __templates__ in our template gallery, so it's really easy to get started, whether you're writing a journal article, thesis, CV or something else.",
   "done": "Done",
   "change": "Change",
   "page_not_found": "Page Not Found",
