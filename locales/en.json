@@ -1,5 +1,6 @@
 {
-  "try_again": "Try again",
+  "no_featured_templates": "No featured templates",
+  "try_again": "Please try again",
   "email_required": "Email required",
   "registration_error": "Registration error",
   "newsletter-accept": "I’d like emails about product offers and company news and events.",
