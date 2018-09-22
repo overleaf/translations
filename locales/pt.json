@@ -1,4 +1,6 @@
 {
+  "featured_latex_templates": "Templates LaTeX Destacados",
+  "no_featured_templates": "Sem templates destacados",
   "try_again": "Tente novamente",
   "email_required": "Email obrigatório",
   "registration_error": "Erro de Registro",
