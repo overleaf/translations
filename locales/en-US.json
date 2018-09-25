@@ -1,4 +1,6 @@
 {
+  "password_change_failed_attempt": "Password change failed",
+  "password_change_successful": "Password changed",
   "not_registered": "Not registered",
   "featured_latex_templates": "Featured LaTeX Templates",
   "no_featured_templates": "No featured templates",
