@@ -1,4 +1,5 @@
 {
+  "collabratec_account_not_registered": "IEEE Collabratec™ account not registered. Please connect to Overleaf from IEEE Collabratec™ or login with a different account.",
   "password_change_failed_attempt": "Password change failed",
   "password_change_successful": "Password changed",
   "not_registered": "Not registered",
