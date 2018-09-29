@@ -73,7 +73,7 @@
   "delete_account_warning_message_3": "Du bist dabei, <strong>alle Account-Daten</strong> permanent zu löschen, inklusive Projekte und Einstellungen. Bitte gib die E-Mail-Adresse und das Passwort deines Accounts in die Felder ein um fortzufahren.",
   "delete_account_warning_message_2": "Du bist dabei <strong>alle Account-Daten</strong> permanent zu löschen, inklusive Projekte und Einstellungen. Bitte gib die E-Mail-Adresse deines Accounts in das Feld ein um fortzufahren.",
   "your_sessions": "Deine Sessions",
-  "clear_sessions_description": "Dies ist eine Liste anderer Sessions (Logins), die auf deinem Account aktiv sind, exklusive deiner aktuellen Session. Klicke auf &quot;Sessions löschen&quot;, um sie auszuloggen.",
+  "clear_sessions_description": "Dies ist eine Liste anderer Sessions (Logins), die auf deinem Account aktiv sind, exklusive deiner aktuellen Session. Klicke auf \"Sessions löschen\", um sie auszuloggen.",
   "no_other_sessions": "Keine andere Session aktiv",
   "ip_address": "IP-Adresse",
   "session_created_at": "Session erzeugt um",

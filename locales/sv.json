@@ -227,7 +227,7 @@
   "delete_account_warning_message_3": "Du håller på att permanent <strong>ta bort all din konto data</strong>, inklusive dina projekt och inställningar. Vänligen skriv in e-postadressen ditt konto använder samt ditt lösenord i fälten nedan för att fortsätta.",
   "delete_account_warning_message_2": "Du håller på att permanent <strong>ta bort all din konto data</strong>, inklusive dina projekt och inställningar. Vänligen skriv in e-postadressen ditt konto använder i fältet nedan för att fortsätta.",
   "your_sessions": "Dina sessioner",
-  "clear_sessions_description": "Detta är en lista med sessioner (inloggningar) som är aktiva på ditt konto, inte medräknat din nuvarande session. Klick på &quot;Töm sessioner&quot; knappen nedan för att logga ut dem.",
+  "clear_sessions_description": "Detta är en lista med sessioner (inloggningar) som är aktiva på ditt konto, inte medräknat din nuvarande session. Klick på \"Töm sessioner\" knappen nedan för att logga ut dem.",
   "no_other_sessions": "Inga andra aktiva sessioner",
   "ip_address": "IP-adress",
   "session_created_at": "Session skapad den",

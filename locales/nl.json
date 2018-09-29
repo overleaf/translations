@@ -120,7 +120,7 @@
   "delete_account_warning_message_3": "Je staat op het punt permanent <strong>all je accountgegevens te verwijderen</strong>, inclusief je projecten en instellingen. Type uw account e-mail adres in onderstaande tekstvakken om verder te gaan",
   "delete_account_warning_message_2": "Je staat op het punt <strong>al je accountgegevens pemanent te verwijderen</strong>, inclusief je projecten en instellingen. Type uw account e-mail adres in het onderstaande tekstvak om verder te gaan.",
   "your_sessions": "Uw Sessies",
-  "clear_sessions_description": "Dit is een lijst van andere sessies (logins) die actief zijn op uw account, exclusief uw huidige sessie. Klik de &quot;Sessies Opschonen&quot; knop hieronder om ze uit te loggen",
+  "clear_sessions_description": "Dit is een lijst van andere sessies (logins) die actief zijn op uw account, exclusief uw huidige sessie. Klik de \"Sessies Opschonen\" knop hieronder om ze uit te loggen",
   "no_other_sessions": "Geen andere sessies actief",
   "ip_address": "IP-adres",
   "session_created_at": "Sessie gecreëerd op",

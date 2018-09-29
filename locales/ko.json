@@ -162,7 +162,7 @@
   "delete_account_warning_message_3": "프로젝트와 설정을 포함한 <strong>계정의 모든 것을 영구 삭제</strong>를 하시겠습니까. 계속 진행하시려면 계정 이메일 주소와 비밀번호를 아래 상자에 입력하십시오.",
   "delete_account_warning_message_2": "프로젝트와 설정을 포함한 <strong>계정의 모든 것을 영구 삭제</strong>를 하시겠습니까. 계속 진행하시려면 계정 이메일 주소를 아래 상자에 입력하십시오.",
   "your_sessions": "나의 세션",
-  "clear_sessions_description": "이 리스트는 다른 (로그인) 세션입니다. 이 세션들은 활성화되어 있지만 현재 세션에는 포함되어 있지 않습니다. 이들을 로그아웃하시려면 &quot;세션 클리어&quot; 버튼을 클릭하십시오.",
+  "clear_sessions_description": "이 리스트는 다른 (로그인) 세션입니다. 이 세션들은 활성화되어 있지만 현재 세션에는 포함되어 있지 않습니다. 이들을 로그아웃하시려면 \"세션 클리어\" 버튼을 클릭하십시오.",
   "no_other_sessions": "활성화된 세션이 없습니다.",
   "ip_address": "IP 주소",
   "session_created_at": "생성된 세션",

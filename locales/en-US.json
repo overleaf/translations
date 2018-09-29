@@ -286,7 +286,7 @@
   "delete_account_warning_message_3": "You are about to permanently <strong>delete all of your account data</strong>, including your projects and settings. Please type your account email address and password in the boxes below to proceed.",
   "delete_account_warning_message_2": "You are about to permanently <strong>delete all of your account data</strong>, including your projects and settings. Please type your account email address into the box below to proceed.",
   "your_sessions": "Your Sessions",
-  "clear_sessions_description": "This is a list of other sessions (logins) which are active on your account, not including your current session. Click the &quot;Clear Sessions&quot; button below to log them out.",
+  "clear_sessions_description": "This is a list of other sessions (logins) which are active on your account, not including your current session. Click the \"Clear Sessions\" button below to log them out.",
   "no_other_sessions": "No other sessions active",
   "ip_address": "IP Address",
   "session_created_at": "Session Created At",
