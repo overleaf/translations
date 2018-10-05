@@ -133,7 +133,7 @@
   "realtime_track_changes": "Real-time track changes",
   "realtime_track_changes_info": "Now you don’t have to choose between tracked changes and typesetting in LaTeX. Leave comments, keep track of TODOs, and accept or reject others’ changes.",
   "full_doc_history_info": "Travel back in time to see any version and who made changes. No matter what happens, we've got your back.",
-  "dropbox_integration_info": "Work online and offline seamlessly with two-way Dropbox sync. Changes you make locally will be sent automatically to the version on ShareLaTeX and vice versa.",
+  "dropbox_integration_info": "Work online and offline seamlessly with two-way Dropbox sync. Changes you make locally will be sent automatically to the version on Overleaf and vice versa.",
   "github_integration_info": "Push and pull commits to and from GitHub, so you or your collaborators can work offline with git and online with ShareLaTeX.",
   "latex_editor_info": "Everything you need in a modern LaTeX editor --- spell check, intelligent autocomplete, syntax highlighting, dozens of color themes, vim and emacs bindings, help with LaTeX warnings and error messages, and much more.",
   "change_plans_any_time": "You can change plans or change your account at any time. ",
