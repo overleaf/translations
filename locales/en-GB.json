@@ -1,4 +1,5 @@
 {
+  "email_registered_try_alternative": "Sorry, we do not have an account matching those credentials. Perhaps you signed up using a different provider?",
   "git": "Git",
   "clone_with_git": "Clone with Git",
   "git_bridge_modal_description": "You can <code>git clone</code> your project using the link displayed below.",
