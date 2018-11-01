@@ -9,7 +9,7 @@
   "institution_account": "Institution Account",
   "git": "Git",
   "clone_with_git": "Clone with Git",
-  "git_bridge_modal_description": "You can <code>git clone</code> your project using the link displayed below.",
+  "git_bridge_modal_description": "You can git clone your project using the link displayed below.",
   "managers_cannot_remove_admin": "Admins cannot be removed",
   "managers_cannot_remove_self": "Managers cannot remove themselves",
   "user_not_found": "User not found",
