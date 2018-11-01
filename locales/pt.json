@@ -1,4 +1,12 @@
 {
+  "email_registered_try_alternative": "Desculpe, não temos uma conta que confere com essas credenciais. Talvez você tenha se inscrito com um provedor diferente.",
+  "access_your_projects_with_git": "Acesse seus projetos com o Git",
+  "ask_proj_owner_to_upgrade_for_git_bridge": "Solicite ao proprietário do projeto para atualizar sua conta para usar o git",
+  "export_csv": "Exportar CSV",
+  "add_comma_separated_emails_help": "Separa múltiplos endereços de emails utilizando vírgula (,).",
+  "members_management": "Gerenciamento de membros",
+  "managers_management": "Gerenciamento de gerentes",
+  "institution_account": "Conta Institucional",
   "git": "Git",
   "clone_with_git": "Clonar com o Git",
   "git_bridge_modal_description": "Você pode usar <code>git clone</code> no seu projeto usando o link abaixo.",
