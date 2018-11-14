@@ -22,8 +22,6 @@
   "bonus_facebook_caption": "Projetos e Compilação ilimitados e gratuitos",
   "bonus_facebook_description": "__appName__ é um editor online e gratuito de LaTeX. Colaboração em tempo real como o Google Docs, com Dropbox, histórico e auto-completar",
   "remove_manager": "Remover gerente",
-  "group_managers": "Gerentes do grupo",
-  "institution_managers": "Gerentes da instituição",
   "invalid_element_name": "Não pode copiar o seu projeto porque os arquivos contém caracteres inválidos (como asterisco, barras ou caracteres de controle). Por favor, renomeie os arquivos e tente novamente.",
   "password_change_failed_attempt": "Alteração da senha falhou",
   "password_change_successful": "Senha alterada",

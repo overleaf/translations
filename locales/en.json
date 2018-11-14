@@ -23,8 +23,6 @@
   "bonus_facebook_caption": "Free Unlimited Projects and Compiles",
   "bonus_facebook_description": "__appName__ is a free online LaTeX Editor. Real time collaboration like Google Docs, with Dropbox, history and auto-complete.",
   "remove_manager": "Remove manager",
-  "group_managers": "Group managers",
-  "institution_managers": "Institution managers",
   "invalid_element_name": "Could not copy your project because of filenames containing invalid characters\r\n(such as asterisks, slashes or control characters). Please rename the files and\r\ntry again.",
   "collabratec_account_not_registered": "IEEE Collabratec™ account not registered. Please connect to Overleaf from IEEE Collabratec™ or login with a different account.",
   "password_change_failed_attempt": "Password change failed",
