@@ -1,4 +1,5 @@
 {
+  "dropbox_for_link_share_projs": "This project was accessed via link-sharing and won't be synchronised to your Dropbox unless you are invited via e-mail by the project owner.",
   "clear_search": "clear search",
   "email_registered_try_alternative": "Sorry, we do not have an account matching those credentials. Perhaps you signed up using a different provider?",
   "access_your_projects_with_git": "Access your projects with Git",
