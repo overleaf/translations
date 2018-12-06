@@ -1,4 +1,9 @@
 {
+  "download_project_at_this_version": "Download do projeto nesta versão",
+  "submit": "enviar",
+  "help_articles_matching": "Artigos de ajuda que correspondem ao seu assunto",
+  "dropbox_for_link_share_projs": "Este projeto foi acessado via compartilhamento de links e não será sincronizado com o seu Dropbox, a menos que você seja convidado por e-mail pelo proprietário do projeto",
+  "clear_search": "limpar pesquisa",
   "email_registered_try_alternative": "Desculpe, não temos uma conta que confere com essas credenciais. Talvez você tenha se inscrito com um provedor diferente.",
   "access_your_projects_with_git": "Acesse seus projetos com o Git",
   "ask_proj_owner_to_upgrade_for_git_bridge": "Solicite ao proprietário do projeto para atualizar sua conta para usar o git",
