@@ -1,4 +1,7 @@
 {
+  "github_for_link_shared_projects": "This project was accessed via link-sharing and won't be synchronised with your Github unless you are invited via e-mail by the project owner.",
+  "browsing_project_latest_for_pseudo_label": "Browsing your project's current state",
+  "history_label_project_current_state": "Current state",
   "download_project_at_this_version": "Download project at this version",
   "submit": "submit",
   "help_articles_matching": "Help articles matching your subject",
