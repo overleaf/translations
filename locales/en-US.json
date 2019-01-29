@@ -1,6 +1,7 @@
 {
   "subject_to_additional_vat": "Prices may be subject to additional VAT, depending on your country.",
   "select_country_vat": "Please select your country on the payment page to view the total price including any VAT.",
+  "to_change_access_permissions": "To change access permissions, please ask the project owner",
   "file_name_in_this_project": "File Name In This Project",
   "new_snippet_project": "Untitled",
   "loading_content": "Creating Project",
