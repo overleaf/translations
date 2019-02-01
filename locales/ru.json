@@ -14,7 +14,6 @@
   "manage_sessions": "Управление Вашими сессиями",
   "syntax_validation": "Проверка кода",
   "history": "История",
-  "notification_project_invite_message": "<b>{{ userName }}</b> хочет присоединиться к <b>{{ projectName }}</b>",
   "notification_project_invite_accepted_message": "Вы присоединились к проекту <b>{{ projectName }}</b>",
   "open_project": "Открыть проект",
   "files_cannot_include_invalid_characters": "Файлы не могут содержать символы '*' и '/'",

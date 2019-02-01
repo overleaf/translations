@@ -325,7 +325,6 @@
   "syntax_validation": "Checar código",
   "history": "Histórico",
   "joining": "Participando",
-  "notification_project_invite_message": "<b>{{ userName }}</b> você gostaria de participar de <b>{{ projectName }}</b>",
   "notification_project_invite_accepted_message": "Você está participando de <b>{{ projectName }}</b>",
   "open_project": "Abrir Projeto",
   "files_cannot_include_invalid_characters": "Arquivos não podem ter os caracteres '*' ou '/'",

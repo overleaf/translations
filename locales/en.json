@@ -348,7 +348,6 @@
   "syntax_validation": "Code check",
   "history": "History",
   "joining": "Joining",
-  "notification_project_invite_message": "<b>{{ userName }}</b> would like you to join <b>{{ projectName }}</b>",
   "notification_project_invite_accepted_message": "You've joined <b>{{ projectName }}</b>",
   "open_project": "Open Project",
   "files_cannot_include_invalid_characters": "Files cannot include '*' or '/' characters",

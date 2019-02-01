@@ -139,7 +139,6 @@
   "syntax_validation": "Kode tjek",
   "history": "Historie",
   "joining": "Tilslutter",
-  "notification_project_invite_message": "<b>{{ userName }}</b> ønsker at du deltager i <b>{{ projectName }}</b>",
   "notification_project_invite_accepted_message": "Du har tilsluttet dig <b>{{projectName}}</b>",
   "open_project": "Åben projekt",
   "files_cannot_include_invalid_characters": "Filer kan ikke indeholde karaktererne '*' eller '/'",

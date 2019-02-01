@@ -131,7 +131,6 @@
   "syntax_validation": "Code check",
   "history": "Geschiedenis",
   "joining": "Aan het toevoegen",
-  "notification_project_invite_message": "<b>{{ userName }}</b> wil dat u deelneemt aan <b>{{ projectName }}</b>",
   "notification_project_invite_accepted_message": "U neemt deel aan <b>{{ projectName }}</b>",
   "open_project": "Open Project",
   "files_cannot_include_invalid_characters": "Bestandsnaam mag niet '*' of '/' bevatten",
