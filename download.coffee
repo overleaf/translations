@@ -9,6 +9,8 @@ sanitizeOpts =
 	allowedTags: [ 'b', 'strong', 'a', 'code' ],
 	allowedAttributes:
 		'a': [ 'href', "class" ]
+	textFilter: (text) ->
+		text.replace(/\{\{/, '&#123;&#123;').replace(/\}\}/, '&#125;&#125;')
 
 onesky.string.output platformId:"25049", (err, r)->
 	langs = Object.keys(r.translation['en-US.json'])
