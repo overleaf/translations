@@ -26,7 +26,6 @@
   "syntax_validation": "コードチェック",
   "history": "履歴",
   "joining": "参加中",
-  "notification_project_invite_accepted_message": "<b>{{ projectName }}</b> に参加しました",
   "open_project": "プロジェクトを開く",
   "files_cannot_include_invalid_characters": "ファイルには「*」や「/」などの文字を含めることはできません",
   "invalid_file_name": "無効なファイル名",

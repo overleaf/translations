@@ -238,7 +238,6 @@
   "syntax_validation": "Kodkontroll",
   "history": "Historik",
   "joining": "Går med",
-  "notification_project_invite_accepted_message": "Du har gått med i <b>{{ projectName }}</b>",
   "open_project": "Öppna projekt",
   "files_cannot_include_invalid_characters": "Filer kan inte innehålla '*' eller '/' tecken",
   "invalid_file_name": "Ogiltigt filnamn",

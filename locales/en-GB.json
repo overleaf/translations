@@ -1,4 +1,6 @@
 {
+  "notification_project_invite_message": "<b>__userName__</b> would like you to join <b>__projectName__</b>",
+  "notification_project_invite_accepted_message": "You've joined <b>__projectName__</b>",
   "subject_to_additional_vat": "Prices may be subject to additional VAT, depending on your country.",
   "select_country_vat": "Please select your country on the payment page to view the total price including any VAT.",
   "to_change_access_permissions": "To change access permissions, please ask the project owner",
@@ -348,7 +350,6 @@
   "syntax_validation": "Code check",
   "history": "History",
   "joining": "Joining",
-  "notification_project_invite_accepted_message": "You've joined <b>{{ projectName }}</b>",
   "open_project": "Open Project",
   "files_cannot_include_invalid_characters": "Files cannot include '*' or '/' characters",
   "invalid_file_name": "Invalid File Name",

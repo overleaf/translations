@@ -164,8 +164,6 @@
   "syntax_validation": "代码检查",
   "history": "历史记录",
   "joining": "加入",
-  "notification_project_invite_message": "<b>{{ userName }}</b> 邀请您加入 <b>{{ projectName }}</b>",
-  "notification_project_invite_accepted_message": "<b>{{ projectName }}</b> 已添加",
   "open_project": "打开项目",
   "files_cannot_include_invalid_characters": "文件中不能包含 *  或 /",
   "invalid_file_name": "文件名无效",

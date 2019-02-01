@@ -173,7 +173,6 @@
   "syntax_validation": "코드 확인",
   "history": "히스토리",
   "joining": "참여하기",
-  "notification_project_invite_accepted_message": "<b>{{ projectName }}</b>에 참여했습니다.",
   "open_project": "프로젝트 열기",
   "files_cannot_include_invalid_characters": "파일에 '*'과 '/'은 사용할 수 없습니다.",
   "invalid_file_name": "파일 이름이 부적절합니다.",

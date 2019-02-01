@@ -84,7 +84,6 @@
   "syntax_validation": "Syntaxüberprüfung",
   "history": "Verlauf",
   "joining": "Trete bei",
-  "notification_project_invite_accepted_message": "Du bist <b>{{ projectName }}</b> beigetreten",
   "open_project": "Öffne Projekt",
   "files_cannot_include_invalid_characters": "Dateien dürfen die Zeichen '*' oder '/' nicht enthalten.",
   "invalid_file_name": "Ungültiger Dateiname",
