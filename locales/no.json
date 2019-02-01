@@ -182,7 +182,7 @@
   "create": "Opprett",
   "creating": "Oppretter",
   "upload_files": "Last opp fil(er)",
-  "sure_you_want_to_delete": "Er du sikker på at du permanent vil slette  <strong>{{ entity.name }}</strong>?",
+  "sure_you_want_to_delete": "Er du sikker på at du permanent vil slette  <strong>&#123;&#123; entity.name &#125;&#125;</strong>?",
   "common": "Vanilige",
   "navigation": "Navigasjon",
   "editing": "Redigerer",

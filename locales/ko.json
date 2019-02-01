@@ -456,7 +456,7 @@
   "create": "만들기",
   "creating": "만드는 중",
   "upload_files": "파일 업로드",
-  "sure_you_want_to_delete": "정말 <strong>{{ entity.name }}</strong>을 영구삭제하시겠습니까?",
+  "sure_you_want_to_delete": "정말 <strong>&#123;&#123; entity.name &#125;&#125;</strong>을 영구삭제하시겠습니까?",
   "common": "일반",
   "navigation": "네비게이션",
   "editing": "편집",

@@ -115,7 +115,7 @@
   "create": "Vytvořit",
   "creating": "Vytvářím",
   "upload_files": "Nahrát soubor(y)",
-  "sure_you_want_to_delete": "Opravdu chcete nenávratně smazat <strong>{{ entity.name }}</strong>?",
+  "sure_you_want_to_delete": "Opravdu chcete nenávratně smazat <strong>&#123;&#123; entity.name &#125;&#125;</strong>?",
   "common": "Běžné",
   "navigation": "Pro navigaci",
   "editing": "Pro úpravy",

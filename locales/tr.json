@@ -162,7 +162,7 @@
   "create": "Oluştur",
   "creating": "Oluşturuluyor",
   "upload_files": "Dosya(lar) Yükle",
-  "sure_you_want_to_delete": "<strong>{{ entity.name }}</strong> kalıcı olarak silinecektir. Silmek istediğinizden emin misiniz?",
+  "sure_you_want_to_delete": "<strong>&#123;&#123; entity.name &#125;&#125;</strong> kalıcı olarak silinecektir. Silmek istediğinizden emin misiniz?",
   "common": "Belirli",
   "navigation": "Yol gösterici",
   "editing": "Düzenleme",

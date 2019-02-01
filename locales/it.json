@@ -159,7 +159,7 @@
   "create": "Crea",
   "creating": "Creazione",
   "upload_files": "Carica File(s)",
-  "sure_you_want_to_delete": "Sei sicuro di voler eliminare per sempre <strong>{{ entity.name }}</strong>?",
+  "sure_you_want_to_delete": "Sei sicuro di voler eliminare per sempre <strong>&#123;&#123; entity.name &#125;&#125;</strong>?",
   "common": "Comune",
   "navigation": "Navigazione",
   "editing": "Modifica",

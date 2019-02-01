@@ -114,7 +114,7 @@
   "create": "Luo",
   "creating": "Luodaan",
   "upload_files": "Vie tiedosto(ja)",
-  "sure_you_want_to_delete": "Oletko varma että haluat pysyvästi poistaa <strong>{{ entity.name }}</strong>?",
+  "sure_you_want_to_delete": "Oletko varma että haluat pysyvästi poistaa <strong>&#123;&#123; entity.name &#125;&#125;</strong>?",
   "common": "Yleisiä",
   "navigation": "Navigointi",
   "editing": "Muokkaaminen",

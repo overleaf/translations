@@ -112,7 +112,7 @@
   "create": "Utwórz",
   "creating": "Tworzenie",
   "upload_files": "Wyślij plik(i)",
-  "sure_you_want_to_delete": "Czy jesteś pewny(a), że chcesz trwale usunąć <strong>{{ entity.name }}</strong>?",
+  "sure_you_want_to_delete": "Czy jesteś pewny(a), że chcesz trwale usunąć <strong>&#123;&#123; entity.name &#125;&#125;</strong>?",
   "common": "Wspólne",
   "navigation": "Nawigacja",
   "editing": "Edytowanie",
