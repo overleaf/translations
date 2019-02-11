@@ -22,7 +22,7 @@ module.exports =
 			host = req.headers.host
 			if !host?
 				return next()
-                              parts = host.split(/[.-]/)
+			parts = host.split(/[.-]/)
 			subdomain = parts[0]
 			lang = options?.subdomainLang?[subdomain]?.lngCode
 			if req.originalUrl.indexOf("setLng") == -1 and lang?
