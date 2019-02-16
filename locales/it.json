@@ -592,7 +592,6 @@
   "repository_name": "Nome Repository",
   "optional": "Opzionale",
   "github_public_description": "Chiunque può visualizzare il repository. Puoi scegliere chi può eseguire commit.",
-  "github_private_description": "Scegli chi può vedere ed eseguire commit in questo repository. (Richiede un account GitHub avanzato).",
   "github_commit_message_placeholder": "Messaggio di commit per le modifiche effettuate in __appName__...",
   "merge": "Unisci",
   "merging": "Unione",

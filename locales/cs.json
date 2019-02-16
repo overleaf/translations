@@ -494,7 +494,6 @@
   "repository_name": "Jméno repozitáře",
   "optional": "Dobrovolný",
   "github_public_description": "Tento repozitář může vidět kdokoliv. Vy určíte kdo do něj může commitovat,",
-  "github_private_description": "Vy vyberete kdo může tento repozitář vidět a kdo do něj může commitovat. (Vyžaduje upgradovaný GitHub účet).",
   "github_commit_message_placeholder": "Commit zprávy pro změny udělané v ShareLaTeXu...",
   "merge": "Mergovat",
   "merging": "Merguji",

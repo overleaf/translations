@@ -694,7 +694,6 @@
   "repository_name": "Nom du dépôt",
   "optional": "Optionnel",
   "github_public_description": "Tout le monde peut voir ce dépôt. Vous choisissez qui peut commiter.",
-  "github_private_description": "Vous choisissez qui peut voir et commiter dans ce dépôt (nécessite un compte Github mis à jour)",
   "github_commit_message_placeholder": "Message de commit pour les changements effectués dans __appName__…",
   "merge": "Fusion",
   "merging": "Fusion",

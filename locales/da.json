@@ -866,7 +866,6 @@
   "repository_name": "Lagernavn",
   "optional": "Valgfrit",
   "github_public_description": "Alle kan se dette lager. Du kan vælge hvem der kan comitte.",
-  "github_private_description": "Du vælger, hvem der kan se og comitte til dette lager. (Kræver opgraderet GitHub konto).",
   "github_commit_message_placeholder": "Commit besked for ændringer i __appName__...",
   "merge": "Flet",
   "merging": "Fletter",

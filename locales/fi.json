@@ -543,7 +543,6 @@
   "repository_name": "Repositoryn Nimi",
   "optional": "Valinnainen",
   "github_public_description": "Kuka tahansa voi nähdä tämän repositoryn. Voit valita kuka voi tehdä muutoksia.",
-  "github_private_description": "Voit valita kuka voi nähdä ja tehdä muutoksia tähän repositoryyn. (Vaatii korotetun Github-tilin).",
   "github_commit_message_placeholder": "Tehdyt muutokset-viesti sovelluksessa __appName__ tehdyille muutoksille",
   "merge": "Yhdistä",
   "merging": "Yhdistetään",

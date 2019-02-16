@@ -1054,7 +1054,6 @@
   "repository_name": "Nome do Repositório",
   "optional": "Opcional",
   "github_public_description": "Qualquer um pode ver esse repositório.",
-  "github_private_description": "Você pode escolher quem vê e commita esse repositório. (Requer conta do GitHub aprimorada)",
   "github_commit_message_placeholder": "Mensagem de commit para as alterações feitas no __appName__...",
   "merge": "Mesclar",
   "merging": "Mesclando",

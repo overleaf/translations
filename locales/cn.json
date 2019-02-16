@@ -891,7 +891,6 @@
   "repository_name": "存储库名称",
   "optional": "可选的",
   "github_public_description": "任何人都可以看到该存储库。您可以选择谁有权提交。",
-  "github_private_description": "由您选择谁可以看到并提交信息到该存储库。(需要升级后到GitHub账户)。",
   "github_commit_message_placeholder": "为 __appName__ 中的更改提交信息",
   "merge": "合并",
   "merging": "正在合并",

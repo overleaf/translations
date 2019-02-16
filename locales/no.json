@@ -605,7 +605,6 @@
   "repository_name": "Repository-navn",
   "optional": "Valgfri",
   "github_public_description": "Hvem som helst kan se dette repositoriet. Du velger hvem som kan gjøre commits.",
-  "github_private_description": "Du velger hvem som kan se og commite til dette repositoriet. (Krever oppgradert GitHub-konto)",
   "github_commit_message_placeholder": "Commit-melding for endringer gjort i __appName__...",
   "merge": "Merge",
   "merging": "Merging",

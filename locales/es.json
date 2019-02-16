@@ -660,7 +660,6 @@
   "repository_name": "Nombre del repositorio",
   "optional": "Opcional",
   "github_public_description": "Cualquier persona puede ver este repositorio. Tú eliges quién puede contribuir.",
-  "github_private_description": "Tú eliges quién ve y quién contribuye a este repositorio. (Requiere una cuenta pagada en GitHub).",
   "github_commit_message_placeholder": "Mensaje del commit para cambios hechos en __appName__...",
   "merge": "Merge",
   "merging": "Merging",

@@ -753,7 +753,6 @@
   "repository_name": "リポジトリ名",
   "optional": "オプショナル",
   "github_public_description": "このリポジトリは全員が閲覧できます。コミットできる人を選択します。",
-  "github_private_description": "このレポジトリを閲覧・コミットできる人を選択します。（アップグレードしたGithubアカウントが必要）。",
   "github_commit_message_placeholder": "__appName__ で行われた変更のコミットメッセージ…",
   "merge": "統合",
   "merging": "統合中",

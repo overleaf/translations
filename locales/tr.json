@@ -583,7 +583,6 @@
   "repository_name": "Depo Adı",
   "optional": "İsteğe bağlı",
   "github_public_description": "Herkes bu depoyu görüntüleyebilir. Kimlerin işlem yapabileceğini siz seçersiniz.",
-  "github_private_description": "Kimlerin bu depoyu görüntüleyebileceğini ve işlem yapabileceğini siz belirlersiniz. (Yükseltilmiş GitHub hesabı gerektirir).",
   "github_commit_message_placeholder": "__appName__ üzerinden yaptığınız değişiklikler için yorum giriniz...",
   "merge": "Birleştir",
   "merging": "Birleştiriliyor",

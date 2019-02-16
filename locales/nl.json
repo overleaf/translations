@@ -858,7 +858,6 @@
   "repository_name": "Repository-naam",
   "optional": "Optioneel",
   "github_public_description": "Iedereen kan deze repository zien. Jij kiest wie eraan kan bijdragen.",
-  "github_private_description": "Jij kiest wie deze repository kan zien en wie eraan kan bijdragen. (Uitgebreid GitHubaccount vereist).",
   "github_commit_message_placeholder": "Bericht voor wijzigingen aangebracht in __appName__...",
   "merge": "Samenvoegen",
   "merging": "Bezig met samenvoegen",

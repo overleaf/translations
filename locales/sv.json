@@ -965,7 +965,6 @@
   "repository_name": "Namn på Repo",
   "optional": "Valfritt",
   "github_public_description": "Alla kan se detta repo. Du bestämmer vem som kan commita.",
-  "github_private_description": "Du väljer vem som kan se och commita till detta repo. (Kräver uppgraderat GitHub konto).",
   "github_commit_message_placeholder": "Commit meddelande för ändringar gjorda i __appName__...",
   "merge": "Slå samman",
   "merging": "Slår samman",
