@@ -1,4 +1,5 @@
 {
+  "department": "Department",
   "notification_features_upgraded_by_affiliation": "Good news! Your affiliated organization __institutionName__ has a partnership with Overleaf, and you now have access to all of Overleaf's Professional features.",
   "notification_personal_subscription_not_required_due_to_affiliation": " Good news! Your affiliated organization __institutionName__ has a partnership with Overleaf, and you now have access to Overleaf's Professional features through your affiliation. You can cancel your personal subscription without losing access to any of your benefits.",
   "github_private_description": "You choose who can see and commit to this repository.",
