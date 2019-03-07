@@ -1,4 +1,5 @@
 {
+  "github_sync_repository_not_found_description": " The linked repository has either been removed, or you no longer have access to it. You can set up sync with a new repository by cloning the project and using the 'Github' menu item.",
   "cant_see_what_youre_looking_for_question": "Can't see what you're looking for?",
   "something_went_wrong_canceling_your_subscription": "Something went wrong canceling your subscription. Please contact support.",
   "department": "Department",
