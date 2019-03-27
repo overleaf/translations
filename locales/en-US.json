@@ -1,4 +1,6 @@
 {
+  "make_primary": "Make Primary",
+  "make_email_primary_description": "Make this the primary email, used to log in",
   "github_sync_repository_not_found_description": " The linked repository has either been removed, or you no longer have access to it. You can set up sync with a new repository by cloning the project and using the 'Github' menu item.",
   "unarchive": "Unarchive",
   "cant_see_what_youre_looking_for_question": "Can't see what you're looking for?",
