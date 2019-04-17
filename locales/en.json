@@ -1,4 +1,6 @@
 {
+  " to_reactivate_your_subscription_go_to": "To reactivate your subscription go to",
+  "subscription_canceled": "Subscription Canceled",
   "coupons_not_included": "This does not include your current discounts, which will be applied automatically before your next payment",
   "email_already_registered_secondary": "This email is already registered as a secondary email",
   "secondary_email_password_reset": "That email is registered as a secondary email. Please enter the primary email for your account.",
