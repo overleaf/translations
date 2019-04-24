@@ -1,4 +1,7 @@
 {
+  "linked_accounts": "linked accounts",
+  "linked_accounts_explained": "You can link your __appName__ account with other services to enable the features described below",
+  "oauth_orcid_description": " <a href=\"__link__\">Securely establish your identity by linking your ORCID iD to your __appName__ account</a>. Submissions to participating publishers will automatically include your ORCID iD for improved workflow and visibility. ",
   " to_reactivate_your_subscription_go_to": "To reactivate your subscription go to",
   "subscription_canceled": "Subscription Canceled",
   "coupons_not_included": "This does not include your current discounts, which will be applied automatically before your next payment",
