@@ -1,4 +1,5 @@
 {
+  "github_too_many_files_error": "This repository cannot be imported as it exceeds the maximum number of files allowed",
   "linked_accounts": "linked accounts",
   "linked_accounts_explained": "You can link your __appName__ account with other services to enable the features described below",
   "oauth_orcid_description": " <a href=\"__link__\">Securely establish your identity by linking your ORCID iD to your __appName__ account</a>. Submissions to participating publishers will automatically include your ORCID iD for improved workflow and visibility. ",
