@@ -1,4 +1,7 @@
 {
+  "register_error": "Registration error",
+  "login_error": "Login error",
+  "sso_link_error": "Error linking SSO account",
   "more_info": "More Info",
   "synctex_failed": "Couldn't find the corresponding source file",
   "linked_collabratec_description": "Use Collabratec to manage your __appName__ projects.",
