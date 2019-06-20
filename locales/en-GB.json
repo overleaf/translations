@@ -1,4 +1,7 @@
 {
+  "empty_zip_file": "Zip doesn't contain any file",
+  "you_can_now_login_through_overleaf_sl": "You can now log in to your ShareLaTeX account through Overleaf.",
+  "find_out_more_nt": "Find out more.",
   "register_error": "Registration error",
   "login_error": "Login error",
   "sso_link_error": "Error linking SSO account",
