@@ -1,6 +1,6 @@
 {
   "sso_account_already_linked": "Account already linked to another __appName__ user",
-  "subscription_admins_cannot_be_deleted": "You cannot delete your account while on a subscription. Please cancel your subscription and try again.",
+  "subscription_admins_cannot_be_deleted": "You cannot delete your account while on a subscription. Please cancel your subscription and try again. If you keep seeing this message please contact us.",
   "delete_acct_no_existing_pw": "Please use the password reset form to set a password before deleting your account",
   "empty_zip_file": "Zip doesn't contain any file",
   "you_can_now_login_through_overleaf_sl": "You can now log in to your ShareLaTeX account through Overleaf.",
