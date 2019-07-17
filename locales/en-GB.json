@@ -1,4 +1,7 @@
 {
+  "upgrade_for_longer_compiles": "Upgrade to increase your timeout limit.",
+  "ask_proj_owner_to_upgrade_for_longer_compiles": "Please ask the project owner to upgrade to increase the timeout limit.",
+  "plus_upgraded_accounts_receive": "Plus with an upgraded account you get",
   "sso_account_already_linked": "Account already linked to another __appName__ user",
   "subscription_admins_cannot_be_deleted": "You cannot delete your account while on a subscription. Please cancel your subscription and try again. If you keep seeing this message please contact us.",
   "delete_acct_no_existing_pw": "Please use the password reset form to set a password before deleting your account",
@@ -966,7 +969,7 @@
   "commiting": "Commiting",
   "importing_and_merging_changes_in_github": "Importing and merging changes in GitHub",
   "upgrade_for_faster_compiles": "Upgrade for faster compiles and to increase your timeout limit",
-  "free_accounts_have_timeout_upgrade_to_increase": "Free accounts have a one minute timeout. Upgrade to increase your timeout limit.",
+  "free_accounts_have_timeout_upgrade_to_increase": "Free accounts have a one minute timeout, whereas upgraded accounts have a timeout of four minutes.",
   "learn_how_to_make_documents_compile_quickly": "Learn how to make your document compile more quickly",
   "zh-CN": "Chinese",
   "cn": "Chinese (Simplified)",
