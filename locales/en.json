@@ -969,7 +969,7 @@
   "push_sharelatex_changes_to_github": "Push __appName__ changes to GitHub",
   "features": "Features",
   "commit": "Commit",
-  "commiting": "Commiting",
+  "commiting": "Committing",
   "importing_and_merging_changes_in_github": "Importing and merging changes in GitHub",
   "upgrade_for_faster_compiles": "Upgrade for faster compiles and to increase your timeout limit",
   "free_accounts_have_timeout_upgrade_to_increase": "Free accounts have a one minute timeout, whereas upgraded accounts have a timeout of four minutes.",
