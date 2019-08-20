@@ -1,5 +1,6 @@
 {
   "card_must_be_authenticated_by_3dsecure": "Vous devez authentifier votre carte avec 3D Secure avant de poursuivre",
+  "view_your_invoices": "Voir vos factures",
   "payment_provider_unreachable_error": "Désolé, une erreur s’est produite lors de la communication avec notre fournisseur de paiements. Veuillez réessayer dans quelques instants.",
   "dropbox_unlinked_because_access_denied": "La liaison avec votre compte Dropbox a été supprimée car le service Dropbox a rejeté vos identifiants. Veuillez restaurer cette liaison pour continuer à utiliser Dropbox avec Overleaf.",
   "dropbox_unlinked_because_full": "La liaison avec votre compte Dropbox a été supprimée car le quota de celui-ci a été atteint et nous ne sommes plus en mesure d’y envoyer les mises à jour. Veuillez libérer de l’espace puis restaurer cette liaison pour continuer à utiliser Dropbox avec Overleaf.",
