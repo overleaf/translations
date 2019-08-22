@@ -1,4 +1,5 @@
 {
+  "user_deletion_error": "Sorry, something went wrong deleting your account. Please try again in a minute.",
   "card_must_be_authenticated_by_3dsecure": "Your card must be authenticated with 3D Secure before continuing",
   "view_your_invoices": "View Your Invoices",
   "payment_provider_unreachable_error": "Sorry, there was an error talking to our payment provider. Please try again in a few moments.",
