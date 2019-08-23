@@ -114,7 +114,7 @@
   "please_confirm_email": "Veuillez confirmer votre adresse courriel __emailAddress__ en cliquant sur le lien contenu dans le courriel de confirmation ",
   "register_using_service": "S’inscrire avec __service__",
   "login_to_overleaf": "Se connecter à Overleaf",
-  "login_with_email": "Se connecter avec votre courriel",
+  "login_with_email": "Se connecter avec son courriel",
   "login_with_service": "Se connecter avec __service__",
   "first_time_sl_user": "Est-ce votre première visite en tant qu’utilisateur de ShareLaTeX ",
   "migrate_from_sl": "Déménager depuis ShareLaTeX",
