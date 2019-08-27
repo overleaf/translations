@@ -1,4 +1,5 @@
 {
+  "user_deletion_error": "Désolé, quelque chose n’a pas fonctionné lors de la suppression de votre compte. Veuillez réessayer dans une minute.",
   "card_must_be_authenticated_by_3dsecure": "Vous devez authentifier votre carte avec 3D Secure avant de poursuivre",
   "view_your_invoices": "Voir vos factures",
   "payment_provider_unreachable_error": "Désolé, une erreur s’est produite lors de la communication avec notre fournisseur de paiements. Veuillez réessayer dans quelques instants.",
