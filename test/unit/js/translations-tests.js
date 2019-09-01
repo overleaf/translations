@@ -56,7 +56,7 @@
       it("should set the lang to french if the domain is fr", function(done) {
         this.req.url = "fr.sharelatex.com/login";
         this.req.headers.host = "fr.sharelatex.com";
-        return this.translations.expressMiddlewear(this.req, this.req, (function(_this) {
+        return this.translations.expressMiddlewear(this.req, this.res, (function(_this) {
           return function() {
             return _this.translations.setLangBasedOnDomainMiddlewear(_this.req, _this.res, function() {
               _this.req.lng.should.equal("fr");
@@ -70,7 +70,7 @@
           this.req.headers["accept-language"] = "da, en-gb;q=0.8, en;q=0.7";
           this.req.url = "fr.sharelatex.com/login";
           this.req.headers.host = "fr.sharelatex.com";
-          return this.translations.expressMiddlewear(this.req, this.req, (function(_this) {
+          return this.translations.expressMiddlewear(this.req, this.res, (function(_this) {
             return function() {
               return _this.translations.setLangBasedOnDomainMiddlewear(_this.req, _this.res, function() {
                 _this.req.showUserOtherLng.should.equal("da");
@@ -83,7 +83,7 @@
           this.req.headers["accept-language"] = "da, en-gb;q=0.8, en;q=0.7";
           this.req.url = "da.sharelatex.com/login";
           this.req.headers.host = "da.sharelatex.com";
-          return this.translations.expressMiddlewear(this.req, this.req, (function(_this) {
+          return this.translations.expressMiddlewear(this.req, this.res, (function(_this) {
             return function() {
               return _this.translations.setLangBasedOnDomainMiddlewear(_this.req, _this.res, function() {
                 expect(_this.req.showUserOtherLng).to.not.exist;

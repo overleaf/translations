@@ -33,7 +33,7 @@ describe "translations", ->
 		it "should set the lang to french if the domain is fr", (done)->
 			@req.url = "fr.sharelatex.com/login"
 			@req.headers.host = "fr.sharelatex.com"
-			@translations.expressMiddlewear @req, @req, =>
+			@translations.expressMiddlewear @req, @res, =>
 				@translations.setLangBasedOnDomainMiddlewear @req, @res, =>
 					@req.lng.should.equal "fr"
 					done()
@@ -45,7 +45,7 @@ describe "translations", ->
 				@req.headers["accept-language"] = "da, en-gb;q=0.8, en;q=0.7"
 				@req.url = "fr.sharelatex.com/login"
 				@req.headers.host = "fr.sharelatex.com"
-				@translations.expressMiddlewear @req, @req, =>
+				@translations.expressMiddlewear @req, @res, =>
 					@translations.setLangBasedOnDomainMiddlewear @req, @res, =>
 						@req.showUserOtherLng.should.equal "da"
 						done()
@@ -55,7 +55,7 @@ describe "translations", ->
 				@req.headers["accept-language"] = "da, en-gb;q=0.8, en;q=0.7"
 				@req.url = "da.sharelatex.com/login"
 				@req.headers.host = "da.sharelatex.com"
-				@translations.expressMiddlewear @req, @req, =>
+				@translations.expressMiddlewear @req, @res, =>
 					@translations.setLangBasedOnDomainMiddlewear @req, @res, =>
 						expect(@req.showUserOtherLng).to.not.exist
 						done()
