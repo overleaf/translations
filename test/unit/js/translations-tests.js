@@ -48,9 +48,31 @@
         originalUrl: "doesn'tmatter.sharelatex.com/login",
         headers: {
           "accept-language": ""
-        }
+        },
+        query: {},
+        session: {}
       };
-      return this.res = {};
+      return this.res = {
+        redirect: sinon.stub()
+      };
+    });
+    describe("handle", function() {
+      beforeEach(function(done) {
+        this.req.path = '/login';
+        this.req.query.setGlobalLng = "da";
+        return this.translations.expressMiddlewear(this.req, this.res, (function(_this) {
+          return function() {
+            _this.translations.setLangBasedOnDomainMiddlewear(_this.req, _this.res);
+            return done();
+          };
+        })(this));
+      });
+      it("should send the user back", function() {
+        return this.res.redirect.calledWith('/login').should.equal(true);
+      });
+      return it("should set the requested lang permanent", function() {
+        return this.req.session.lng.should.equal("da");
+      });
     });
     return describe("setLangBasedOnDomainMiddlewear", function() {
       it("should set the lang to french if the domain is fr", function(done) {

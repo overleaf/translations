@@ -14,10 +14,15 @@ module.exports =
 			sendMissingTo: "fallback"
 			fallbackLng: options?.defaultLng || "en"
 			detectLngFromHeaders: true
+			detectLanguageFn: (req, res) ->
+				return req.session.lng
 			useCookie: false
 			preload: availableLngs
 			supportedLngs: availableLngs
 		setLangBasedOnDomainMiddlewear = (req, res, next) ->
+			if req.query.setGlobalLng
+				req.session.lng = subdomainLang[req.query.setGlobalLng]?.lngCode
+				return res.redirect req.path
 
 			host = req.headers.host
 			if !host?

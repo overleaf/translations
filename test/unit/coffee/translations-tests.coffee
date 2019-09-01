@@ -25,8 +25,24 @@ describe "translations", ->
 			originalUrl:"doesn'tmatter.sharelatex.com/login"
 			headers:
 				"accept-language":""
-		@res = {}
+			query: {}
+			session: {}
+		@res =
+			redirect: sinon.stub()
 
+	describe "handle", ->
+		beforeEach (done) ->
+			@req.path = '/login'
+			@req.query.setGlobalLng = "da"
+			@translations.expressMiddlewear @req, @res, =>
+				@translations.setLangBasedOnDomainMiddlewear @req, @res
+				done()
+
+		it "should send the user back", ->
+			@res.redirect.calledWith('/login').should.equal true
+
+		it "should set the requested lang permanent", ->
+			@req.session.lng.should.equal "da"
 
 	describe "setLangBasedOnDomainMiddlewear", ->
 
