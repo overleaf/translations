@@ -8,7 +8,7 @@
   "register_with_another_email": "<a href=\"__link__\">Register with __appName__</a> using another email.",
   "register_with_email_provided": "<a href=\"__link__\">Register with __appName__</a> using the email and password you provided.",
   "security_reasons_linked_accts": "For security reasons, as your institutional email is already associated with the <b>__email__</b> <b>__appName__</b> account, we can only allow account linking with that specific account.",
-  "this_grants_access_to_features": "This grant you access to <b>__appName__</b> <b>__featureType_</b> features.",
+  "this_grants_access_to_features": "This grant you access to <b>__appName__</b> <b>__featureType__</b> features.",
   "to_add_email_accounts_need_to_be_linked": "To add this email, your <b>__appName__</b> and <b>__institutionName__</b> accounts will need to be linked.",
   "tried_to_log_in_with_email": "You've tried to login with <b>__email__</b>.",
   "tried_to_register_with_email": "You've tried to register with <b>__email__</b>, which is already registered with <b>__appName__</b> as an institutional account.",
