@@ -299,7 +299,7 @@
   "faq_purchase_more_licenses_answer": "Yes, we provide __groupLink__, which are easy to manage, help to save on paperwork, and reduce the cost of purchasing multiple licenses.",
   "faq_monthly_or_annual_answer": "Annual billing offers a way to cut down on your admin and paperwork. If you’d prefer to manage a single payment every year, instead of twelve, annual billing is for you.",
   "faq_how_to_pay_answer": "Yes, you can. All major credit and debit cards and Paypal are supported. Select the plan you’d like above, and you’ll have the option to pay by card or to go through to PayPal when it’s time to set up payment.",
-  "faq_pay_by_invoice_answer": "Yes, if you’d prefer to pay by invoice, or need to raise a purchase order, please let us know. Please note that payments by invoice are for annual billing only. If you are buying multiple licenses, we offer __groupLink__, which help to save on paperwork. ",
+  "faq_pay_by_invoice_answer": "Yes, if you'd like to purchase a group account or site license and would prefer to pay by invoice, or need to raise a purchase order, please <a href>let us know</a>. For individual accounts or accounts with monthly billing, we can only accept payment online via credit or debit card, or PayPal.",
   "powerful_latex_editor": "Powerful LaTeX editor",
   "realtime_track_changes": "Real-time track changes",
   "realtime_track_changes_info": "Now you don’t have to choose between tracked changes and typesetting in LaTeX. Leave comments, keep track of TODOs, and accept or reject others’ changes.",
