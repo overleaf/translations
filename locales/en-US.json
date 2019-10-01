@@ -1,4 +1,6 @@
 {
+  "faq_pay_by_invoice_answer": "Yes, if you'd like to purchase a group account or site license and would prefer to pay by invoice,\r\nor need to raise a purchase order, please __payByInvoiceLinkOpen__let us know__payByInvoiceLinkClose__.\r\nFor individual accounts or accounts with monthly billing, we can only accept payment online\r\nvia credit or debit card, or PayPal.",
+  "password_too_long_please_reset": "Maximum password length exceeded. Please reset your password.",
   "view_other_options_to_log_in": "View other options to log in",
   "we_logged_you_in": "We have logged you in.",
   "will_need_to_log_out_from_and_in_with": "You will need to <b>log out</b> from your <b>__email1__</b> account and then log in with <b>__email2__</b>.",
@@ -299,7 +301,6 @@
   "faq_purchase_more_licenses_answer": "Yes, we provide __groupLink__, which are easy to manage, help to save on paperwork, and reduce the cost of purchasing multiple licenses.",
   "faq_monthly_or_annual_answer": "Annual billing offers a way to cut down on your admin and paperwork. If you’d prefer to manage a single payment every year, instead of twelve, annual billing is for you.",
   "faq_how_to_pay_answer": "Yes, you can. All major credit and debit cards and Paypal are supported. Select the plan you’d like above, and you’ll have the option to pay by card or to go through to PayPal when it’s time to set up payment.",
-  "faq_pay_by_invoice_answer": "Yes, if you'd like to purchase a group account or site license and would prefer to pay by invoice, or need to raise a purchase order, please let us know. For individual accounts or accounts with monthly billing, we can only accept payment online via credit or debit card, or PayPal.",
   "powerful_latex_editor": "Powerful LaTeX editor",
   "realtime_track_changes": "Real-time track changes",
   "realtime_track_changes_info": "Now you don’t have to choose between tracked changes and typesetting in LaTeX. Leave comments, keep track of TODOs, and accept or reject others’ changes.",
