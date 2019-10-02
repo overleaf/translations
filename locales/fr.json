@@ -1,4 +1,6 @@
 {
+  "faq_pay_by_invoice_answer": "Oui, si vous souhaitez acheter un compte groupé ou une licence de site et que vous préférez payer par facture,\n\nou si vous avez besoin d’un bon de commande, __payByInvoiceLinkOpen__faites-le nous savoir__payByInvoiceLinkClose__.\n\nPour les comptes individuels ou à paiement mensuels, nous ne pouvons accepter que le paiement en ligne\n\npar carte bleue ou PayPal.",
+  "password_too_long_please_reset": "La longueur maximale autorisée pour le mot de passe a été dépassée. Merci de réinitialiser votre mot de passe.",
   "view_other_options_to_log_in": "Voir d’autres options de connexion",
   "we_logged_you_in": "Nous vous avons connecté.",
   "will_need_to_log_out_from_and_in_with": "Vous devrez vous <b>déconnecter</b> de votre compte <b>__email1__</b> et vous reconnecter sur votre compte <b>__email2__</b>.",
