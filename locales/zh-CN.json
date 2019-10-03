@@ -1,4 +1,5 @@
 {
+  "archive": "归档",
   "best_value": "最佳性价比",
   "faq_how_free_trial_works_question": "如何体验免费使用？",
   "faq_change_plans_question": "之后可以更改付款方案吗？",
@@ -19,7 +20,7 @@
   "tagline_student_monthly": "对单次使用来说简直完美",
   "all_premium_features": "所有高级付费功能",
   "sync_dropbox_github": "与dropbox或Github同步",
-  "track_changes": "记录更改历史",
+  "track_changes": "修订",
   "tooltip_hide_pdf": "单击隐藏PDF",
   "tooltip_show_pdf": "单击显示PDF",
   "tooltip_hide_filetree": "单击隐藏文件树",
@@ -119,7 +120,7 @@
   "resolve": "解决",
   "reply": "回复",
   "quoted_text_in": "引文内容",
-  "review": "浏览",
+  "review": "审阅",
   "track_changes_is_on": "修改追踪功能 <strong>开启</strong>",
   "track_changes_is_off": "修改追踪功能 <strong>关闭</strong>",
   "current_file": "当前文件",
