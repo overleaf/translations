@@ -1,4 +1,6 @@
 {
+  "change_owner": "Change owner",
+  "change_project_owner": "Change Project Owner",
   "faq_pay_by_invoice_answer": "Yes, if you'd like to purchase a group account or site license and would prefer to pay by invoice,\r\nor need to raise a purchase order, please __payByInvoiceLinkOpen__let us know__payByInvoiceLinkClose__.\r\nFor individual accounts or accounts with monthly billing, we can only accept payment online\r\nvia credit or debit card, or PayPal.",
   "password_too_long_please_reset": "Maximum password length exceeded. Please reset your password.",
   "view_other_options_to_log_in": "View other options to log in",
