@@ -1,4 +1,6 @@
 {
+  "project_ownership_transfer_confirmation_1": "Are you sure you want to make __user__ the owner of __project__?",
+  "project_ownership_transfer_confirmation_2": "This action cannot be undone. The new owner will be notified and will be able to change project access settings (including removing your own access).",
   "change_owner": "Change owner",
   "change_project_owner": "Change Project Owner",
   "faq_pay_by_invoice_answer": "Yes, if you'd like to purchase a group account or site license and would prefer to pay by invoice,\r\nor need to raise a purchase order, please __payByInvoiceLinkOpen__let us know__payByInvoiceLinkClose__.\r\nFor individual accounts or accounts with monthly billing, we can only accept payment online\r\nvia credit or debit card, or PayPal.",
