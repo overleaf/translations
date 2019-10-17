@@ -54,7 +54,7 @@
   "register_using_service": "Registre-se usando __service__",
   "login_to_overleaf": "Faça o login no Overleaf",
   "login_with_email": "Entre com seu email",
-  "login_with_service": "Logar com _service_",
+  "login_with_service": "Logar com __service__",
   "first_time_sl_user": "Primeira vez aqui como usuário do ShareLaTeX",
   "migrate_from_sl": "Migrar do ShareLaTeX",
   "dont_have_account": "Não tem uma conta?",
