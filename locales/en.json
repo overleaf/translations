@@ -1,4 +1,5 @@
 {
+  "continue_to": "Continue to __appName__",
   "project_ownership_transfer_confirmation_1": "Are you sure you want to make __user__ the owner of __project__?",
   "project_ownership_transfer_confirmation_2": "This action cannot be undone. The new owner will be notified and will be able to change project access settings (including removing your own access).",
   "change_owner": "Change owner",
