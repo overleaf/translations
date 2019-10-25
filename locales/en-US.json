@@ -1,4 +1,5 @@
 {
+  "register_intercept_sso": "You can link your __authProviderName__ account from the Account Settings page after logging in.",
   "continue_to": "Continue to __appName__",
   "project_ownership_transfer_confirmation_1": "Are you sure you want to make __user__ the owner of __project__?",
   "project_ownership_transfer_confirmation_2": "This action cannot be undone. The new owner will be notified and will be able to change project access settings (including removing your own access).",
@@ -797,7 +798,7 @@
   "server_error": "Server Error",
   "somthing_went_wrong_compiling": "Sorry, something went wrong and your project could not be compiled. Please try again in a few moments.",
   "timedout": "Timed out",
-  "proj_timed_out_reason": "Sorry, your compile took too long to run and timed out. This may be due to a large number of high-res images, or complicated diagrams.",
+  "proj_timed_out_reason": "Sorry, your compile took too long to run and timed out. This may be due to a LaTeX error, or a large number of high-res images or complicated diagrams.",
   "no_errors_good_job": "No errors, good job!",
   "compile_error": "Compile Error",
   "generic_failed_compile_message": "Sorry, your LaTeX code couldn't compile for some reason. Please check the errors below for details, or view the raw log",
@@ -1049,7 +1050,7 @@
   "importing_and_merging_changes_in_github": "Importing and merging changes in GitHub",
   "upgrade_for_faster_compiles": "Upgrade for faster compiles and to increase your timeout limit",
   "free_accounts_have_timeout_upgrade_to_increase": "Free accounts have a one minute timeout, whereas upgraded accounts have a timeout of four minutes.",
-  "learn_how_to_make_documents_compile_quickly": "Learn how to make your document compile more quickly",
+  "learn_how_to_make_documents_compile_quickly": "Learn how to fix compile timeouts",
   "zh-CN": "Chinese",
   "cn": "Chinese (Simplified)",
   "sync_to_github": "Sync to GitHub",
