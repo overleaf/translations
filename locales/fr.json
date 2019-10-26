@@ -1,4 +1,5 @@
 {
+  "register_intercept_sso": "Vous pourrez lier votre compte __authProviderName__ depuis la page « Paramètres du compte » une fois que vous vous serez connecté.",
   "continue_to": "Poursuivre vers __appName__",
   "project_ownership_transfer_confirmation_1": "Êtes-vous sûr de vouloir faire de __user__ le propriétaire de __project__ ?",
   "project_ownership_transfer_confirmation_2": "Cette action est irréversible. Le nouveau propriétaire sera notifié et sera en mesure de modifier les paramètres d’accès au projet (y compris de vous ôter le droit d’accès).",
@@ -795,7 +796,7 @@
   "server_error": "Erreur du serveur",
   "somthing_went_wrong_compiling": "Désolé, quelque chose ne fonctionne pas et votre projet ne peut pas être compilé. Veuillez réessayer dans quelques instants.",
   "timedout": "Temps expiré",
-  "proj_timed_out_reason": "Désolé, votre compilation a pris trop de temps et a été interrompue. Cela peut être dû à un trop grand nombre d’images en haute résolution ou à des schémas trop complexes.",
+  "proj_timed_out_reason": "Désolé, votre compilation a dépassé le temps alloué et a été interrompue. Cela peut être dû à une erreur LaTeX, un trop grand nombre d’images en haute résolution ou à des schémas trop complexes.",
   "no_errors_good_job": "Pas d’erreur, bon travail !",
   "compile_error": "Erreur de compilation",
   "generic_failed_compile_message": "Désolé, impossible de compiler votre code LaTeX. Veuillez vérifier les erreurs ci-dessous ou consulter les journaux bruts pour plus de détails.",
@@ -1047,7 +1048,7 @@
   "importing_and_merging_changes_in_github": "Import et fusion des changements dans GitHub",
   "upgrade_for_faster_compiles": "Mettez votre compte à niveau pour des compilations plus rapides et pour augmenter la limite de temps",
   "free_accounts_have_timeout_upgrade_to_increase": "Les comptes gratuits ont une limite de temps d’une minute alors que les comptes premium ont une limite de temps de quatre minutes.",
-  "learn_how_to_make_documents_compile_quickly": "Apprenez comment compiler vos documents plus rapidement",
+  "learn_how_to_make_documents_compile_quickly": "Apprenez comment corriger ces dépassements de temps",
   "zh-CN": "Chinois",
   "cn": "Chinois (simplifié)",
   "sync_to_github": "Synchroniser avec GitHub",
