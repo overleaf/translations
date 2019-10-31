@@ -51,7 +51,7 @@
   "doing_this_will_verify_affiliation_and_allow_log_in": "Doing this will verify your affiliation with <b>__institutionName__</b> and will allow you to log in to <b>__appName__</b> through your institution.",
   "email_already_associated_with": "The <b>__email1__</b> email is already associated with the <b>__email2__</b> <b>__appName__</b> account.",
   "enter_institution_email_to_log_in": "Enter your institutional email to log in through your institution.",
-  "find_out_more_about_institution_login": "Find out more about institution login",
+  "find_out_more_about_institution_login": "Find out more about institutional login",
   "get_in_touch_having_problems": "<a href=\"__link__\">Get in touch with support</a> if you're having problems",
   "go_back_and_link_accts": "<a href=\"__link__\">Go back</a> and link your accounts",
   "go_back_and_log_in": "<a href=\"__link__\">Go back</a> and log in again",
