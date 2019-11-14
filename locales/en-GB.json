@@ -65,7 +65,7 @@
   "go_back_and_log_in": "<a href=\"__link__\">Go back</a> and log in again",
   "go_back_to_institution": "Go back to your institution",
   "can_link_institution_email_by_clicking": "You can link your <b>__email__</b> <b>__appName__</b> account to your  <b>__institutionName__</b> account by clicking <b>__clickText__</b>.",
-  "can_link_institution_email_to_login": "You can link your <b>__email__</b> <b>__appName__</b> account to your <b>__institutionName__</b>, which will allow you to log in to <b>__appName__</b> through your institution portal.",
+  "can_link_institution_email_to_login": "You can link your <b>__email__</b> <b>__appName__</b> account to your <b>__institutionName__</b> account, which will allow you to log in to <b>__appName__</b> through your institution portal.",
   "can_link_your_institution_acct": "You can now <b>link</b> your <b>__appName__</b> account to your <b>__institutionName__</b> institutional account.",
   "can_now_link_to_institution_acct": "You can link your <b>__email__<b> <b>__appName__</b> account to your <b>__institutionName__</b> institutional account.</b></b>",
   "click_link_to_proceed": "Click <b>__clickText__</b> below to proceed.",
