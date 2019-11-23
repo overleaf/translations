@@ -1,4 +1,5 @@
 {
+  "this_action_cannot_be_undone": "This action cannot be undone.",
   "trashed_projects": "Trashed Projects",
   "trash": "Trash",
   "untrash": "Restore",

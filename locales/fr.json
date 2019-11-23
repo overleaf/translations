@@ -1,4 +1,5 @@
 {
+  "this_action_cannot_be_undone": "Cette action est irréversible.",
   "trashed_projects": "Corbeille des projets",
   "trash": "Corbeille",
   "untrash": "Restaurer",
