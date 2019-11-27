@@ -1,5 +1,6 @@
 {
   "this_action_cannot_be_undone": "Cette action est irréversible.",
+  "dropbox_email_not_verified": "Nous ne parvenons pas à joindre votre compte Dropbox. Le service rapporte que votre adresse courriel n’est pas vérifiée. Veuillez vérifier votre adresse depuis votre compte Dropbox pour résoudre ce problème.",
   "trashed_projects": "Corbeille des projets",
   "trash": "Corbeille",
   "untrash": "Restaurer",
