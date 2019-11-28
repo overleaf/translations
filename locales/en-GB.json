@@ -1,6 +1,7 @@
 {
   "this_action_cannot_be_undone": "This action cannot be undone.",
   "dropbox_email_not_verified": "We have been unable to retrieve updates from your Dropbox account. Dropbox reported that your email address is unverified. Please verify your email address in your Dropbox account to resolve this.",
+  "link_email_to_join": "Link your institutional email to join __portalTitle__ on __appName__",
   "trashed_projects": "Trashed Projects",
   "trash": "Trash",
   "untrash": "Restore",
