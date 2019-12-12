@@ -1,4 +1,7 @@
 {
+  "no_selection_select_file": "Aucun fichier sélectionné. Veuillez sélectionner un fichier depuis l’arborescence.",
+  "no_selection_create_new_file": "Votre projet est vide. Veuillez créer un nouveau fichier.",
+  "files_selected": "fichiers sélectionnés.",
   "home": "Accueil",
   "this_action_cannot_be_undone": "Cette action est irréversible.",
   "dropbox_email_not_verified": "Nous ne parvenons pas à joindre votre compte Dropbox. Le service rapporte que votre adresse courriel n’est pas vérifiée. Veuillez vérifier votre adresse depuis votre compte Dropbox pour résoudre ce problème.",
