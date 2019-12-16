@@ -1,4 +1,5 @@
 {
+  "group_full": "Ce groupe est déjà complet",
   "no_selection_select_file": "Aucun fichier sélectionné. Veuillez sélectionner un fichier depuis l’arborescence.",
   "no_selection_create_new_file": "Votre projet est vide. Veuillez créer un nouveau fichier.",
   "files_selected": "fichiers sélectionnés.",
