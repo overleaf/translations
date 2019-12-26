@@ -1,4 +1,6 @@
 {
+  "duplicate_file": "Dupliquer le fichier",
+  "file_already_exists_in_this_location": "Un élément porte déjà le nom __fileName__ à cet emplacement. Si vous souhaitez le déplacer, renommez ou supprimez-le et essayez à nouveau.",
   "group_full": "Ce groupe est déjà complet",
   "no_selection_select_file": "Aucun fichier sélectionné. Veuillez sélectionner un fichier depuis l’arborescence.",
   "no_selection_create_new_file": "Votre projet est vide. Veuillez créer un nouveau fichier.",
