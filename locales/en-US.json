@@ -1,4 +1,6 @@
 {
+  "confirmation_token_invalid": "Sorry, your confirmation token is invalid or has expired. Please request a new email confirmation link.",
+  "confirmation_link_broken": "Sorry, something is wrong with your confirmation link. Please try copy and pasting the link from the bottom of your confirmation email.",
   "duplicate_file": "Duplicate File",
   "file_already_exists_in_this_location": "An item named __fileName__ already exists in this location. If you wish to move it, rename it or remove the conflicting file and try again.",
   "group_full": "This group is already full",
