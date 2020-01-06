@@ -63,6 +63,7 @@
   "empty_zip_file": "Zip indeholder ikke nogen filer",
   "you_can_now_login_through_overleaf_sl": "Du kan nu logge ind på din ShareLaTeX–konto via Overleaf.",
   "find_out_more_nt": "Find ud af mere.",
+  "more_info": "Mere info",
   "synctex_failed": "Kunne ikke finde den tilhørende kildefil",
   "linked_collabratec_description": "Brug Collabratec til at holde styr på dine __appName__–projekter.",
   "reset_from_sl": "Før din ShareLaTeX–konto kan flyttes til Overleaf er du nødt til at nulstille dit kodeord i ShareLaTeX, og logge ind der",
