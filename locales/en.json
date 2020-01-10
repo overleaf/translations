@@ -1,4 +1,7 @@
 {
+  "github_repository_diverged": "The linked repository has been rebased and force-pushed. Pulling Github changes can result in unexpected project state. You might need to push changes after pulling.",
+  "unlink_github_repository": "Unlink Github Repository",
+  "unlinking": "Unlinking",
   "github_no_master_branch_error": "This repository cannot be imported as it is missing the master branch. Please make sure the project has a master branch",
   "confirmation_token_invalid": "Sorry, your confirmation token is invalid or has expired. Please request a new email confirmation link.",
   "confirmation_link_broken": "Sorry, something is wrong with your confirmation link. Please try copy and pasting the link from the bottom of your confirmation email.",
