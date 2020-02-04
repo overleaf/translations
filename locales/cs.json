@@ -15,6 +15,7 @@
   "link_email_to_join": "Pro přidání k __portalTitle__ na __appName__u přidejte svůj institucionální email k Vašemu účtu.",
   "token_access_success": "Přístup umožněn",
   "token_access_failure": "Přístup odepřen; kontaktujte prosím majitele projektu",
+  "trashed_projects": "Koš",
   "trash": "Vyhodit do koše",
   "untrash": "Obnovit",
   "delete_and_leave": "Odstranit / Opustit",
