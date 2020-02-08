@@ -1,4 +1,5 @@
 {
+  "project_has_too_many_files": "Dette projekt har nået grænsen på 2000 filer",
   "processing_your_request": "Vent venligst, mens vi behandler din forespørgsel.",
   "github_repository_diverged": "Master branch i det forbundne repository er blevet force–pushet. Det kan desynkronisere Overleaf og Github at pulle ændringer efter et force push. Det vil muligvis være nødvendigt at pushe ændringer efter pullet for blive synkroniseret igen.",
   "unlink_github_repository": "Afskær Github Repository",
