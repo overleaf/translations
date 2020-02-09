@@ -1,4 +1,5 @@
 {
+  "project_has_too_many_files": "La limite des 2 000 fichiers a été atteinte pour ce projet",
   "processing_your_request": "Veuillez patienter pendant que nous traitons votre demande.",
   "github_repository_diverged": "La branche master du dépôt lié a été poussée de force. La récupération des modifications faites sur GitHub après un poussage forcé peut causer la désynchronisation d’Overleaf et GitHub. Vous pourriez avoir besoin de pousser les modifications après leur récupération pour restaurer la synchronisation.",
   "unlink_github_repository": "Annuler le lien avec le dépôt GitHub",
