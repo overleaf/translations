@@ -504,7 +504,7 @@
   "history": "History",
   "joining": "Joining",
   "open_project": "Open Project",
-  "files_cannot_include_invalid_characters": "Files cannot include '*' or '/' characters",
+  "files_cannot_include_invalid_characters": "File name is empty or contains invalid characters",
   "invalid_file_name": "Invalid File Name",
   "autocomplete_references": "Reference Autocomplete (inside a <code>\\cite{}</code> block)",
   "autocomplete": "Autocomplete",
