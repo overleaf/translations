@@ -1,4 +1,5 @@
 {
+  "project_approaching_file_limit": "Ce projet est proche de la limite de fichiers",
   "recurly_email_updated": "Votre adresse courriel de facturation a été modifiée avec succès",
   "recurly_email_update_needed": "Votre adresse courriel de facturation est actuellement __recurlyEmail__. Si besoin, vous pouvez modifier votre adresse de facturation pour __userEmail__.",
   "project_has_too_many_files": "La limite des 2 000 fichiers a été atteinte pour ce projet",
