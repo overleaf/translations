@@ -1,4 +1,5 @@
 {
+  "no_history_available": "This project doesn't have any history yet. Please make some changes to the project and try again.",
   "project_approaching_file_limit": "This project is approaching the file limit",
   "recurly_email_updated": "Your billing email address was successfully updated",
   "recurly_email_update_needed": "Your billing email address is currently __recurlyEmail__. If needed you can update your billing address to __userEmail__.",
