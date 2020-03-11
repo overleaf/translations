@@ -1,1 +1,1 @@
-module.exports = require("./app/js/translations")
+module.exports = require('./app/js/translations')
