@@ -1,5 +1,6 @@
 {
-  "no_history_available": "Désolé, il n’y a pas d’historique pour ce projet.",
+  "github_large_files_error": "Échec de fusion : votre dépôt GitHub contient des fichiers dépassant la taille limite de 50 Mo ",
+  "no_history_available": "Ce projet n’a aucun historique pour le moment. Veuillez apporter des changements au projet puis essayer à nouveau.",
   "project_approaching_file_limit": "Ce projet approche la limite de fichiers",
   "recurly_email_updated": "Votre adresse courriel de facturation a été modifiée avec succès",
   "recurly_email_update_needed": "Votre adresse courriel de facturation est actuellement __recurlyEmail__. Si besoin, vous pouvez modifier votre adresse de facturation pour __userEmail__.",
