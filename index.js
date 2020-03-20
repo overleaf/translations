@@ -1,3 +1,1 @@
-require("coffee-script")
-
-module.exports = require("./app/coffee/translations")
+module.exports = require('./app/js/translations')
