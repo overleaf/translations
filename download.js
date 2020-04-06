@@ -11,7 +11,7 @@ const sanitizeOpts = {
     a: ['href', 'class']
   },
   textFilter(text) {
-    text.replace(/\{\{/, '&#123;&#123;').replace(/\}\}/, '&#125;&#125;')
+    return text.replace(/\{\{/, '&#123;&#123;').replace(/\}\}/, '&#125;&#125;')
   }
 }
 
