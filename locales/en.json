@@ -1,6 +1,7 @@
 {
   "company_name": "Company Name",
   "add_company_details": "Add Company Details",
+  "github_timeout_error": "Syncing your Overleaf project with Github has timed out. This may be due to the overall size of your project, or the number of files/changes to sync, being too large.",
   "github_large_files_error": "Merge failed: your Github repository contains files over the 50mb file size limit ",
   "no_history_available": "This project doesn't have any history yet. Please make some changes to the project and try again.",
   "project_approaching_file_limit": "This project is approaching the file limit",
