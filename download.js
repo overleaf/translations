@@ -1,6 +1,6 @@
 const fs = require('fs')
-const publicKey = process.argv[2]
-const privateKey = process.argv[3]
+const publicKey = process.env.ONE_SKY_PUBLIC_KEY
+const privateKey = process.env.ONE_SKY_PRIVATE_KEY
 const _ = require('underscore')
 
 const onesky = require('onesky')(publicKey, privateKey)
