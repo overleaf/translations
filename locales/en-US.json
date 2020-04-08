@@ -1,4 +1,5 @@
 {
+  "email_does_not_belong_to_university": "We don't recognize that domain as being affiliated with your university. Please reach out to support at www.overleaf.com/contact to add the affiliation.",
   "company_name": "Company Name",
   "add_company_details": "Add Company Details",
   "github_timeout_error": "Syncing your Overleaf project with Github has timed out. This may be due to the overall size of your project, or the number of files/changes to sync, being too large.",
