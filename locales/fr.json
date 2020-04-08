@@ -1,4 +1,5 @@
 {
+  "tex_live_version": "Version de TeX Live",
   "email_does_not_belong_to_university": "Nous n’avons pas connaissance de l’affiliation de ce domaine à votre université. Veuillez contacter le support à l’adresse www.overleaf.com/contact pour faire valoir cette affiliation.",
   "company_name": "Nom de l’entreprise",
   "add_company_details": "Ajouter les infos de l’entreprise",
