@@ -1,6 +1,7 @@
 {
+  "requesting_password_reset": "Réinitialisation du mot de passe",
   "tex_live_version": "Version de TeX Live",
-  "email_does_not_belong_to_university": "Nous n’avons pas connaissance de l’affiliation de ce domaine à votre université. Veuillez contacter le support à l’adresse www.overleaf.com/contact pour faire valoir cette affiliation.",
+  "email_does_not_belong_to_university": "Nous n’avons pas connaissance de l’affiliation de ce domaine à votre université. Veuillez nous contacter pour faire valoir cette affiliation.",
   "company_name": "Nom de l’entreprise",
   "add_company_details": "Ajouter les infos de l’entreprise",
   "github_timeout_error": "La synchronisation de votre projet Overleaf avec GitHub a pris trop de temps. Ceci peut être dû à un volume de données global trop grand ou à un nombre de fichiers/modifications trop important dans votre projet.",
