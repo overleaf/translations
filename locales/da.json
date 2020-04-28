@@ -1,4 +1,10 @@
 {
+  "dropbox_checking_sync_status": "Checker status for Dopboxintegration",
+  "dropbox_sync_in": "Opdaterer Overleaf",
+  "dropbox_sync_out": "Opdaterer Dropbox",
+  "dropbox_sync_both": "Opdaterer Overleaf og Dropbox",
+  "dropbox_synced": "Overleaf og Dropbox er fuldt opdaterede",
+  "dropbox_sync_status_error": "Der er sket en fejl i Dropboxintegrationen",
   "requesting_password_reset": "Beder om nulstilling af kodeord",
   "tex_live_version": "TeX Live–version",
   "project_has_too_many_files": "Dette projekt har nået grænsen på 2000 filer",

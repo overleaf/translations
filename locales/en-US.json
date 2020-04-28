@@ -1,4 +1,10 @@
 {
+  "dropbox_checking_sync_status": "Checking Dropbox Integration status",
+  "dropbox_sync_in": "Updating Overleaf",
+  "dropbox_sync_out": "Updating Dropbox",
+  "dropbox_sync_both": "Updating Overleaf and Dropbox",
+  "dropbox_synced": "Overleaf and Dropbox are up-to-date",
+  "dropbox_sync_status_error": "An error has occurred with the Dropbox Integration",
   "requesting_password_reset": "Requesting password reset",
   "tex_live_version": "TeX Live version",
   "email_does_not_belong_to_university": "We don't recognize that domain as being affiliated with your university. Please contact us to add the affiliation.",
