@@ -1,4 +1,6 @@
 {
+  "template_gallery": "Template Gallery",
+  "template_not_found_description": "This way of creating projects from templates has been removed. Please visit our template gallery to find more templates.",
   "dropbox_checking_sync_status": "Checking Dropbox Integration status",
   "dropbox_sync_in": "Updating Overleaf",
   "dropbox_sync_out": "Updating Dropbox",

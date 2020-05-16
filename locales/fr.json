@@ -1,4 +1,6 @@
 {
+  "template_gallery": "Galerie de modèles",
+  "template_not_found_description": "Cette méthode de création de projets à partir de modèles n’est plus disponible. Merci de vous rendre sur notre galerie des modèles pour trouver d’autres modèles.",
   "dropbox_checking_sync_status": "Vérification de l’état de l’intégration Dropbox",
   "dropbox_sync_in": "Mise à jour sur Overleaf",
   "dropbox_sync_out": "Mise à jour vers Dropbox",
