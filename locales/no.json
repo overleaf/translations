@@ -346,7 +346,7 @@
   "over": "over",
   "view_templates": "Se maler",
   "nothing_to_install_ready_to_go": "Det er ingenting komplisert eller vanskelig som du trenger å installere, og du kan __start_now__, selv om du aldri har brukt det før. __appName__ kommer med et komplett, 'ready to go' LaTeX-miljø som kjører på våre servere.",
-  "start_using_latex_now": "begynne å bruke ShareLaTex nå",
+  "start_using_latex_now": "begynne å bruke LaTeX nå",
   "get_same_latex_setup": "Med __appName__ får du det samme LaTeX-oppsettet hvor enn du befinner deg. Ved å arbeide med kollegaer og medstudenter med __appName__, er du sikker på at du ikke kommer til å støte på problemer som versjonsinkonsistens eller pakkekonflikter.",
   "support_lots_of_features": "Vi støtter nesten all LaTeX-funksjonalitet, inkludert innsetting av bilder, bibliografi, ligninger, og mye mer! Les om alle de spennende tingene du kan gjøre med __appName__ i vår __help_guides_link__",
   "latex_guides": "LaTex-guider",

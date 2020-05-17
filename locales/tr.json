@@ -560,7 +560,7 @@
   "unlink": "Bağlantıyı kopar",
   "unlink_github_warning": "GitHub ile senkronize etmiş olduğunuz tüm projeler arasındaki bağlantı koparılacaktır ve senkronizasyon iptal edilecektir. GitHub ile olan bu bağlantıyı koparmak istediğinizden emin misiniz?",
   "github_account_successfully_linked": "GitHub hesabınız ile bağlantı, başarıyla oluşturuldu.",
-  "github_successfully_linked_description": "Teşekkürler, GitHub hesabınız ile ShareLaTeX arasındaki bağlantı, başarıyla oluşturuldu. Artık __appName__ projelerinizi GitHub üzerine yükleyebilir ya da GitHub depolarınızı __appName__'e yükleyebilirsiniz.",
+  "github_successfully_linked_description": "Teşekkürler, GitHub hesabınız ile __appName__ arasındaki bağlantı, başarıyla oluşturuldu. Artık __appName__ projelerinizi GitHub üzerine yükleyebilir ya da GitHub depolarınızı __appName__'e yükleyebilirsiniz.",
   "import_from_github": "GitHub'dan yükle",
   "github_sync_error": "Üzgünüz, GitHub servisine bağlanırken bir sorunla karşılaştık. Lütfen, birkaç dakika sonra tekrar deneyin.",
   "loading_github_repositories": "GitHub depolarınız yükleniyor",

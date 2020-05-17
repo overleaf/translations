@@ -753,7 +753,7 @@
   "post_on_facebook": "Del på Facebook",
   "share_us_on_googleplus": "Del os på Google+",
   "email_us_to_your_friends": "Send en email til dine venner omkring os",
-  "link_to_us": "Link til ShareLaTeX fra din hjemmeside",
+  "link_to_us": "Link til __appName__ fra din hjemmeside",
   "direct_link": "Direkte link",
   "sl_gives_you_free_stuff_see_progress_below": "Når nogen begynder at bruge __appName__ på grund af din anbefaling vil vi give dig nogle <strong>gratis ting</strong> som tak! Se dit fremskridt nedenunder.",
   "spread_the_word_and_fill_bar": "Spred budskabet og fyld baren",
