@@ -61,7 +61,7 @@
   "reference_search": "Avancerad referenssökning",
   "reference_search_info": "Du kan alltid söka efter citationsnycklar, och avancerad referenssök låter dig söka efter författare, titel, år eller tidsskrift.",
   "reference_sync": "Referenshanterare synk",
-  "reference_sync_info": "Hantera ditt referensebibliotek i Mendeley och länka det direkt till en .bib fil i ShareLaTeX, så att du enkelt kan citera något från ditt Mendeley bibliotek.",
+  "reference_sync_info": "Hantera ditt referensebibliotek i Mendeley och länka det direkt till en .bib fil i __appName__, så att du enkelt kan citera något från ditt Mendeley bibliotek.",
   "faq_how_free_trial_works_answer": "Du får full tillgång till din valda ShareLaTeX plan under din __len__-dagars gratis prövoperiod. Det finns inget skyldighet att fortsätta efter din prövoperiod. Ditt kort kommer att belastas vid slutet av din __len__ dagars prövoperiod om du inte avbryter innan dess. Du avbryter ditt abonnemang under abonnemangsinställningar.",
   "faq_change_plans_answer": "Ja, du kan när som helst byta din abonnemangsplan under abonnemangsinställningar. Detta inkluderar möjligheten att byta till en annan plan, växla mellan månatlig eller årsbetalning, eller säga upp och nedgradera ditt konto.",
   "faq_do_collab_need_premium_answer": "Premiumfunktioner, som t.ex. ändringsspårning, kommer att vara tillgängliga på projekt du skapat, även om eventuella samarbetspartners har gratiskonton.",

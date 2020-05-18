@@ -860,7 +860,7 @@
   "loading_recent_github_commits": "최근 커밋 로딩 중",
   "no_new_commits_in_github": "지난번에 합친 이후로 GitHub에 새로운 명령이 없습니다.",
   "dropbox_sync_description": "Dropbox 동기화로 __appName__프로젝트를 저장하세요. __appName__ 변경사항들은 자동적으로 Dropbox에 전송됩니다.",
-  "github_sync_description": "GitHub 동기화로, __appName__ 프로젝트를 GitHub 저장소로 연결하실 수 있습니다. ShareLaTeX의 새로운 커밋을 만들고, 오프라인이나 GitHub에서 만들어진 커밋과 합치세요.",
+  "github_sync_description": "GitHub 동기화로, __appName__ 프로젝트를 GitHub 저장소로 연결하실 수 있습니다. __appName__의 새로운 커밋을 만들고, 오프라인이나 GitHub에서 만들어진 커밋과 합치세요.",
   "github_import_description": "GitHub 동기화로, GitHub 저장사항들을 __appName__로 불러오실 수 있습니다. __appName__의 새로운 커밋을 만들고, 오프라인이나 GitHub에서 만들어진 커밋과 합치세요.",
   "link_to_github_description": "프로젝트를 동기화할 수 있도록 GitHub 계정에 접속할 수 있는 __appName__ 권한이 필요합니다.",
   "unlink": "연결해제",
