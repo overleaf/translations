@@ -1,4 +1,5 @@
 {
+  "sso_not_linked": "Vous n’avez pas lié votre compte à __provider__. Veuillez vous connecter à votre compte via une autre méthode puis lier votre compte __provider__ dans les paramètres.",
   "template_gallery": "Galerie de modèles",
   "template_not_found_description": "Cette méthode de création de projets à partir de modèles n’est plus disponible. Merci de vous rendre sur notre galerie des modèles pour trouver d’autres modèles.",
   "dropbox_checking_sync_status": "Vérification de l’état de l’intégration Dropbox",
