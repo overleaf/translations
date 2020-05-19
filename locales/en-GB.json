@@ -1,4 +1,5 @@
 {
+  "sso_not_linked": "You have not linked your account to __provider__. Please log in to your account another way and link your __provider__ account via your account settings.",
   "template_gallery": "Template Gallery",
   "template_not_found_description": "This way of creating projects from templates has been removed. Please visit our template gallery to find more templates.",
   "dropbox_checking_sync_status": "Checking Dropbox Integration status",
