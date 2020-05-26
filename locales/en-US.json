@@ -1,4 +1,6 @@
 {
+  "single_use_coupon_applied": "A discount was applied to your purchase today, but your subscription will renew at its normal price.",
+  "for_your_first": "for your first",
   "sso_not_linked": "You have not linked your account to __provider__. Please log in to your account another way and link your __provider__ account via your account settings.",
   "template_gallery": "Template Gallery",
   "template_not_found_description": "This way of creating projects from templates has been removed. Please visit our template gallery to find more templates.",
@@ -929,7 +931,7 @@
   "choose_a_plan_below": "Choose a plan below to subscribe to.",
   "currently_subscribed_to_plan": "You are currently subscribed to the __planName__ plan.",
   "change_plan": "Change plan",
-  "next_payment_of_x_collectected_on_y": "The next payment of __paymentAmmount__ will be collected on __collectionDate__",
+  "next_payment_of_x_collectected_on_y": "The next payment of __paymentAmmount__ will be collected on __collectionDate__.",
   "update_your_billing_details": "Update Your Billing Details",
   "subscription_canceled_and_terminate_on_x": " Your subscription has been canceled and will terminate on __terminateDate__. No further payments will be taken.",
   "your_subscription_has_expired": "Your subscription has expired.",
