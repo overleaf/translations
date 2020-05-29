@@ -1,4 +1,11 @@
 {
+  "x_price_per_month": "__price__ per måned",
+  "x_price_per_year": "__price__ per år",
+  "x_price_for_first_month": "__price__ for din første måned",
+  "x_price_for_first_year": "__price__ for dit første år",
+  "normally_x_price_per_month": "Normalt __price__ per måned",
+  "then_x_price_per_month": "Derefter __price__ per måned",
+  "then_x_price_per_year": "Derefter __price__ per år",
   "for_your_first": "for din/dit første",
   "sso_not_linked": "Du har ikke forbundet din konto til __provider__. Du bliver nødt til først at logge ind med en anden metode, og forbinde din __provider__–konto i dine kontoindstillinger.",
   "template_gallery": "Skabelonsgalleri",
