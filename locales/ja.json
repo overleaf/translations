@@ -576,7 +576,7 @@
   "contact": "お問い合わせ",
   "change_to_this_plan": "このプランに変更",
   "processing": "実行中",
-  "sure_you_want_to_change_plan": "本当にプランを _planName__ に変えますか？",
+  "sure_you_want_to_change_plan": "本当にプランを __planName__ に変えますか？",
   "move_to_annual_billing": "年間支払いに移動",
   "annual_billing_enabled": "年間支払い許可",
   "move_to_annual_billing_now": "年間支払いに今すぐ移動",

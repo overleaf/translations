@@ -192,7 +192,7 @@
   "upgrade_cc_btn": "지금 업그레이드하고 7일 후 지불",
   "upgrade_paypal_btn": "계속",
   "notification_project_invite": "<b>__userName__</b>님이 <b>__projectName__</b>에 참여하고자 합니다. <a class=\"btn btn-sm btn-info pull-right\" href=\"/project/__projectId__/invite/token/__token__\">Join Project</a>",
-  "file_restored": "(_filename_) 파일이 삭제되었습니다.",
+  "file_restored": "(__filename__) 파일이 삭제되었습니다.",
   "file_restored_back_to_editor": "에디터로 돌아가서 다시 할 수 있습니다.",
   "file_restored_back_to_editor_btn": "편집기로 돌아가기",
   "view_project": "프로젝트 보기",
