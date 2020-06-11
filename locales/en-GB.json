@@ -1,4 +1,5 @@
 {
+  "clsi_unavailable": "Sorry, the compile server for your project was temporarily unavailable. Please try again in a few moments.",
   "x_price_per_month": "__price__ per month",
   "x_price_per_year": "__price__ per year",
   "x_price_for_first_month": "__price__ for your first month",
