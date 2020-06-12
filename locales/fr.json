@@ -1,4 +1,5 @@
 {
+  "clsi_unavailable": "Désolé, le serveur de compilation attribué à votre projet est temporairement indisponible. Veuillez réessayer dans quelques instants.",
   "x_price_per_month": "__price__ par mois",
   "x_price_per_year": "__price__ par an",
   "x_price_for_first_month": "__price__ pour votre premier mois",
