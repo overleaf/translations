@@ -135,7 +135,7 @@
   "user_deletion_error": "Sorry, something went wrong deleting your account. Please try again in a minute.",
   "card_must_be_authenticated_by_3dsecure": "Your card must be authenticated with 3D Secure before continuing",
   "view_your_invoices": "View Your Invoices",
-  "payment_provider_unreachable_error": "Sorry, there was an error talking to our payment provider. Please try again in a few moments.",
+  "payment_provider_unreachable_error": "Sorry, there was an error talking to our payment provider. Please try again in a few moments.\nIf you are using any ad or script blocking extensions in your browser, you may need to temporarily disable them.",
   "dropbox_unlinked_because_access_denied": "Your Dropbox account has been unlinked because the Dropbox service rejected your stored credentials. Please relink your Dropbox account to continue using it with Overleaf.",
   "dropbox_unlinked_because_full": "Your Dropbox account has been unlinked because it is full, and we can no longer send updates to it. Please free up some space and relink your Dropbox account to continue using it with Overleaf.",
   "upgrade_for_longer_compiles": "Upgrade to increase your timeout limit.",
