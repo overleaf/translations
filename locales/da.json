@@ -1,4 +1,5 @@
 {
+  "invalid_filename": "Ugyldigt filnavn: Check for specialtegn eller ekstra mellemrum",
   "clsi_unavailable": "Beklager, kompileringsserveren til dit projekt var midlertidigt utilgængelig. Prøv igen om lidt.",
   "x_price_per_month": "__price__ per måned",
   "x_price_per_year": "__price__ per år",

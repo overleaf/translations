@@ -1,4 +1,5 @@
 {
+  "invalid_filename": "Nom de fichier invalide : Veuillez vous assurer qu’il ne contienne pas de caractères spéciaux ou de blancs au début ou à la fin",
   "clsi_unavailable": "Désolé, le serveur de compilation attribué à votre projet est temporairement indisponible. Veuillez réessayer dans quelques instants.",
   "x_price_per_month": "__price__ par mois",
   "x_price_per_year": "__price__ par an",
