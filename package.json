@@ -14,8 +14,6 @@
   },
   "dependencies": {
     "i18next": "^1.10.6",
-    "onesky": "~0.1.5",
-    "sanitize-html": "^1.14.1",
     "underscore": "^1.6.0"
   },
   "devDependencies": {
@@ -32,8 +30,10 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
     "mocha": "^7.1.0",
+    "onesky": "^0.1.6",
     "prettier-eslint-cli": "^5.0.0",
     "sandboxed-module": "0.2.0",
+    "sanitize-html": "^1.27.1",
     "sinon": "~9.0.1"
   }
 }
