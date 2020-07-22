@@ -5,7 +5,7 @@
   "you_can_opt_in_and_out_of_the_program_at_any_time_on_this_page": "You can opt in and out of the program at any time on this page",
   "give_feedback": "Give feedback",
   "beta_feature_badge": "Beta feature badge",
-  "invalid_filename": "Invalid Filename: check for special characters or trailing/leading whitespace",
+  "invalid_filename": "Upload failed: check that the file name doesn't contain special characters or trailing/leading whitespace",
   "clsi_unavailable": "Sorry, the compile server for your project was temporarily unavailable. Please try again in a few moments.",
   "x_price_per_month": "__price__ per month",
   "x_price_per_year": "__price__ per year",
