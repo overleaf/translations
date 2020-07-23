@@ -2,7 +2,6 @@
 // Sanity-check the conversion and remove this comment.
 /*
  * decaffeinate suggestions:
- * DS103: Rewrite code to no longer use __guard__
  * DS207: Consider shorter variations of null checks
  * Full docs: https://github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
  */
@@ -37,13 +36,16 @@ module.exports = {
       }
       const parts = host.split(/[.-]/)
       const subdomain = parts[0]
-      const lang = __guard__(
-        __guard__(
-          options != null ? options.subdomainLang : undefined,
-          x1 => x1[subdomain]
-        ),
-        x => x.lngCode
-      )
+
+      let lang
+      if (
+        options &&
+        options.subdomainLang &&
+        options.subdomainLang[subdomain]
+      ) {
+        lang = options.subdomainLang[subdomain].lngCode
+      }
+
       if (req.originalUrl.indexOf('setLng') === -1 && lang != null) {
         req.i18n.setLng(lang)
       }
@@ -59,10 +61,4 @@ module.exports = {
       i18n
     }
   }
-}
-
-function __guard__(value, transform) {
-  return typeof value !== 'undefined' && value !== null
-    ? transform(value)
-    : undefined
 }
