@@ -37,6 +37,22 @@ describe('translations', function() {
       })
     })
 
+    it('ignores domain if setLng query param is set', function(done) {
+      this.req.originalUrl = 'fr.sharelatex.com/login?setLng=en'
+      this.req.url = 'fr.sharelatex.com/login'
+      this.req.headers.host = 'fr.sharelatex.com'
+      this.translations.expressMiddlewear(this.req, this.req, () => {
+        this.translations.setLangBasedOnDomainMiddlewear(
+          this.req,
+          this.res,
+          () => {
+            expect(this.req.lng).to.equal('en')
+            done()
+          }
+        )
+      })
+    })
+
     describe('showUserOtherLng', function() {
       it('should set it to true if the language based on headers is different to lng', function(done) {
         this.req.headers['accept-language'] = 'da, en-gb;q=0.8, en;q=0.7'
