@@ -1,4 +1,3 @@
-require('chai').should()
 const { expect } = require('chai')
 
 const translations = require('../../../app/js/translations')
@@ -31,7 +30,7 @@ describe('translations', function() {
           this.req,
           this.res,
           () => {
-            this.req.lng.should.equal('fr')
+            expect(this.req.lng).to.equal('fr')
             done()
           }
         )
@@ -48,7 +47,7 @@ describe('translations', function() {
             this.req,
             this.res,
             () => {
-              this.req.showUserOtherLng.should.equal('da')
+              expect(this.req.showUserOtherLng).to.equal('da')
               done()
             }
           )
