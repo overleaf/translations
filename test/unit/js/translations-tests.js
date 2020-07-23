@@ -21,12 +21,12 @@ describe('translations', function() {
     this.res = {}
   })
 
-  describe('setLangBasedOnDomainMiddlewear', function() {
+  describe('setLangBasedOnDomainMiddleware', function() {
     it('should set the lang to french if the domain is fr', function(done) {
       this.req.url = 'fr.sharelatex.com/login'
       this.req.headers.host = 'fr.sharelatex.com'
-      this.translations.expressMiddlewear(this.req, this.req, () => {
-        this.translations.setLangBasedOnDomainMiddlewear(
+      this.translations.expressMiddleware(this.req, this.req, () => {
+        this.translations.setLangBasedOnDomainMiddleware(
           this.req,
           this.res,
           () => {
@@ -41,8 +41,8 @@ describe('translations', function() {
       this.req.originalUrl = 'fr.sharelatex.com/login?setLng=en'
       this.req.url = 'fr.sharelatex.com/login'
       this.req.headers.host = 'fr.sharelatex.com'
-      this.translations.expressMiddlewear(this.req, this.req, () => {
-        this.translations.setLangBasedOnDomainMiddlewear(
+      this.translations.expressMiddleware(this.req, this.req, () => {
+        this.translations.setLangBasedOnDomainMiddleware(
           this.req,
           this.res,
           () => {
@@ -58,8 +58,8 @@ describe('translations', function() {
         this.req.headers['accept-language'] = 'da, en-gb;q=0.8, en;q=0.7'
         this.req.url = 'fr.sharelatex.com/login'
         this.req.headers.host = 'fr.sharelatex.com'
-        this.translations.expressMiddlewear(this.req, this.req, () => {
-          this.translations.setLangBasedOnDomainMiddlewear(
+        this.translations.expressMiddleware(this.req, this.req, () => {
+          this.translations.setLangBasedOnDomainMiddleware(
             this.req,
             this.res,
             () => {
@@ -74,8 +74,8 @@ describe('translations', function() {
         this.req.headers['accept-language'] = 'da, en-gb;q=0.8, en;q=0.7'
         this.req.url = 'da.sharelatex.com/login'
         this.req.headers.host = 'da.sharelatex.com'
-        this.translations.expressMiddlewear(this.req, this.req, () => {
-          this.translations.setLangBasedOnDomainMiddlewear(
+        this.translations.expressMiddleware(this.req, this.req, () => {
+          this.translations.setLangBasedOnDomainMiddleware(
             this.req,
             this.res,
             () => {
