@@ -1,18 +1,10 @@
-// TODO: This file was created by bulk-decaffeinate.
-// Sanity-check the conversion and remove this comment.
-/*
- * decaffeinate suggestions:
- * DS207: Consider shorter variations of null checks
- * Full docs: https://github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
- */
 const i18n = require('i18next')
 const _ = require('underscore')
 const path = require('path')
 
 module.exports = {
-  setup(options) {
-    const subdomainLang =
-      (options != null ? options.subdomainLang : undefined) || {}
+  setup(options = {}) {
+    const subdomainLang = options.subdomainLang || {}
     const availableLngs = _.pluck(_.values(subdomainLang), 'lngCode')
     i18n.init({
       resGetPath: path.resolve(__dirname, '../../', 'locales/__lng__.json'),
@@ -23,7 +15,7 @@ module.exports = {
         'locales/missing-__lng__.json'
       ),
       sendMissingTo: 'fallback',
-      fallbackLng: (options != null ? options.defaultLng : undefined) || 'en',
+      fallbackLng: options.defaultLng || 'en',
       detectLngFromHeaders: true,
       useCookie: false,
       preload: availableLngs,
@@ -37,14 +29,9 @@ module.exports = {
       const parts = host.split(/[.-]/)
       const subdomain = parts[0]
 
-      let lang
-      if (
-        options &&
-        options.subdomainLang &&
-        options.subdomainLang[subdomain]
-      ) {
-        lang = options.subdomainLang[subdomain].lngCode
-      }
+      const lang = subdomainLang[subdomainLang]
+        ? subdomainLang[subdomain].lngCode
+        : null
 
       if (req.originalUrl.indexOf('setLng') === -1 && lang != null) {
         req.i18n.setLng(lang)
