@@ -23,7 +23,7 @@ module.exports = {
       supportedLngs: availableLngs
     })
 
-    const setLangBasedOnDomainMiddlewear = function(req, res, next) {
+    function setLangBasedOnDomainMiddleware(req, res, next) {
       // Determine language from subdomain
       const { host } = req.headers
       if (host == null) {
@@ -50,10 +50,15 @@ module.exports = {
       next()
     }
 
+    const expressMiddleware = i18n.handle
     return {
-      expressMiddlewear: i18n.handle,
-      setLangBasedOnDomainMiddlewear,
-      i18n
+      expressMiddleware,
+      setLangBasedOnDomainMiddleware,
+      i18n,
+
+      // Backwards compatibility with long-standing typo
+      expressMiddlewear: expressMiddleware,
+      setLangBasedOnDomainMiddlewear: setLangBasedOnDomainMiddleware
     }
   }
 }
