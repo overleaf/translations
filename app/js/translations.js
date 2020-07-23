@@ -6,6 +6,7 @@ module.exports = {
   setup(options = {}) {
     const subdomainLang = options.subdomainLang || {}
     const availableLngs = _.pluck(_.values(subdomainLang), 'lngCode')
+
     i18n.init({
       resGetPath: path.resolve(__dirname, '../../', 'locales/__lng__.json'),
       saveMissing: true,
@@ -21,24 +22,27 @@ module.exports = {
       preload: availableLngs,
       supportedLngs: availableLngs
     })
+
     const setLangBasedOnDomainMiddlewear = function(req, res, next) {
+      // Determine language from subdomain
       const { host } = req.headers
       if (host == null) {
         return next()
       }
-      const parts = host.split(/[.-]/)
-      const subdomain = parts[0]
-
-      const lang = subdomainLang[subdomainLang]
+      const [subdomain] = host.split(/[.-]/)
+      const lang = subdomainLang[subdomain]
         ? subdomainLang[subdomain].lngCode
         : null
 
-      if (req.originalUrl.indexOf('setLng') === -1 && lang != null) {
+      // Unless setLng query param is set, use subdomain lang
+      if (!req.originalUrl.includes('setLng') && lang != null) {
         req.i18n.setLng(lang)
       }
+
       if (req.language !== req.lng) {
         req.showUserOtherLng = req.language
       }
+
       next()
     }
 
