@@ -1,5 +1,6 @@
-const fs = require('fs')
+const { promises: fs } = require('fs')
 const oneSky = require('@brainly/onesky-utils')
+
 const sanitizeHtml = require('sanitize-html')
 const sanitizeOpts = {
   allowedTags: ['b', 'strong', 'a', 'code'],
@@ -25,21 +26,17 @@ async function download() {
       for (const [key, value] of Object.entries(lang.translation)) {
         lang.translation[key] = sanitizeHtml(value, sanitizeOpts)
       }
-      fs.writeFileSync(
+
+      await fs.writeFile(
         `./locales/${code}.json`,
         JSON.stringify(lang.translation, null, 2)
       )
     }
 
-    fs.createReadStream('./locales/en-GB.json').pipe(
-      fs.createWriteStream('./locales/en-US.json')
-    )
-    fs.createReadStream('./locales/en-GB.json').pipe(
-      fs.createWriteStream('./locales/en.json')
-    )
-    fs.createReadStream('./locales/zh-CN.json').pipe(
-      fs.createWriteStream('./locales/cn.json')
-    )
+    // Copy files, so we have appropriate dialects
+    await fs.copyFile('./locales/en-GB.json', './locales/en-US.json')
+    await fs.copyFile('./locales/en-GB.json', './locales/en.json')
+    await fs.copyFile('./locales/zh-CN.json', './locales/cn.json')
   } catch (error) {
     console.error(error)
   }
