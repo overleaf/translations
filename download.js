@@ -23,7 +23,11 @@ async function download() {
     const json = JSON.parse(content)
 
     for (const [code, lang] of Object.entries(json)) {
-      for (const [key, value] of Object.entries(lang.translation)) {
+      for (let [key, value] of Object.entries(lang.translation)) {
+        // Handle multi-line strings as arrays by joining on newline
+        if (Array.isArray(value)) {
+          value = value.join('\n')
+        }
         lang.translation[key] = sanitizeHtml(value, sanitizeOpts)
       }
 
