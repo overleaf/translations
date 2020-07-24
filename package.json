@@ -13,8 +13,7 @@
     "test": "mocha $@ test/unit/js"
   },
   "dependencies": {
-    "i18next": "^1.10.6",
-    "underscore": "^1.6.0"
+    "i18next": "^1.10.6"
   },
   "devDependencies": {
     "chai": "~1.8.1",
