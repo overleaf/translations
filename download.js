@@ -1,16 +1,6 @@
 const { promises: fs } = require('fs')
 const oneSky = require('@brainly/onesky-utils')
-
 const sanitizeHtml = require('sanitize-html')
-const sanitizeOpts = {
-  allowedTags: ['b', 'strong', 'a', 'code'],
-  allowedAttributes: {
-    a: ['href', 'class']
-  },
-  textFilter(text) {
-    return text.replace(/\{\{/, '&#123;&#123;').replace(/\}\}/, '&#125;&#125;')
-  }
-}
 
 async function download() {
   try {
@@ -28,7 +18,7 @@ async function download() {
         if (Array.isArray(value)) {
           value = value.join('\n')
         }
-        lang.translation[key] = sanitizeHtml(value, sanitizeOpts)
+        lang.translation[key] = sanitize(value)
       }
 
       await fs.writeFile(
@@ -47,3 +37,17 @@ async function download() {
 }
 
 download()
+
+function sanitize(input) {
+  return sanitizeHtml(input, {
+    allowedTags: ['b', 'strong', 'a', 'code'],
+    allowedAttributes: {
+      a: ['href', 'class']
+    },
+    textFilter(text) {
+      return text
+        .replace(/\{\{/, '&#123;&#123;')
+        .replace(/\}\}/, '&#125;&#125;')
+    }
+  })
+}
