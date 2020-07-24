@@ -2,7 +2,7 @@ const { promises: fs } = require('fs')
 const oneSky = require('@brainly/onesky-utils')
 const sanitizeHtml = require('sanitize-html')
 
-async function download() {
+async function run() {
   try {
     const content = await oneSky.getMultilingualFile({
       apiKey: process.env.ONE_SKY_PUBLIC_KEY,
@@ -35,8 +35,7 @@ async function download() {
     console.error(error)
   }
 }
-
-download()
+run()
 
 function sanitize(input) {
   return sanitizeHtml(input, {
