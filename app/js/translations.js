@@ -1,11 +1,10 @@
 const i18n = require('i18next')
-const _ = require('underscore')
 const path = require('path')
 
 module.exports = {
   setup(options = {}) {
     const subdomainLang = options.subdomainLang || {}
-    const availableLngs = _.pluck(_.values(subdomainLang), 'lngCode')
+    const availableLngs = Object.values(subdomainLang).map(c => c.lngCode)
 
     i18n.init({
       resGetPath: path.resolve(__dirname, '../../', 'locales/__lng__.json'),
