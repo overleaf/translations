@@ -13,7 +13,7 @@
     "test": "mocha $@ test/unit/js"
   },
   "dependencies": {
-    "i18next": "^1.10.6"
+    "i18next": "^19.6.3"
   },
   "devDependencies": {
     "@brainly/onesky-utils": "^1.4.0",
