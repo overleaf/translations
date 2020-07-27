@@ -41,7 +41,7 @@ module.exports = {
       // If the set language (req.lng) is different from the language
       // automatically determined by the i18next middleware (req.language), then
       // set flag which will show a banner offering to switch to the appropriate
-      // library
+      // language
       if (req.language !== req.lng) {
         req.showUserOtherLng = req.language
       }
