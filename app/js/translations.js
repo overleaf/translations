@@ -10,14 +10,18 @@ module.exports = {
 
     i18n.use(fsBackend).init({
       backend: {
-        loadPath: path.join(__dirname, '../../locales/{{lng}}.json')
+        loadPath: path.join(__dirname, '../../locales/__lng__.json')
       },
 
       // Load translation files synchronously: https://www.i18next.com/overview/configuration-options#initimmediate
       initImmediate: false,
 
-      // We use the i18next v1 JSON format: https://www.i18next.com/misc/json-format#i-18-next-json-v1
-      compatibilityJSON: 'v1',
+      // We use the legacy v1 JSON format, so configure interpolator to use
+      // underscores instead of curly braces
+      interpolation: {
+        prefix: '__',
+        suffix: '__'
+      },
 
       preload: availableLngs,
       supportedLngs: availableLngs,
