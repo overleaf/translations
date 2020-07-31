@@ -35,7 +35,7 @@ module.exports = {
 
       // Unless setLng query param is set, use subdomain lang
       if (!req.originalUrl.includes('setLng') && lang != null) {
-        req.i18n.setLng(lang)
+        req.i18n.changeLanguage(lang)
       }
 
       // If the set language (req.lng) is different from the language
