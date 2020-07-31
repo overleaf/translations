@@ -57,7 +57,15 @@ module.exports = {
       next()
     }
 
-    const expressMiddleware = middleware.handle(i18n)
+    const expressMiddleware = function(req, res, next) {
+      middleware.handle(i18n)(req, res, (...args) => {
+        // Decorate req.i18n with translate function alias for backwards
+        // compatibility
+        req.i18n.translate = req.i18n.t
+        next(...args)
+      })
+    }
+
     return {
       expressMiddleware,
       setLangBasedOnDomainMiddleware,
