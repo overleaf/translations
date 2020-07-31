@@ -13,8 +13,10 @@ module.exports = {
         loadPath: path.join(__dirname, '../../locales/{{lng}}.json')
       },
 
+      // Load translation files synchronously: https://www.i18next.com/overview/configuration-options#initimmediate
       initImmediate: false,
 
+      // We use the i18next v1 JSON format: https://www.i18next.com/misc/json-format#i-18-next-json-v1
       compatibilityJSON: 'v1',
 
       preload: availableLngs,
