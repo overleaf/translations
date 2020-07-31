@@ -1,5 +1,6 @@
 const i18n = require('i18next')
 const fsBackend = require('i18next-fs-backend')
+const middleware = require('i18next-http-middleware')
 const path = require('path')
 
 module.exports = {
@@ -48,7 +49,7 @@ module.exports = {
       next()
     }
 
-    const expressMiddleware = i18n.handle
+    const expressMiddleware = middleware.handle(i18n)
     return {
       expressMiddleware,
       setLangBasedOnDomainMiddleware,

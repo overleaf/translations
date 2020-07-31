@@ -18,7 +18,10 @@ describe('translations', function() {
         'accept-language': ''
       }
     }
-    this.res = {}
+    this.res = {
+      getHeader: () => {},
+      setHeader: () => {}
+    }
   })
 
   describe('setLangBasedOnDomainMiddleware', function() {
