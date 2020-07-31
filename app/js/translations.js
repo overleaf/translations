@@ -1,4 +1,5 @@
 const i18n = require('i18next')
+const fsBackend = require('i18next-fs-backend')
 const path = require('path')
 
 module.exports = {
@@ -6,20 +7,18 @@ module.exports = {
     const subdomainLang = options.subdomainLang || {}
     const availableLngs = Object.values(subdomainLang).map(c => c.lngCode)
 
-    i18n.init({
-      resGetPath: path.resolve(__dirname, '../../', 'locales/__lng__.json'),
-      saveMissing: true,
-      resSetPath: path.resolve(
-        __dirname,
-        '../../',
-        'locales/missing-__lng__.json'
-      ),
-      sendMissingTo: 'fallback',
-      fallbackLng: options.defaultLng || 'en',
-      detectLngFromHeaders: true,
-      useCookie: false,
+    i18n.use(fsBackend).init({
+      backend: {
+        loadPath: path.join(__dirname, '../../locales/{{lng}}.json')
+      },
+
+      initImmediate: false,
+
+      compatibilityJSON: 'v1',
+
       preload: availableLngs,
-      supportedLngs: availableLngs
+      supportedLngs: availableLngs,
+      fallbackLng: options.defaultLng || 'en'
     })
 
     function setLangBasedOnDomainMiddleware(req, res, next) {
