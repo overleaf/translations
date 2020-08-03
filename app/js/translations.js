@@ -25,7 +25,10 @@ module.exports = {
         // Disable escaping of interpolated values for backwards compatibility.
         // We escape the value after it's translated in web, so there's no
         // security risk
-        escapeValue: false
+        escapeValue: false,
+        // Disable nesting in interpolated values, preventing user input
+        // injection via another nested value
+        skipOnVariables: true
       },
 
       preload: availableLngs,
