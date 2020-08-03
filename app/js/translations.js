@@ -20,7 +20,8 @@ module.exports = {
       // underscores instead of curly braces
       interpolation: {
         prefix: '__',
-        suffix: '__'
+        suffix: '__',
+        unescapeSuffix: 'HTML'
       },
 
       preload: availableLngs,
