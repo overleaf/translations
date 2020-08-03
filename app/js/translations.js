@@ -21,7 +21,11 @@ module.exports = {
       interpolation: {
         prefix: '__',
         suffix: '__',
-        unescapeSuffix: 'HTML'
+        unescapeSuffix: 'HTML',
+        // Disable escaping of interpolated values for backwards compatibility.
+        // We escape the value after it's translated in web, so there's no
+        // security risk
+        escapeValue: false
       },
 
       preload: availableLngs,
