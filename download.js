@@ -1,7 +1,6 @@
 const fs = require('fs')
 const publicKey = process.env.ONE_SKY_PUBLIC_KEY
 const privateKey = process.env.ONE_SKY_PRIVATE_KEY
-const _ = require('underscore')
 
 const onesky = require('onesky')(publicKey, privateKey)
 const sanitizeHtml = require('sanitize-html')
@@ -20,15 +19,14 @@ onesky.string.output({ platformId: '25049' }, function(err, r) {
     console.error(err)
     return
   }
-  const langs = Object.keys(r.translation['en-US.json'])
-  langs.forEach(function(lang) {
-    const data = r.translation['en-US.json'][lang]
-    _.each(
-      data,
-      (value, key) => (data[key] = sanitizeHtml(value, sanitizeOpts))
-    )
-    fs.writeFileSync(`./locales/${lang}.json`, JSON.stringify(data, null, 2))
-  })
+
+  for (const [code, lang] of Object.entries(r.translation['en-US.json'])) {
+    for (const [key, value] of Object.entries(lang)) {
+      lang[key] = sanitizeHtml(value, sanitizeOpts)
+    }
+
+    fs.writeFileSync(`./locales/${code}.json`, JSON.stringify(lang, null, 2))
+  }
 
   fs.createReadStream('./locales/en-GB.json').pipe(
     fs.createWriteStream('./locales/en-US.json')

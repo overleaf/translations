@@ -13,8 +13,7 @@
     "test": "mocha $@ test/unit/js"
   },
   "dependencies": {
-    "i18next": "^1.10.6",
-    "underscore": "^1.6.0"
+    "i18next": "^1.10.6"
   },
   "devDependencies": {
     "chai": "~1.8.1",
@@ -32,8 +31,6 @@
     "mocha": "^7.1.0",
     "onesky": "^0.1.6",
     "prettier-eslint-cli": "^5.0.0",
-    "sandboxed-module": "0.2.0",
-    "sanitize-html": "^1.27.1",
-    "sinon": "~9.0.1"
+    "sanitize-html": "^1.27.1"
   }
 }

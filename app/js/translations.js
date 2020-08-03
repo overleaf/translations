@@ -1,21 +1,11 @@
-// TODO: This file was created by bulk-decaffeinate.
-// Sanity-check the conversion and remove this comment.
-/*
- * decaffeinate suggestions:
- * DS102: Remove unnecessary code created because of implicit returns
- * DS103: Rewrite code to no longer use __guard__
- * DS207: Consider shorter variations of null checks
- * Full docs: https://github.com/decaffeinate/decaffeinate/blob/master/docs/suggestions.md
- */
 const i18n = require('i18next')
-const _ = require('underscore')
 const path = require('path')
 
 module.exports = {
-  setup(options) {
-    const subdomainLang =
-      (options != null ? options.subdomainLang : undefined) || {}
-    const availableLngs = _.pluck(_.values(subdomainLang), 'lngCode')
+  setup(options = {}) {
+    const subdomainLang = options.subdomainLang || {}
+    const availableLngs = Object.values(subdomainLang).map(c => c.lngCode)
+
     i18n.init({
       resGetPath: path.resolve(__dirname, '../../', 'locales/__lng__.json'),
       saveMissing: true,
@@ -25,45 +15,49 @@ module.exports = {
         'locales/missing-__lng__.json'
       ),
       sendMissingTo: 'fallback',
-      fallbackLng: (options != null ? options.defaultLng : undefined) || 'en',
+      fallbackLng: options.defaultLng || 'en',
       detectLngFromHeaders: true,
       useCookie: false,
       preload: availableLngs,
       supportedLngs: availableLngs
     })
-    const setLangBasedOnDomainMiddlewear = function(req, res, next) {
+
+    function setLangBasedOnDomainMiddleware(req, res, next) {
+      // Determine language from subdomain
       const { host } = req.headers
       if (host == null) {
         return next()
       }
-      const parts = host.split(/[.-]/)
-      const subdomain = parts[0]
-      const lang = __guard__(
-        __guard__(
-          options != null ? options.subdomainLang : undefined,
-          x1 => x1[subdomain]
-        ),
-        x => x.lngCode
-      )
-      if (req.originalUrl.indexOf('setLng') === -1 && lang != null) {
+      const [subdomain] = host.split(/[.-]/)
+      const lang = subdomainLang[subdomain]
+        ? subdomainLang[subdomain].lngCode
+        : null
+
+      // Unless setLng query param is set, use subdomain lang
+      if (!req.originalUrl.includes('setLng') && lang != null) {
         req.i18n.setLng(lang)
       }
+
+      // If the set language (req.lng) is different from the language
+      // automatically determined by the i18next middleware (req.language), then
+      // set flag which will show a banner offering to switch to the appropriate
+      // language
       if (req.language !== req.lng) {
         req.showUserOtherLng = req.language
       }
-      return next()
+
+      next()
     }
 
+    const expressMiddleware = i18n.handle
     return {
-      expressMiddlewear: i18n.handle,
-      setLangBasedOnDomainMiddlewear,
-      i18n
+      expressMiddleware,
+      setLangBasedOnDomainMiddleware,
+      i18n,
+
+      // Backwards compatibility with long-standing typo
+      expressMiddlewear: expressMiddleware,
+      setLangBasedOnDomainMiddlewear: setLangBasedOnDomainMiddleware
     }
   }
-}
-
-function __guard__(value, transform) {
-  return typeof value !== 'undefined' && value !== null
-    ? transform(value)
-    : undefined
 }
