@@ -68,11 +68,15 @@ module.exports = {
     const expressMiddleware = function(req, res, next) {
       middleware.handle(i18n)(req, res, (...args) => {
         // Decorate req.i18n with translate function alias for backwards
-        // compatibility
+        // compatibility usage in requests
         req.i18n.translate = req.i18n.t
         next(...args)
       })
     }
+
+    // Decorate i18n with translate function alias for backwards compatibility
+    // directly
+    i18n.translate = i18n.t
 
     return {
       expressMiddleware,
