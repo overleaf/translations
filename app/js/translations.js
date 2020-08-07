@@ -8,37 +8,54 @@ module.exports = {
     const subdomainLang = options.subdomainLang || {}
     const availableLngs = Object.values(subdomainLang).map(c => c.lngCode)
 
-    i18n.use(fsBackend).init({
-      backend: {
-        loadPath: path.join(__dirname, '../../locales/__lng__.json')
-      },
+    i18n
+      .use(fsBackend)
+      .use(middleware.LanguageDetector)
+      .init({
+        backend: {
+          loadPath: path.join(__dirname, '../../locales/__lng__.json')
+        },
 
-      // Load translation files synchronously: https://www.i18next.com/overview/configuration-options#initimmediate
-      initImmediate: false,
+        // Detect language set via setLng query string
+        detection: {
+          order: ['querystring'],
+          lookupQuerystring: 'setLng'
+        },
 
-      // We use the legacy v1 JSON format, so configure interpolator to use
-      // underscores instead of curly braces
-      interpolation: {
-        prefix: '__',
-        suffix: '__',
-        unescapeSuffix: 'HTML',
-        // Disable escaping of interpolated values for backwards compatibility.
-        // We escape the value after it's translated in web, so there's no
-        // security risk
-        escapeValue: false,
-        // Disable nesting in interpolated values, preventing user input
-        // injection via another nested value
-        skipOnVariables: true
-      },
+        // Load translation files synchronously: https://www.i18next.com/overview/configuration-options#initimmediate
+        initImmediate: false,
 
-      preload: availableLngs,
-      supportedLngs: availableLngs,
-      fallbackLng: options.defaultLng || 'en'
+        // We use the legacy v1 JSON format, so configure interpolator to use
+        // underscores instead of curly braces
+        interpolation: {
+          prefix: '__',
+          suffix: '__',
+          unescapeSuffix: 'HTML',
+          // Disable escaping of interpolated values for backwards compatibility.
+          // We escape the value after it's translated in web, so there's no
+          // security risk
+          escapeValue: false,
+          // Disable nesting in interpolated values, preventing user input
+          // injection via another nested value
+          skipOnVariables: true
+        },
+
+        preload: availableLngs,
+        supportedLngs: availableLngs,
+        fallbackLng: options.defaultLng || 'en'
+      })
+
+    // Make custom language detector for Accept-Language header
+    const headerLangDetector = new middleware.LanguageDetector(i18n.services, {
+      order: ['header']
     })
 
-    const langDetector = new middleware.LanguageDetector(i18n.services)
-
     function setLangBasedOnDomainMiddleware(req, res, next) {
+      // setLng query param takes precedence, so if set ignore the subdomain
+      if (req.originalUrl.includes('setLng')) {
+        return next()
+      }
+
       // Determine language from subdomain
       const { host } = req.headers
       if (host == null) {
@@ -49,15 +66,14 @@ module.exports = {
         ? subdomainLang[subdomain].lngCode
         : null
 
-      // Unless setLng query param is set, use subdomain lang
-      if (!req.originalUrl.includes('setLng') && lang != null) {
+      if (lang != null) {
         req.i18n.changeLanguage(lang)
       }
 
       // If the set language is different from the language detection (based on
       // the Accept-Language header), then set flag which will show a banner
       // offering to switch to the appropriate library
-      const detectedLanguage = langDetector.detect(req, res)
+      const detectedLanguage = headerLangDetector.detect(req, res)
       if (req.language !== detectedLanguage) {
         req.showUserOtherLng = detectedLanguage
       }
@@ -75,7 +91,7 @@ module.exports = {
     }
 
     // Decorate i18n with translate function alias for backwards compatibility
-    // directly
+    // in direct usage
     i18n.translate = i18n.t
 
     return {

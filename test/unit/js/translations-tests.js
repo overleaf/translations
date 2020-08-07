@@ -24,6 +24,25 @@ describe('translations', function() {
     }
   })
 
+  describe('query string detection', function() {
+    it('sets the language to french if the setLng query string is fr', function(done) {
+      this.req.originalUrl = 'www.sharelatex.com/login?setLng=fr'
+      this.req.url = 'www.sharelatex.com/login'
+      this.req.query = { setLng: 'fr' }
+      this.req.headers.host = 'www.sharelatex.com'
+      this.translations.expressMiddleware(this.req, this.res, () => {
+        this.translations.setLangBasedOnDomainMiddleware(
+          this.req,
+          this.res,
+          () => {
+            expect(this.req.lng).to.equal('fr')
+            done()
+          }
+        )
+      })
+    })
+  })
+
   describe('setLangBasedOnDomainMiddleware', function() {
     it('should set the lang to french if the domain is fr', function(done) {
       this.req.url = 'fr.sharelatex.com/login'
@@ -43,6 +62,7 @@ describe('translations', function() {
     it('ignores domain if setLng query param is set', function(done) {
       this.req.originalUrl = 'fr.sharelatex.com/login?setLng=en'
       this.req.url = 'fr.sharelatex.com/login'
+      this.req.query = { setLng: 'en' }
       this.req.headers.host = 'fr.sharelatex.com'
       this.translations.expressMiddleware(this.req, this.res, () => {
         this.translations.setLangBasedOnDomainMiddleware(
