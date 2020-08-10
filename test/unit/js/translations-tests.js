@@ -109,5 +109,52 @@ describe('translations', function() {
         })
       })
     })
+
+    describe('interpolation', function() {
+      beforeEach(function(done) {
+        this.req.url = 'www.sharelatex.com/login'
+        this.req.headers.host = 'www.sharelatex.com'
+        this.translations.expressMiddleware(this.req, this.res, () => {
+          this.translations.setLangBasedOnDomainMiddleware(
+            this.req,
+            this.res,
+            done
+          )
+        })
+      })
+
+      it('works', function() {
+        expect(
+          this.req.i18n.t('please_confirm_email', {
+            emailAddress: 'foo@example.com'
+          })
+        ).to.equal(
+          'Please confirm your email foo@example.com by clicking on the link in the confirmation email '
+        )
+      })
+
+      it('handles dashes after interpolation', function() {
+        // This translation string has a problematic interpolation followed by a
+        // dash: `__len__-day`
+        expect(
+          this.req.i18n.t('faq_how_does_free_trial_works_answer', {
+            appName: 'Overleaf',
+            len: '5'
+          })
+        ).to.equal(
+          'You get full access to your chosen Overleaf plan during your 5-day free trial. There is no obligation to continue beyond the trial. Your card will be charged at the end of your 5 day trial unless you cancel before then. You can cancel via your subscription settings.'
+        )
+      })
+
+      it('disables escaping', function() {
+        expect(
+          this.req.i18n.translate('admin_user_created_message', {
+            link: 'http://google.com'
+          })
+        ).to.equal(
+          'Created admin user, <a href="http://google.com">Log in here</a> to continue'
+        )
+      })
+    })
   })
 })
