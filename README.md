@@ -1,7 +1,4 @@
 overleaf/translations
 =======================
 
-holds the translations used for Overleaf.com
-
-
-These files are not to be edited by hand, they will be automated by http://sharelatex.oneskyapp.com/
+**ARCHIVED** These translations are now maintained in https://github.com/overleaf/web.
